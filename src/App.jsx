@@ -135,8 +135,9 @@ export default function App() {
         />
       )}
 
-      <footer className="mt-5 text-center text-xs text-slate-500">
-        Ôn tập GDQP&amp;AN – Học phần I • Xử lý hoàn toàn trên trình duyệt
+      <footer className="mt-5 space-y-1 text-center text-xs text-slate-500">
+        <p>Ôn tập GDQP&amp;AN – Học phần I • Xử lý hoàn toàn trên trình duyệt</p>
+        <p className="font-medium text-slate-600">Creator: Phạm Quốc Bình 26DT_TN</p>
       </footer>
     </div>
   );
