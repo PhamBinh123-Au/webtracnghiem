@@ -88,7 +88,7 @@ export default function StartScreen({ totalQuestions, initialProfile, onStart })
             maxLength={30}
             value={cls}
             onChange={(e) => setCls(e.target.value)}
-            placeholder="Ví dụ: 24T_DT1"
+            placeholder="Ví dụ: 26DT_TN"
             autoComplete="off"
             required
             className="w-full rounded-xl border-2 border-slate-200 bg-white px-3.5 py-3 text-base text-slate-900 outline-none transition focus:border-blue-600 focus:ring-4 focus:ring-blue-600/15 sm:text-lg"
