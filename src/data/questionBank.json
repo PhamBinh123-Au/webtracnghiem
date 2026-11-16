@@ -1,0 +1,1802 @@
+[
+  {
+    "id": 1,
+    "question": "Theo tài liệu, đối tượng nghiên cứu của môn học Giáo dục quốc phòng và an ninh bao gồm những khối nội dung nào sau đây?",
+    "options": [
+      "Luật nghĩa vụ quân sự; lịch sử chiến tranh thế giới; phòng thủ dân sự; công tác dân vận cơ sở",
+      "Triết học Mác - Lênin; kỹ thuật tác chiến hợp đồng; công tác biên phòng; an ninh kinh tế đối ngoại",
+      "Lịch sử Đảng Cộng sản; kinh tế chính trị; công tác quân sự địa phương; điều lệnh quản lý bộ đội",
+      "Đường lối QP&AN của Đảng; công tác QP&AN; quân sự chung; kỹ thuật chiến đấu bộ binh và chiến thuật"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Tài liệu xác định đối tượng nghiên cứu của môn học gồm 4 phần tương ứng với 4 học phần: đường lối QP&AN của ĐCSVN; công tác QP&AN; quân sự chung; kỹ thuật chiến đấu bộ binh và chiến thuật. Các phương án nhiễu ghép nhầm tên môn lý luận chính trị hoặc các nội dung hẹp không phải cấu trúc 4 đối tượng của môn học. (Dẫn chiếu: Mục 1.2, tr. 2)"
+  },
+  {
+    "id": 2,
+    "question": "So với nhận thức thông thường chỉ bảo vệ lãnh thổ, nhiệm vụ bảo vệ Tổ quốc trong giai đoạn hiện nay được tài liệu nhấn mạnh bổ sung nội dung nào?",
+    "options": [
+      "Không chỉ bảo vệ toàn vẹn lãnh thổ, vùng trời, biển đảo mà còn bảo vệ Đảng, chế độ và nền văn hóa dân tộc",
+      "Chỉ tập trung bảo vệ đường biên giới trên bộ, vùng trời và các hải đảo trọng điểm",
+      "Ưu tiên bảo vệ các khu kinh tế trọng điểm trước rồi mới củng cố địa bàn vùng sâu, vùng xa",
+      "Chủ yếu bảo vệ chủ quyền trên không gian mạng và chống cạnh tranh thương mại quốc tế"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Trang 3 nêu rõ nhiệm vụ bảo vệ Tổ quốc hiện nay không chỉ bảo vệ toàn vẹn lãnh thổ, vùng trời, vùng biển, hải đảo mà còn phải bảo vệ Đảng, bảo vệ chế độ, bảo vệ nền văn hóa của dân tộc. (Dẫn chiếu: Mục 1.2.1, tr. 3)"
+  },
+  {
+    "id": 3,
+    "question": "Theo mục 1.2.2, nghiên cứu về công tác quốc phòng, an ninh thực chất là nghiên cứu nội dung cốt lõi nào sau đây?",
+    "options": [
+      "Lịch sử các cuộc chiến tranh giải phóng dân tộc và truyền thống đánh giặc của tổ tiên",
+      "Nguyên lý cấu tạo vũ khí công nghệ cao và nghệ thuật tác chiến hiệp đồng quân binh chủng",
+      "Kỹ năng sử dụng súng tiểu liên AK, ném lựu đạn bài 1 và điều lệnh đội ngũ đơn vị",
+      "Hệ thống văn bản quy phạm pháp luật của Nhà nước về bảo vệ Tổ quốc, giữ gìn TTATXH và an ninh chính trị"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Nhà nước quy định nhiệm vụ QP, QS, AN cho các bộ, ngành, địa phương và đơn vị cơ sở bằng pháp luật, nên nghiên cứu công tác QP&AN thực chất là nghiên cứu hệ thống văn bản quy phạm pháp luật của Nhà nước về bảo vệ Tổ quốc, giữ gìn TTATXH và an ninh chính trị. (Dẫn chiếu: Mục 1.2.2, tr. 3)"
+  },
+  {
+    "id": 4,
+    "question": "Kiến thức về quân sự trong môn học Giáo dục quốc phòng và an ninh có tính chất và khả năng ứng dụng như thế nào đối với sinh viên?",
+    "options": [
+      "Là kiến thức phổ thông, giúp sinh viên thành thạo thao tác cơ bản và ứng dụng khi tham gia dân quân, tự vệ",
+      "Chỉ mang tính lý thuyết tham khảo, không gắn với thực hành thao trường hay nhiệm vụ thực tế",
+      "Là kiến thức chuyên sâu cấp chiến dịch để sinh viên trực tiếp chỉ huy các đơn vị bộ đội chủ lực",
+      "Chỉ dành riêng cho sinh viên nam chuẩn bị nhập ngũ sau khi tốt nghiệp đại học, cao đẳng"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Trang 4 nêu: kiến thức quân sự trong môn học là kiến thức phổ thông; sinh viên thực hành sát thực tế, thành thạo thao tác kỹ - chiến thuật và có thể ứng dụng khi tham gia dân quân, tự vệ theo quy định pháp luật. (Dẫn chiếu: Mục 1.2.4, tr. 4)"
+  },
+  {
+    "id": 5,
+    "question": "Cơ sở phương pháp luận chung nhất của việc nghiên cứu môn học Giáo dục quốc phòng và an ninh là gì?",
+    "options": [
+      "Học thuyết Mác - Lênin và tư tưởng Hồ Chí Minh về chiến tranh, quân đội, bảo vệ Tổ quốc",
+      "Hệ thống các công ước quốc tế về luật chiến tranh và luật nhân đạo hiện đại",
+      "Học thuyết quân sự cổ đại phương Đông kết hợp kinh nghiệm tác chiến phương Tây",
+      "Tâm lý học quân sự hiện đại và khoa học quản lý hành chính công quốc gia"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Phương pháp luận chung nhất là học thuyết Mác - Lênin, tư tưởng Hồ Chí Minh — nền tảng thế giới quan và nhận thức luận cho việc nghiên cứu, vận dụng đường lối quân sự của Đảng. (Dẫn chiếu: Mục 1.3.1, tr. 4)"
+  },
+  {
+    "id": 6,
+    "question": "Khi vận dụng cơ sở phương pháp luận vào nghiên cứu Giáo dục quốc phòng và an ninh, 'quan điểm lịch sử, logic' đòi hỏi điều gì?",
+    "options": [
+      "Chỉ tập trung thực hành ngoài bãi tập mà không cần đối chiếu các văn bản quy phạm pháp luật",
+      "Nghiên cứu các nội dung một cách toàn diện trong mối liên hệ với các môn học khác",
+      "Ưu tiên giải quyết các tình huống giả định hiện đại mà tách rời truyền thống đánh giặc trước đây",
+      "Xem xét sự phát triển của đối tượng theo thời gian, không gian lịch sử cụ thể để khái quát quy luật"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Quan điểm lịch sử, logic yêu cầu đặt đối tượng trong sự vận động theo thời gian, không gian với điều kiện lịch sử cụ thể nhằm phát hiện, khái quát và nhận thức đúng quy luật, nguyên tắc hoạt động QP&AN. Phương án về mối liên hệ toàn diện giữa các môn học là nội dung của quan điểm hệ thống. (Dẫn chiếu: Mục 1.3.1, tr. 5)"
+  },
+  {
+    "id": 7,
+    "question": "Các phương pháp nào sau đây thuộc nhóm 'phương pháp nghiên cứu thực tiễn' trong môn học Giáo dục quốc phòng và an ninh?",
+    "options": [
+      "Phân tích, tổng hợp, phân loại, hệ thống hóa, mô hình hóa và giả thuyết",
+      "Suy diễn, quy nạp, trừu tượng hóa khoa học và xây dựng mô hình lý luận",
+      "Quan sát, điều tra, khảo sát thực tế, tổng kết kinh nghiệm, thí nghiệm, thực nghiệm, diễn tập",
+      "So sánh hệ thống văn bản quy phạm pháp luật và tổng quan tài liệu lưu trữ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Trang 5 phân biệt rõ: phương pháp nghiên cứu lý thuyết gồm phân tích, tổng hợp, phân loại, hệ thống hóa, mô hình hóa, giả thuyết...; còn phương pháp nghiên cứu thực tiễn gồm quan sát, điều tra, khảo sát thực tế, nghiên cứu sản phẩm QP-AN, tổng kết kinh nghiệm, thí nghiệm, thực nghiệm, diễn tập... (Dẫn chiếu: Mục 1.3.2, tr. 5)"
+  },
+  {
+    "id": 8,
+    "question": "Theo Luật Giáo dục quốc phòng và an ninh năm 2013 (trích trong tài liệu), môn học Giáo dục quốc phòng và an ninh có tính chất pháp lý như thế nào?",
+    "options": [
+      "Là hoạt động ngoại khóa tự nguyện do Đoàn Thanh niên các trường đại học tổ chức",
+      "Là môn học tự chọn theo định hướng nghề nghiệp của từng khoa chuyên ngành",
+      "Là môn học được luật định, thuộc nhóm môn học chung và thực hiện thống nhất toàn quốc",
+      "Là học phần chuyên ngành chỉ bắt buộc đối với sinh viên khối kỹ thuật và sư phạm"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Trang 6–7 khẳng định: đây là môn học được luật định, thuộc nhóm các môn học chung; chương trình do Bộ GD&ĐT ban hành và thực hiện thống nhất trên toàn quốc. (Dẫn chiếu: Mục 1.4.1, tr. 6–7)"
+  },
+  {
+    "id": 9,
+    "question": "Theo Thông tư số 05/2020/TT-BGDĐT (18/3/2020), chương trình môn học Giáo dục quốc phòng và an ninh trình độ đại học, cao đẳng có tổng thời lượng và cấu trúc như thế nào?",
+    "options": [
+      "Gồm 03 học phần với 06 tín chỉ, tổng cộng 120 tiết (chưa tính kiểm tra, thi, tham quan)",
+      "Gồm 05 học phần với 10 tín chỉ, tổng cộng 180 tiết đã bao gồm thời gian thi kết thúc",
+      "Gồm 04 học phần với 08 tín chỉ, tổng cộng 165 tiết (chưa tính kiểm tra, thi, tham quan)",
+      "Gồm 04 học phần với 08 tín chỉ, trong đó Học phần I chiếm 30 tiết và Học phần IV chiếm 45 tiết"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Chương trình gồm 4 học phần, tổng 8 tín chỉ: HP1 (45 tiết - 3 TC), HP2 (30 tiết - 2 TC), HP3 (30 tiết - 1 TC), HP4 (60 tiết - 2 TC); tổng 45+30+30+60 = 165 tiết, không bao gồm thời gian kiểm tra, thi và tham quan. (Dẫn chiếu: Mục 1.4.2, Bảng 1.1–1.4, tr. 7–11)"
+  },
+  {
+    "id": 10,
+    "question": "Theo Quyết định số 3383/QĐ-ĐHĐN (29/8/2025), trường hợp nào sau đây sinh viên được MIỄN HỌC toàn bộ môn học Giáo dục quốc phòng và an ninh?",
+    "options": [
+      "Sinh viên là người khuyết tật và có giấy xác nhận khuyết tật theo quy định pháp luật",
+      "Sinh viên nữ đang mang thai hoặc đang trong thời gian nghỉ chế độ thai sản theo quy định",
+      "Sinh viên đã hoàn thành nghĩa vụ quân sự hoặc đã hoàn thành nghĩa vụ công an nhân dân",
+      "Sinh viên là người nước ngoài hoặc đã có chứng chỉ GDQPAN tương ứng trình độ đào tạo"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Trang 12 phân biệt 3 diện: sinh viên khuyết tật và người đã hoàn thành NVQS/CAND chỉ được miễn học các nội dung THỰC HÀNH kỹ năng quân sự; nữ mang thai hoặc nghỉ thai sản được TẠM HOÃN học môn học; còn người nước ngoài, người đã có chứng chỉ GDQPAN tương ứng hoặc có giấy chứng nhận sĩ quan dự bị / bằng tốt nghiệp trường quân đội, công an được MIỄN HỌC toàn bộ môn học. (Dẫn chiếu: Mục 1.4.4, điểm 1a, 1c, 1d, tr. 12)"
+  },
+  {
+    "id": 11,
+    "question": "Theo Quyết định số 3383/QĐ-ĐHĐN, công thức tính điểm học phần và điều kiện để điểm một học phần được tính vào điểm trung bình chung (ĐTB) môn học là gì?",
+    "options": [
+      "Điểm HP = 10% chuyên cần + 30% đánh giá bộ phận + 60% thi kết thúc; tính vào ĐTB nếu đạt từ 5,0 trở lên",
+      "Điểm HP = 20% chuyên cần + 30% đánh giá bộ phận + 50% thi kết thúc; tính vào ĐTB nếu đạt từ 4,0 trở lên",
+      "Điểm HP = 15% chuyên cần + 30% đánh giá bộ phận + 55% thi kết thúc; tính vào ĐTB nếu đạt từ 4,0 trở lên",
+      "Điểm HP = 15% chuyên cần + 35% đánh giá bộ phận + 50% thi kết thúc; tính vào ĐTB với mọi mức điểm từ 0 đến 10"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Trang 13 quy định: Điểm HP = Điểm chuyên cần × 15% + điểm đánh giá bộ phận × 30% + điểm thi kết thúc HP × 55% (làm tròn 1 chữ số thập phân), và điểm từng học phần chỉ được tính vào ĐTB chung môn học nếu đạt từ 4,0 điểm trở lên. (Dẫn chiếu: Mục 1.4.4, điểm 4a, tr. 13)"
+  },
+  {
+    "id": 12,
+    "question": "Một sinh viên đạt điểm HP1 = 6,0; HP2 = 7,0; HP3 = 8,0; HP4 = 6,5 (không bị truy cứu trách nhiệm hình sự). Theo QĐ 3383/QĐ-ĐHĐN, ĐTB môn học và kết quả xếp loại của sinh viên này là bao nhiêu?",
+    "options": [
+      "ĐTB = 6,625 — Xếp loại Khá, nhưng phải học lại Học phần 1 để nâng điểm",
+      "ĐTB = 6,875 — Xếp loại Khá, đủ điều kiện xét cấp chứng chỉ GDQPAN",
+      "ĐTB = 6,875 — Xếp loại Trung bình, chưa đủ điều kiện xét cấp chứng chỉ",
+      "ĐTB = 6,625 — Xếp loại Trung bình, đủ điều kiện xét cấp chứng chỉ GDQPAN"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Áp dụng công thức ĐTB = (HP1×3 + HP2×2 + HP3×1 + HP4×2) / 8 = (6,0×3 + 7,0×2 + 8,0×1 + 6,5×2)/8 = 53/8 = 6,625. Từ 5 đến cận 7 xếp loại Trung bình và thỏa điều kiện ĐTB ≥ 5,0 để được cấp chứng chỉ (khi không bị truy cứu TNHS). (Dẫn chiếu: Mục 1.4.4, điểm 1 & 4b, 4c, tr. 12–13)"
+  },
+  {
+    "id": 13,
+    "question": "Khi bàn về khái niệm chiến tranh, đóng góp và hạn chế của nhà lý luận quân sự C.Ph.Claudơvít so với quan điểm của chủ nghĩa Mác - Lênin là gì?",
+    "options": [
+      "Ông chỉ ra đặc trưng cơ bản là sử dụng bạo lực, nhưng chưa luận giải được bản chất hành vi bạo lực ấy",
+      "Ông đồng nhất chiến tranh với mọi cuộc xung đột sinh tồn tự phát trong xã hội nguyên thủy",
+      "Ông đã phát hiện nguồn gốc kinh tế của chiến tranh là chế độ tư hữu nhưng tách rời chính trị",
+      "Ông phủ nhận vai trò bạo lực trong chiến tranh nhưng đã luận giải sâu sắc bản chất giai cấp"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Trang 15 nêu: C.Ph.Claudơvít quan niệm chiến tranh là hành vi bạo lực dùng để buộc đối phương phục tùng ý chí của mình; ông chỉ ra được đặc trưng sử dụng bạo lực nhưng chưa luận giải được bản chất của hành vi bạo lực ấy. (Dẫn chiếu: Mục 2.2.1.1a, tr. 15)"
+  },
+  {
+    "id": 14,
+    "question": "Theo chủ nghĩa Mác - Lênin, nguồn gốc SÂU XA (kinh tế) và nguồn gốc TRỰC TIẾP (xã hội) nảy sinh ra chiến tranh lần lượt là gì?",
+    "options": [
+      "Sự khan hiếm tài nguyên thiên nhiên và xung đột tín ngưỡng giữa các bộ lạc",
+      "Tham vọng quyền lực của thủ lĩnh quân sự và sự phát triển của vũ khí công nghệ cao",
+      "Chế độ chiếm hữu tư nhân về tư liệu sản xuất và sự xuất hiện, tồn tại của giai cấp, đối kháng giai cấp",
+      "Sự hình thành quân đội thường trực và mâu thuẫn lãnh thổ giữa các quốc gia phong kiến"
+    ],
+    "correctAnswer": 2,
+    "explanation": "C.Mác và Ph.Ăngghen luận giải: chế độ chiếm hữu tư nhân về tư liệu sản xuất là nguồn gốc sâu xa (nguồn gốc kinh tế), còn sự xuất hiện và tồn tại của giai cấp và đối kháng giai cấp là nguồn gốc trực tiếp (nguồn gốc xã hội) dẫn đến chiến tranh. (Dẫn chiếu: Mục 2.2.1.1b, tr. 16)"
+  },
+  {
+    "id": 15,
+    "question": "Vì sao Ph.Ăngghen khẳng định các cuộc xung đột vũ trang trong chế độ cộng sản nguyên thủy chưa phải là 'chiến tranh' mà chỉ là một dạng 'lao động thời cổ'?",
+    "options": [
+      "Quy mô dân số thời nguyên thủy còn ít nên chưa phân công được giữa hậu phương và tiền tuyến",
+      "Chưa có tư hữu, chưa có giai cấp đối kháng và 'dư thừa tương đối'; chỉ giành điều kiện tự nhiên",
+      "Các bộ lạc thời đó chưa chế tạo được vũ khí bằng kim loại có sức sát thương lớn trên chiến trường",
+      "Các cuộc xung đột thời nguyên thủy hoàn toàn không có tính chất vũ trang hay gây thương vong"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Trong tác phẩm 'Nguồn gốc của gia đình, của chế độ tư hữu và của nhà nước', Ph.Ăngghen chỉ rõ xã hội CSNT không có giai cấp, không có tư hữu, không có 'dư thừa tương đối' để chiếm đoạt lao động người khác; xung đột chỉ ngẫu nhiên tự phát để giành nguồn nước, bãi cỏ, vùng săn bắn... (Dẫn chiếu: Mục 2.2.1.1b, tr. 16)"
+  },
+  {
+    "id": 16,
+    "question": "Theo luận điểm của V.I.Lênin về bản chất chiến tranh ('Chiến tranh là sự tiếp tục của chính trị bằng những biện pháp khác'), quan hệ giữa chính trị và chiến tranh được hiểu đúng như thế nào?",
+    "options": [
+      "Trong thời đại vũ khí công nghệ cao ngày nay, bản chất chiến tranh đã tách rời mục tiêu chính trị",
+      "Khi chiến tranh nổ ra thì chính trị bị gián đoạn hoàn toàn để nhường chỗ cho quy luật quân sự",
+      "Chính trị chi phối, quyết định tiến trình và kết cục chiến tranh; chiến tranh cũng tác động trở lại chính trị theo hai hướng",
+      "Chiến tranh quyết định toàn bộ mục tiêu chính trị và đường lối đối nội phụ thuộc đối ngoại"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Trang 17 nêu rõ: chiến tranh không làm gián đoạn chính trị; chính trị (với đối ngoại phụ thuộc đối nội) chi phối, quy định mục tiêu, kiểm tra quá trình tác chiến; ngược lại chiến tranh tác động trở lại chính trị theo hai hướng tích cực hoặc tiêu cực, kiểm tra sức sống chế độ chính trị - xã hội. (Dẫn chiếu: Mục 2.2.1.1c, tr. 17)"
+  },
+  {
+    "id": 17,
+    "question": "Trong Tư tưởng Hồ Chí Minh, hình ảnh 'con đỉa hai vòi' được Người sử dụng nhằm khái quát và vạch trần bản chất nào?",
+    "options": [
+      "Thủ đoạn gọng kìm kết hợp tiến công đường không và tiến công đường bộ của quân xâm lược",
+      "Hai mặt của chiến lược 'diễn biến hòa bình' kết hợp với bạo loạn lật đổ từ bên trong",
+      "Sự câu kết giữa phần tử phản động trong nước với tội phạm xuyên quốc gia",
+      "Bản chất chủ nghĩa đế quốc: một vòi hút máu nhân dân chính quốc, một vòi hút máu nhân dân thuộc địa"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Trang 18 nêu: khi nói về bản chất chủ nghĩa đế quốc, Hồ Chí Minh khái quát bằng hình ảnh 'con đỉa hai vòi': một vòi hút máu nhân dân lao động chính quốc, một vòi hút máu nhân dân lao động thuộc địa. (Dẫn chiếu: Mục 2.2.1.2a, tr. 18)"
+  },
+  {
+    "id": 18,
+    "question": "Khi phân tích quy luật 'mạnh được yếu thua', Chủ tịch Hồ Chí Minh chỉ ra yếu tố cốt lõi nào giúp ta từ yếu thế ban đầu tất yếu giành thắng lợi trước Pháp và Mỹ?",
+    "options": [
+      "Sức mạnh chiến tranh là sức mạnh tổng hợp và tương quan lực lượng có sự chuyển hóa nhờ tính chính nghĩa",
+      "Kẻ thù chỉ mạnh về tiềm lực kinh tế nhưng hoàn toàn yếu kém về tổ chức quân sự và vũ khí trang bị",
+      "Ta hoàn toàn dựa vào nguồn viện trợ vũ khí hiện đại từ bên ngoài để vượt trội kẻ thù ngay từ đầu",
+      "Ta chủ trương tránh đấu tranh vũ trang, chỉ dùng đấu tranh ngoại giao để buộc địch tự rút quân"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Trang 18–19 giải thích: sức mạnh trong chiến tranh là sức mạnh tổng hợp chứ không chỉ một vài yếu tố; địch tuy giàu tiền của, nhiều súng ống nhưng phi nghĩa, bị phản đối, sa lầy nên dần yếu đi; ta tiến hành chiến tranh nhân dân chính nghĩa nên chuyển hóa lực lượng thành mạnh ('Nay tuy châu chấu đá voi / Nhưng mai voi sẽ bị lòi ruột ra'). (Dẫn chiếu: Mục 2.2.1.2a, tr. 18–19)"
+  },
+  {
+    "id": 19,
+    "question": "Theo Tư tưởng Hồ Chí Minh, 'bạo lực cách mạng' trong chiến tranh giải phóng dân tộc ở Việt Nam được tạo thành từ những yếu tố nào?",
+    "options": [
+      "Chủ yếu dựa vào đấu tranh nghị trường và thương lượng hòa bình để đòi lại độc lập từ thực dân",
+      "Chỉ phát huy ở vùng nông thôn, rừng núi mà không cần kết hợp phong trào đấu tranh ở đô thị",
+      "Sức mạnh toàn dân bằng cả lực lượng chính trị và LLVT, kết hợp chặt chẽ đấu tranh chính trị và vũ trang",
+      "Chỉ dựa vào sức mạnh của lực lượng vũ trang chính quy và hoạt động tác chiến trên chiến trường"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Trang 19 khẳng định: bạo lực cách mạng theo TTHCM được tạo bởi sức mạnh của toàn dân, bằng cả lực lượng chính trị và lực lượng vũ trang, kết hợp chặt chẽ giữa đấu tranh chính trị và đấu tranh vũ trang. (Dẫn chiếu: Mục 2.2.1.2b, tr. 19)"
+  },
+  {
+    "id": 20,
+    "question": "Theo quan điểm của chủ nghĩa Mác - Lênin, nhận định nào sau đây phản ánh ĐÚNG bản chất giai cấp của quân đội?",
+    "options": [
+      "Bản chất quân đội phụ thuộc bản chất giai cấp của nhà nước tổ chức ra nó, tương đối ổn định nhưng không bất biến",
+      "Quân đội là công cụ bạo lực của toàn xã hội, đứng trên các giai cấp và hoàn toàn trung lập về chính trị",
+      "Bản chất giai cấp của quân đội tự phát hình thành từ thành phần xuất thân binh sĩ chứ không cần giáo dục",
+      "Quân đội tồn tại vĩnh viễn cùng loài người dù giai cấp và nhà nước có tiêu vong hay không"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Trang 21 nêu rõ: bản chất quân đội phụ thuộc vào bản chất giai cấp của nhà nước đã tổ chức, nuôi dưỡng nó; không tự phát hình thành mà phải xây dựng lâu dài, tương đối ổn định nhưng không bất biến (có thể tăng cường hoặc phai nhạt, biến chất). Luận điểm quân đội đứng ngoài chính trị là luận điệu 'phi chính trị hóa' của học giả tư sản. (Dẫn chiếu: Mục 2.2.2.1b, 2.2.2.1c, tr. 21–22)"
+  },
+  {
+    "id": 21,
+    "question": "Theo V.I.Lênin, trong các yếu tố cấu thành sức mạnh chiến đấu của quân đội, yếu tố nào giữ vai trò quyết định trong những điều kiện xác định?",
+    "options": [
+      "Số lượng và chất lượng vũ khí trang bị kỹ thuật",
+      "Yếu tố quân số và cơ cấu tổ chức biên chế",
+      "Yếu tố chính trị - tinh thần của quân đội",
+      "Trình độ thể lực và điều kiện bảo đảm hậu cần"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Trang 22 trích khẳng định của V.I.Lênin: 'Trong mọi cuộc chiến tranh rốt cuộc thắng lợi đều tùy thuộc vào tinh thần của quần chúng đang đổ máu trên chiến trường'. Các yếu tố có quan hệ biện chứng nhưng vị trí không ngang bằng nhau, trong đó yếu tố chính trị - tinh thần giữ vai trò quyết định. (Dẫn chiếu: Mục 2.2.2.1d, tr. 22)"
+  },
+  {
+    "id": 22,
+    "question": "Trong những nguyên tắc cơ bản xây dựng quân đội kiểu mới của V.I.Lênin, nguyên tắc nào được xác định là quan trọng nhất?",
+    "options": [
+      "Không ngừng hoàn thiện cơ cấu tổ chức và sẵn sàng chiến đấu",
+      "Đoàn kết thống nhất nội bộ và tăng cường huấn luyện kỹ thuật",
+      "Sự lãnh đạo của Đảng Cộng sản đối với quân đội kiểu mới",
+      "Xây dựng chính quy và phát triển hài hòa các quân chủng, binh chủng"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Trang 23 khẳng định: trong các nguyên tắc xây dựng Hồng quân, sự lãnh đạo của Đảng Cộng sản là nguyên tắc quan trọng nhất, quyết định đến sức mạnh, sự tồn tại, phát triển, chiến đấu và chiến thắng của quân đội. (Dẫn chiếu: Mục 2.2.2.1đ, tr. 22–23)"
+  },
+  {
+    "id": 23,
+    "question": "Quân đội nhân dân Việt Nam (tiền thân là Đội Việt Nam tuyên truyền giải phóng quân thành lập ngày 22/12/1944) mang bản chất và tính chất gì theo Tư tưởng Hồ Chí Minh?",
+    "options": [
+      "Chỉ mang tính dân tộc truyền thống, không gắn với lập trường giai cấp công nhân",
+      "Là lực lượng vũ trang phi giai cấp, tách rời sự lãnh đạo của Đảng Cộng sản Việt Nam",
+      "Mang bản chất giai cấp nông dân thuần túy do đại bộ phận chiến sĩ xuất thân từ nông thôn",
+      "Mang bản chất cách mạng của giai cấp công nhân, đồng thời có tính nhân dân và tính dân tộc sâu sắc"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Trang 23–25 giải thích: dù đại bộ phận chiến sĩ xuất thân từ nông dân nhưng họ được Đảng và Bác Hồ giáo dục, chuyển lập trường sang lập trường giai cấp công nhân. Bản chất giai cấp công nhân và tính nhân dân, tính dân tộc là một thể thống nhất. (Dẫn chiếu: Mục 2.2.2.2a–c, tr. 23–25)"
+  },
+  {
+    "id": 24,
+    "question": "Theo Tư tưởng Hồ Chí Minh và Luật Quốc phòng năm 2018 (Khoản 2 Điều 25), ba chức năng cơ bản của Quân đội nhân dân Việt Nam là gì?",
+    "options": [
+      "Đội quân chính quy, đội quân du kích địa phương, đội quân giữ gìn hòa bình",
+      "Đội quân chiến đấu, đội quân công tác, đội quân lao động sản xuất",
+      "Đội quân chiến đấu, đội quân ngoại giao, đội quân phòng thủ dân sự",
+      "Đội quân thường trực, đội quân dự bị động viên, đội quân dân quân tự vệ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Trang 26 nêu rõ quân đội ta là quân đội cách mạng với 3 chức năng cơ bản: đội quân chiến đấu, đội quân công tác, đội quân sản xuất (và trong Khoản 2 Điều 25 Luật QP 2018 còn cụ thể hóa thêm nhiệm vụ thực hiện nghĩa vụ quốc tế). (Dẫn chiếu: Mục 2.2.2.2đ, tr. 26)"
+  },
+  {
+    "id": 25,
+    "question": "Trong học thuyết bảo vệ Tổ quốc xã hội chủ nghĩa của V.I.Lênin, vì sao bảo vệ Tổ quốc xã hội chủ nghĩa là một tất yếu khách quan?",
+    "options": [
+      "Do trong thời kỳ quá độ không còn mâu thuẫn giai cấp nhưng vẫn còn xung đột bộ lạc như thời cổ đại",
+      "Do giai cấp tư sản sau khi bị đánh đổ hoàn toàn từ bỏ ý định khôi phục lại địa vị thống trị đã mất",
+      "Do quy luật xây dựng CNXH đi đôi bảo vệ Tổ quốc, phát triển không đều của CNĐQ và âm mưu lật đổ của kẻ thù",
+      "Do chủ nghĩa xã hội tất yếu phải tiến hành chiến tranh xâm lược để mở rộng lãnh thổ sang các nước tư bản"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Trang 28–29 chỉ ra 4 căn cứ làm nên tính tất yếu khách quan: yêu cầu bảo vệ thành quả cách mạng; quy luật xây dựng CNXH đi đôi với bảo vệ Tổ quốc XHCN; quy luật phát triển không đều của CNĐQ làm CNXH thắng lợi không đồng thời; bản chất, âm mưu lật đổ của kẻ thù trong và ngoài nước. (Dẫn chiếu: Mục 2.2.3.1a, tr. 28–29)"
+  },
+  {
+    "id": 26,
+    "question": "Biện pháp tổ chức nào của V.I.Lênin đã bảo đảm sự lãnh đạo trực tiếp của Đảng Cộng sản đối với Hồng quân trong sự nghiệp bảo vệ Tổ quốc XHCN?",
+    "options": [
+      "Tách rời công tác đảng, công tác chính trị khỏi hoạt động huấn luyện và tác chiến trên chiến trường",
+      "Chuyển toàn bộ lực lượng vũ trang thường trực thành lực lượng cảnh sát hành chính tại các địa phương",
+      "Giao toàn quyền quyết định chính trị và quân sự cho một chỉ huy quân sự duy nhất không cần tổ chức Đảng",
+      "Thực hiện chế độ chính ủy, đưa đại biểu ưu tú của công nông làm cán bộ chính trị đại diện cho Đảng"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Trang 30 nêu: trong quân đội, chế độ chính ủy được thực hiện, cán bộ chính trị được lấy từ đại biểu ưu tú của công nông, thực chất là đại diện của Đảng để thực hiện sự lãnh đạo của Đảng trong quân đội — nguyên tắc cao nhất, nguồn gốc sức mạnh vững chắc bảo vệ Tổ quốc XHCN. (Dẫn chiếu: Mục 2.2.3.1d, tr. 30)"
+  },
+  {
+    "id": 27,
+    "question": "Theo tài liệu cập nhật Văn kiện Đại hội XIV của Đảng, mục tiêu bảo vệ Tổ quốc đã được bổ sung những điểm mới nổi bật nào sau đây?",
+    "options": [
+      "Chuyển trọng tâm từ bảo vệ chế độ xã hội chủ nghĩa sang chỉ bảo vệ tăng trưởng thương mại quốc tế thuần túy",
+      "Ưu tiên mở rộng liên minh quân sự đa phương với các cường quốc để thay thế lực lượng phòng thủ trong nước",
+      "Đặt cao nhất lợi ích quốc gia - dân tộc lên trên hết; bổ sung an ninh con người, kinh tế, mạng và phòng ngừa từ bên trong",
+      "Chỉ tập trung bảo vệ chủ quyền biên giới trên bộ và thu hẹp phạm vi đối phó an ninh phi truyền thống"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Trang 32 nêu rõ Đại hội XIV kế thừa, phát triển các kỳ đại hội trước và bổ sung mục tiêu 'Bảo đảm cao nhất lợi ích quốc gia - dân tộc' lên trên hết, trước hết; 'bảo vệ uy tín, vị thế quốc tế của đất nước', 'bảo vệ an ninh con người', 'an ninh kinh tế, an ninh mạng'; 'tăng cường QPTD, phòng thủ chủ động; ngăn ngừa, đẩy lùi từ sớm các nhân tố gây mất ổn định chính trị từ bên trong'. (Dẫn chiếu: Mục 2.2.3.2d, tr. 32)"
+  },
+  {
+    "id": 28,
+    "question": "Theo Khoản 1 Điều 2 Luật Quốc phòng năm 2018 được trích dẫn trong tài liệu, khái niệm 'Quốc phòng' được định nghĩa là gì?",
+    "options": [
+      "Công cuộc giữ nước bằng sức mạnh tổng hợp của toàn dân tộc, sức mạnh quân sự là đặc trưng, LLVTND làm nòng cốt",
+      "Trạng thái bình yên của xã hội, của nhà nước và sự ổn định vững chắc của chế độ chính trị - xã hội",
+      "Hoạt động tác chiến thuần túy của lực lượng bộ đội chủ lực tại các vùng biên giới và hải đảo",
+      "Hoạt động đối ngoại quốc phòng nhằm thiết lập các căn cứ quân sự chung với các nước đối tác"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Khoản 1 Điều 2 Luật Quốc phòng 2018 định nghĩa: Quốc phòng là công cuộc giữ nước bằng sức mạnh tổng hợp của toàn dân tộc, trong đó sức mạnh quân sự là đặc trưng, lực lượng vũ trang nhân dân làm nòng cốt. Trạng thái bình yên của xã hội và nhà nước là khái niệm 'An ninh'. (Dẫn chiếu: Mục 3.2.1.1a, tr. 34)"
+  },
+  {
+    "id": 29,
+    "question": "Điểm giống và khác nhau cơ bản giữa 'Nền quốc phòng toàn dân' (Điều 7 Luật QP 2018) và 'Nền an ninh nhân dân' (Điều 3 Luật ANQG 2004) là gì?",
+    "options": [
+      "Nền ANND chỉ xây dựng trong thời chiến, còn Nền QPTD chỉ xây dựng trong thời bình",
+      "Nền QPTD chỉ do Quân đội thực hiện, còn Nền ANND chỉ do lực lượng Công an thực hiện",
+      "Đều nhằm mục đích tự vệ chống thù trong giặc ngoài, chỉ khác về phương thức tổ chức lực lượng và hoạt động cụ thể",
+      "Nền QPTD chống giặc ngoài, còn Nền ANND chỉ giải quyết tranh chấp dân sự trong thời bình"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Mục 3.2.1.2đ (tr. 39) nêu rõ: Cả hai nền đều được xây dựng nhằm mục đích tự vệ, đều phải chống thù trong, giặc ngoài để bảo vệ Tổ quốc XHCN; giữa chúng chỉ khác nhau về phương thức tổ chức lực lượng, hoạt động cụ thể theo mục tiêu được phân công. (Dẫn chiếu: Mục 3.2.1.1a, 3.2.1.2đ, tr. 35, 39)"
+  },
+  {
+    "id": 30,
+    "question": "Theo tài liệu (tr. 36), trong Chiến lược quốc phòng Việt Nam giai đoạn hiện nay, yếu tố nào quyết định, yếu tố nào then chốt và lực lượng nào làm nòng cốt sức mạnh quân sự?",
+    "options": [
+      "Địa hình tự nhiên quyết định; khu vực phòng thủ là then chốt; lực lượng công an xã làm nòng cốt",
+      "Vũ khí công nghệ cao quyết định; kinh tế đối ngoại là then chốt; lực lượng dự bị động viên làm nòng cốt",
+      "Đường lối chính trị đúng đắn quyết định; sức mạnh quốc phòng là then chốt; Quân đội nhân dân làm nòng cốt",
+      "Tiềm lực tài chính quyết định; ngoại giao là then chốt; dân quân tự vệ làm nòng cốt"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Trang 36 nêu chính xác: Chiến lược quốc phòng Việt Nam dựa trên nền tảng đường lối chính trị đúng đắn là nhân tố quyết định, sức mạnh quốc phòng là then chốt, sức mạnh quân sự là đặc trưng, trực tiếp là sức mạnh chiến đấu của LLVT, nòng cốt là Quân đội nhân dân. (Dẫn chiếu: Mục 3.2.1.1b, tr. 36)"
+  },
+  {
+    "id": 31,
+    "question": "Chính sách quốc phòng mang tính hòa bình và tự vệ của Việt Nam (trích Sách trắng Quốc phòng 2019 trong tài liệu) thể hiện nguyên tắc nhất quán nào?",
+    "options": [
+      "Tham gia liên minh quân sự khu vực để răn đe và cho phép đặt căn cứ quân sự chung khi cần thiết",
+      "Không tham gia liên minh quân sự; không liên kết chống nước khác; không cho đặt căn cứ quân sự; không dùng vũ lực",
+      "Tăng cường chạy đua vũ trang để tạo thế cân bằng răn đe quân sự với mọi quốc gia trong khu vực",
+      "Sẵn sàng liên kết quân sự song phương nhằm đối phó với các nước lớn khi xảy ra cạnh tranh thương mại"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Trang 37 trình bày rõ chính sách quốc phòng hòa bình, tự vệ ('bốn không': không tham gia liên minh quân sự; không liên kết nước này chống nước kia; không cho nước ngoài đặt căn cứ quân sự hoặc dùng lãnh thổ VN chống nước khác; không sử dụng hoặc đe dọa sử dụng vũ lực) và phản đối chạy đua vũ trang. (Dẫn chiếu: Mục 3.2.1.2a, tr. 37)"
+  },
+  {
+    "id": 32,
+    "question": "Theo quan điểm của Đảng trong tài liệu, tiêu chí cơ bản nhất để phân biệt 'đối tác' và 'đối tượng' trong bảo vệ Tổ quốc là gì?",
+    "options": [
+      "Chỉ căn cứ vào việc quốc gia đó đã ký kết hiệp định thương mại tự do song phương với Việt Nam hay chưa",
+      "Các quốc gia láng giềng tự động là đối tác tuyệt đối, còn các quốc gia ngoài khu vực mặc nhiên là đối tượng",
+      "Dựa vào sự khác biệt hay tương đồng về thể chế chính trị và trình độ phát triển kinh tế giữa các nước",
+      "Tôn trọng độc lập, chủ quyền, hợp tác bình đẳng, cùng có lợi là đối tác; có âm mưu, hành động chống phá là đối tượng"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Trang 37 trích nguyên văn tiêu chí phân biệt: Những ai tôn trọng độc lập, chủ quyền, thiết lập và mở rộng quan hệ hữu nghị, hợp tác bình đẳng, cùng có lợi với Việt Nam đều là đối tác; bất kỳ thế lực nào có âm mưu và hành động chống phá mục tiêu xây dựng và bảo vệ Tổ quốc, lật đổ chế độ XHCN, xâm phạm độc lập, chủ quyền, lợi ích quốc gia - dân tộc đều là đối tượng. (Dẫn chiếu: Mục 3.2.1.2a, tr. 37)"
+  },
+  {
+    "id": 33,
+    "question": "Trong đặc trưng 'nền quốc phòng, an ninh có sức mạnh tổng hợp do nhiều yếu tố tạo thành', nhóm yếu tố nào bao giờ cũng giữ vai trò quyết định?",
+    "options": [
+      "Những yếu tố bên trong của dân tộc ta",
+      "Điều kiện tự nhiên và quy mô dân số cơ học",
+      "Các nguồn viện trợ tài chính và vũ khí bên ngoài",
+      "Các hiệp định an ninh đa phương trong khu vực"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Trang 38 nêu: sức mạnh tổng hợp tạo thành bởi nhiều yếu tố cả trong nước, ngoài nước, của dân tộc và của thời đại, 'trong đó những yếu tố bên trong của dân tộc bao giờ cũng giữ vai trò quyết định'. (Dẫn chiếu: Mục 3.2.1.2c, tr. 38)"
+  },
+  {
+    "id": 34,
+    "question": "Lực lượng quốc phòng, an ninh của nền QPTD, ANND gồm hai bộ phận nào; trong đó thành phần nào là hạt nhân của lực lượng chính trị và lực lượng nào làm nòng cốt cho nền QPTD?",
+    "options": [
+      "Lực lượng doanh nghiệp nhà nước (hạt nhân) và lực lượng kiểm ngư (làm nòng cốt)",
+      "Lực lượng toàn dân (hạt nhân là hệ thống chính trị) và LLVTND ba thứ quân (làm nòng cốt)",
+      "Lực lượng kinh tế đối ngoại (hạt nhân) và lực lượng quân đội chính quy (lực lượng duy nhất)",
+      "Lực lượng thanh niên xung kích (hạt nhân) và lực lượng công an cơ sở (làm nòng cốt)"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Trang 40–41 phân tích rõ: lực lượng QP, AN gồm lực lượng toàn dân (lực lượng chính trị — trong đó hệ thống chính trị gồm Đảng, Nhà nước, MTTQ và các đoàn thể là hạt nhân) và LLVTND (QĐND, CAND, DQTV; ba thứ quân gồm bộ đội chủ lực, bộ đội địa phương, DQTV là nòng cốt). (Dẫn chiếu: Mục 3.2.2.2a, tr. 40–41)"
+  },
+  {
+    "id": 35,
+    "question": "Vì sao trong xây dựng tiềm lực quốc phòng, an ninh, 'tiềm lực chính trị, tinh thần' được xác định là thành tố cơ bản nhất?",
+    "options": [
+      "Vì tiềm lực chính trị, tinh thần có thể thay thế hoàn toàn nhu cầu đầu tư vũ khí và ngân sách quốc phòng",
+      "Vì nó chứa đựng trong tố chất con người, truyền thống dân tộc và quyết định khả năng huy động các yếu tố khác",
+      "Vì nó hoàn toàn không chịu tác động bởi công tác xây dựng Đảng, thực hiện dân chủ và bảo đảm an sinh xã hội",
+      "Vì tiềm lực chính trị, tinh thần chỉ cần chú trọng xây dựng khi đất nước xảy ra chiến tranh xâm lược"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Trang 42 khẳng định: Tiềm lực chính trị, tinh thần là thành tố cơ bản của tiềm lực QP, quyết định khả năng huy động các yếu tố khác; được xây dựng thông qua xây dựng Đảng, Nhà nước trong sạch vững mạnh, đại đoàn kết toàn dân, thực hiện dân chủ 'dân biết, dân bàn, dân làm, dân kiểm tra, dân giám sát, dân thụ hưởng', bảo đảm an sinh xã hội... (Dẫn chiếu: Mục 3.2.2.2b, tr. 42–43)"
+  },
+  {
+    "id": 36,
+    "question": "Quan điểm xây dựng tiềm lực kinh tế và ngân sách quốc phòng của Việt Nam hiện nay (tr. 43–44) được tài liệu xác định như thế nào?",
+    "options": [
+      "Ngân sách QP phù hợp tốc độ phát triển KT-XH, không chạy đua vũ trang; phát triển công nghiệp QP lưỡng dụng",
+      "Tách biệt hoàn toàn công nghiệp quốc phòng khỏi hệ thống công nghiệp quốc gia và kinh tế dân sinh",
+      "Tập trung toàn bộ ngân sách nhà nước cho mua sắm vũ khí hiện đại bất chấp tốc độ tăng trưởng kinh tế",
+      "Chỉ hội nhập kinh tế với một thị trường đối tác chiến lược duy nhất để dễ kiểm soát an ninh kinh tế"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Trang 43–44 nhấn mạnh: đa phương hóa, đa dạng hóa không phụ thuộc một thị trường hay đối tác cụ thể; ngân sách QP phù hợp tốc độ phát triển KT-XH, không chạy đua vũ trang, không làm gánh nặng kinh tế; từng bước hòa nhập công nghiệp QP vào công nghiệp quốc gia, hướng tới tổ hợp công nghiệp QP lưỡng dụng công nghệ cao. (Dẫn chiếu: Mục 3.2.2.2b, tr. 43–44)"
+  },
+  {
+    "id": 37,
+    "question": "Tiềm lực khoa học - công nghệ của nền quốc phòng toàn dân, an ninh nhân dân được biểu hiện chủ yếu ở những yếu tố nào?",
+    "options": [
+      "Mức độ trang bị đồng bộ các phương tiện vận tải cơ giới dân dụng cho khu vực đô thị lớn",
+      "Số lượng khu công nghiệp tập trung và trữ lượng tài nguyên khoáng sản chiến lược trong nước",
+      "Đội ngũ cán bộ KHKT, cơ sở vật chất kỹ thuật huy động được và năng lực ứng dụng nghiên cứu khoa học",
+      "Tổng giá trị kim ngạch xuất khẩu hàng tiêu dùng và dự trữ lương thực chiến lược quốc gia"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Trang 45 nêu rõ 3 biểu hiện của tiềm lực KH-CN: (1) số lượng, chất lượng đội ngũ cán bộ khoa học kỹ thuật; (2) cơ sở vật chất kỹ thuật có thể huy động phục vụ QP, AN; (3) năng lực ứng dụng kết quả nghiên cứu khoa học đáp ứng yêu cầu QP, AN. (Dẫn chiếu: Mục 3.2.2.2b, tr. 45)"
+  },
+  {
+    "id": 38,
+    "question": "Trong hai yếu tố cấu thành tiềm lực quân sự là con người và vũ khí trang bị, nhân tố nào quyết định và tinh thần Đại hội XIV định hướng đối ngoại quốc phòng là gì?",
+    "options": [
+      "Con người là nhân tố quyết định; đối ngoại quốc phòng là một trụ cột đối ngoại Đảng, Nhà nước và nhân dân",
+      "Con người chỉ quyết định trong lực lượng dân quân tự vệ, còn bộ đội chủ lực lấy vũ khí làm quyết định",
+      "Đối ngoại quốc phòng chỉ triển khai ở cấp chiến lược, không gắn với chủ trương bảo vệ Tổ quốc từ sớm",
+      "Vũ khí trang bị hiện đại quyết định tuyệt đối; đối ngoại quốc phòng chỉ giữ vai trò phụ trợ ngoài lề"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Trang 46–47 khẳng định: Tiềm lực quân sự gồm con người và vũ khí trang bị, trong đó con người là nhân tố quyết định; Đại hội XIV xác định hội nhập quốc tế và đối ngoại quốc phòng đẩy mạnh theo phương châm chủ động, linh hoạt, thực chất, hiệu quả, toàn diện, là một trụ cột đối ngoại của Đảng, ngoại giao Nhà nước và đối ngoại nhân dân. (Dẫn chiếu: Mục 3.2.2.2b, tr. 46–47)"
+  },
+  {
+    "id": 39,
+    "question": "Trong xây dựng thế trận quốc phòng toàn dân, yếu tố nào là nhân tố quyết định thắng lợi và cấp hành chính nào tạo nền tảng của thế trận QPTD?",
+    "options": [
+      "'Thế trận phòng không' quyết định thắng lợi; tuyến đường sắt cao tốc tạo nền tảng thế trận QPTD",
+      "'Thế trận ngoại giao' quyết định thắng lợi; các doanh nghiệp FDI tạo nền tảng thế trận QPTD",
+      "'Thế trận hỏa lực' quyết định thắng lợi; các siêu đô thị tập trung tạo nền tảng thế trận QPTD",
+      "'Thế trận lòng dân' quyết định thắng lợi; khu vực phòng thủ tỉnh (thành phố) tạo nền tảng thế trận QPTD"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Trang 48 nêu rõ: Xây dựng khu vực phòng thủ tỉnh (thành phố) tạo nền tảng của thế trận QPTD; xây dựng 'thế trận lòng dân' vững chắc là nhân tố quyết định thắng lợi của sự nghiệp quốc phòng Việt Nam. (Dẫn chiếu: Mục 3.2.2.2c, tr. 48, 50)"
+  },
+  {
+    "id": 40,
+    "question": "Trong kết hợp quốc phòng, an ninh với kinh tế - xã hội khi xây dựng thế trận trên biển (tr. 49), đề án đối với chuỗi đảo gần bờ hướng tới mô hình nào?",
+    "options": [
+      "Chỉ phát triển du lịch nghỉ dưỡng thuần túy trên các đảo, tách biệt hoàn toàn khỏi thế trận phòng thủ",
+      "Xây dựng chuỗi đảo gần bờ thành trung tâm kinh tế, KH-CN, quốc phòng đa năng, tự chủ một phần kinh tế",
+      "Di dời toàn bộ dân cư khỏi các đảo gần bờ để dành riêng cho mục đích diễn tập quân sự",
+      "Giao toàn quyền quản lý kinh tế các đảo ven bờ cho các tập đoàn nước ngoài thuê dài hạn"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Trang 49 nêu: Triển khai đề án xây dựng chuỗi đảo gần bờ thành các trung tâm kinh tế, khoa học - công nghệ, quốc phòng theo mô hình đa năng, tự chủ một phần về kinh tế, kết hợp hoạt động kinh tế với quốc phòng trên biển. (Dẫn chiếu: Mục 3.2.2.2c, tr. 49)"
+  },
+  {
+    "id": 41,
+    "question": "Trong biện pháp tăng cường sự lãnh đạo của Đảng và quản lý của Nhà nước đối với nền QPTD, ANND (mục 3.2.3.2), hai văn bản quan trọng nào được yêu cầu chấp hành nghiêm?",
+    "options": [
+      "Nghị định 100/2019/NĐ-CP về xử phạt hành chính và Thông tư số 17/2021/TT-BGDĐT",
+      "Pháp lệnh Dân quân tự vệ năm 2004 và Điều lệ Dân quân tự vệ năm 1990 của Chính phủ",
+      "Nghị định 03/2019/NĐ-CP và Nghị quyết 51-NQ/TW (20/7/2005 về chế độ chỉ huy, chính ủy)",
+      "Luật Đầu tư công năm 2019 và các Hiệp định thương mại tự do thế hệ mới đã ký kết"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Trang 51 nêu: Chấp hành nghiêm Nghị định 03/2019/NĐ-CP ngày 05/9/2019 của Chính phủ về phối hợp giữa Bộ Công an và Bộ Quốc phòng, và Nghị quyết số 51-NQ/TW ngày 20/7/2005 của Bộ Chính trị (khóa IX) về hoàn thiện cơ chế lãnh đạo của Đảng, thực hiện chế độ một người chỉ huy gắn với chế độ chính ủy, chính trị viên trong QĐNDVN. (Dẫn chiếu: Mục 3.2.3.2, tr. 51)"
+  },
+  {
+    "id": 42,
+    "question": "Hành động thiết thực nào của sinh viên thể hiện đúng trách nhiệm công dân trong xây dựng nền quốc phòng toàn dân, an ninh nhân dân theo mục 3.2.3.3?",
+    "options": [
+      "Chia sẻ mọi tin đồn chưa kiểm chứng trên mạng xã hội để tạo sự chú ý trước các vấn đề nhạy cảm",
+      "Học tốt kiến thức QP&AN, nhận diện âm mưu thù địch, tự giác luyện tập kỹ năng và tham gia hoạt động QP, AN",
+      "Cho rằng nhiệm vụ giữ gìn an ninh trật tự tại ký túc xá và địa phương hoàn toàn thuộc về lực lượng chuyên trách",
+      "Chỉ cần tập trung học môn chuyên ngành, xem nhẹ việc rèn luyện các kỹ năng quân sự và an ninh"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Trang 52 xác định rõ trách nhiệm sinh viên: tích cực học tập nâng cao hiểu biết, nắm vững kiến thức QP&AN, nhận thức rõ âm mưu thủ đoạn của chủ nghĩa đế quốc và thế lực thù địch; tự giác luyện tập kỹ năng quân sự, an ninh và chủ động tham gia hoạt động QP, AN ở trường và địa phương. (Dẫn chiếu: Mục 3.2.3.3, tr. 52)"
+  },
+  {
+    "id": 43,
+    "question": "Theo Điều 2 Luật Quốc phòng năm 2018 được nêu trong tài liệu, khái niệm 'Chiến tranh nhân dân' được xác định như thế nào?",
+    "options": [
+      "Cuộc chiến tranh toàn dân, toàn diện, lấy LLVTND làm nòng cốt bảo vệ lãnh thổ, Nhân dân, Đảng, Nhà nước",
+      "Cuộc chiến tranh chuyên nghiệp chỉ do lực lượng quân đội thường trực tiến hành tại khu vực biên giới",
+      "Hình thức đấu tranh phi vũ trang thuần túy dựa trên vận động ngoại giao tại các diễn đàn quốc tế",
+      "Cuộc xung đột vũ trang cục bộ nhằm giải quyết tranh chấp thương mại và tài nguyên trên biển"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Điều 2 Luật Quốc phòng 2018 xác định chiến tranh nhân dân là cuộc chiến tranh toàn dân, toàn diện, lấy LLVTND làm nòng cốt nhằm bảo vệ độc lập, chủ quyền, thống nhất, toàn vẹn lãnh thổ của Tổ quốc và bảo vệ Nhân dân, Đảng, Nhà nước, chế độ xã hội chủ nghĩa. (Dẫn chiếu: Mục 4.2.1.1a, tr. 53)"
+  },
+  {
+    "id": 44,
+    "question": "Theo Nghị quyết Hội nghị lần thứ tám Ban Chấp hành Trung ương Đảng khóa IX (trích trong mục 4.2.1.1c), 'đối tượng tác chiến' của quân và dân ta là lực lượng nào?",
+    "options": [
+      "Tất cả các tập đoàn kinh tế nước ngoài có dự án đầu tư tại các khu công nghiệp",
+      "Những lực lượng gây bạo loạn lật đổ, gây xung đột vũ trang và gây chiến tranh xâm lược",
+      "Mọi quốc gia có khác biệt về chế độ chính trị và văn hóa với Việt Nam",
+      "Những đối tượng phạm tội hình sự thông thường không có mục đích chống phá chế độ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Trang 55 trích rõ: 'Đối tượng trực tiếp của cách mạng nước ta là tất cả những thế lực cản trở, xâm hại đến sự nghiệp xây dựng đất nước và bảo vệ Tổ quốc Việt Nam XHCN, đối tượng tác chiến của quân và dân ta là những lực lượng gây bạo loạn lật đổ, gây xung đột vũ trang và gây chiến tranh xâm lược'. (Dẫn chiếu: Mục 4.2.1.1c, tr. 55)"
+  },
+  {
+    "id": 45,
+    "question": "Khi tiến hành chiến tranh xâm lược nước ta, kẻ thù thường kết hợp thủ đoạn tác chiến chủ yếu nào theo phân tích của tài liệu?",
+    "options": [
+      "Tuân thủ nghiêm ngặt luật pháp quốc tế và hoàn toàn không cấu kết với lực lượng phản động nội địa",
+      "Đánh kéo dài tiêu hao từ từ và hạn chế sử dụng vũ khí công nghệ cao ngay trong giai đoạn mở đầu",
+      "Đánh nhanh thắng nhanh bằng vũ khí công nghệ cao, kết hợp tiến công ngoài vào và bạo loạn bên trong",
+      "Chỉ tiến công ở vùng núi cao hẻo lánh và tránh hoàn toàn các đô thị lớn hay đầu mối giao thông"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Trang 55 phân tích âm mưu, thủ đoạn và điểm mạnh của địch: triệt để dùng vũ khí công nghệ hiện đại đánh phủ đầu, liên tục ngày đêm theo phương châm đánh nhanh, giải quyết nhanh; kết hợp tiến công quân sự từ bên ngoài vào với bạo loạn lật đổ từ bên trong và biện pháp phi vũ trang lừa bịp dư luận. (Dẫn chiếu: Mục 4.2.1.1c, tr. 55)"
+  },
+  {
+    "id": 46,
+    "question": "Đâu là một trong những điểm yếu cơ bản KHÔNG THỂ khắc phục của kẻ thù khi tiến hành chiến tranh xâm lược nước ta?",
+    "options": [
+      "Chiến tranh phi nghĩa bị phản đối, dễ sa lầy trong chiến tranh nhân dân và địa hình hiểm trở",
+      "Thiếu vũ khí công nghệ cao và thiếu kinh nghiệm tác chiến hiệp đồng quân binh chủng hiện đại",
+      "Không có khả năng tiến hành các thủ đoạn chiến tranh tâm lý hay lừa bịp dư luận quốc tế",
+      "Không có ưu thế về tiềm lực kinh tế và khoa học công nghệ so với các nước đang phát triển"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Trang 56 chỉ rõ 4 điểm yếu căn bản của địch: (1) phi nghĩa nên bị nhân dân trong nước và thế giới phản đối, phát sinh mâu thuẫn nội bộ; (2) khó đánh nhanh giải quyết nhanh, buộc phải phân tán lực lượng và dễ sa lầy; (3) địa hình, thời tiết VN hiểm trở phức tạp hạn chế vũ khí hiện đại; (4) chi phí và bảo đảm vật chất kỹ thuật cho chiến tranh công nghệ cao rất tốn kém khi kéo dài. (Dẫn chiếu: Mục 4.2.1.1c, tr. 56)"
+  },
+  {
+    "id": 47,
+    "question": "Ba tính chất cơ bản của chiến tranh nhân dân Việt Nam bảo vệ Tổ quốc được xác định tại mục 4.2.1.2a là gì?",
+    "options": [
+      "Chuyên nghiệp hóa tuyệt đối; tiến công mở rộng lãnh thổ ra ngoài biên giới; tính phi giai cấp",
+      "Tự phát của quần chúng nhân dân; phòng ngự thụ động dài ngày; phụ thuộc viện trợ bên ngoài",
+      "Phi vũ trang hoàn toàn; trung lập hóa khu vực; phân tuyến cố định giữa tiền tuyến và hậu phương",
+      "Toàn dân, toàn diện (LLVT ba thứ quân nòng cốt); chính nghĩa, tự vệ cách mạng; mang tính hiện đại"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Trang 56 nêu 3 tính chất: (1) chiến tranh nhân dân toàn dân, toàn diện lấy LLVT ba thứ quân làm nòng cốt, dưới sự lãnh đạo của ĐCSVN; (2) chiến tranh chính nghĩa, tự vệ cách mạng; (3) chiến tranh mang tính hiện đại về vũ khí trang bị, tri thức và nghệ thuật quân sự. (Dẫn chiếu: Mục 4.2.1.2a, tr. 56)"
+  },
+  {
+    "id": 48,
+    "question": "Khi phân tích đặc điểm hình thái chiến sự của chiến tranh nhân dân bảo vệ Tổ quốc hiện nay (tr. 58), nhận định nào sau đây là CHÍNH XÁC?",
+    "options": [
+      "Chiến sự diễn ra chậm chạp ở giai đoạn đầu và có ranh giới tách biệt rõ ràng giữa hậu phương với tiền tuyến",
+      "Thương vong về người và tiêu hao vật chất kỹ thuật ở mức thấp do dựa vào viện trợ quân sự nước ngoài",
+      "Quyết liệt từ đầu trên không gian rộng, nhiều chiều; hình thái xen kẽ, không phân biệt hậu phương và tiền tuyến",
+      "Chiến sự chỉ diễn ra trên mặt đất bằng bộ binh truyền thống, không có tác chiến đường không hay bạo loạn"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Trang 58 nhấn mạnh: chiến sự diễn ra quyết liệt, khẩn trương ngay từ đầu, không gian rộng, nhiều chiều; hình thái chiến tranh xen kẽ, không phân tuyến, không có sự phân biệt giữa hậu phương và tiền tuyến; vừa chống tiến công đường không, đường bộ từ ngoài vừa đối phó bạo loạn bên trong. (Dẫn chiếu: Mục 4.2.1.2b, tr. 57–58)"
+  },
+  {
+    "id": 49,
+    "question": "Trong quan điểm 'toàn dân đánh giặc, lấy LLVTND làm nòng cốt', vai trò nòng cốt của ba thứ quân được phân công như thế nào?",
+    "options": [
+      "Chỉ Bộ đội chủ lực mới trực tiếp chiến đấu, còn Dân quân tự vệ chỉ làm nhiệm vụ sản xuất lương thực tại chỗ",
+      "DQTV nòng cốt ở cơ sở; BĐĐP và DQTV nòng cốt ở địa phương; Bộ đội chủ lực cùng LLVTĐP nòng cốt cả nước",
+      "Bộ đội chủ lực làm nòng cốt ở từng thôn, xóm; Dân quân tự vệ đảm nhiệm đòn tiến công chiến lược cả nước",
+      "Bộ đội địa phương hoạt động độc lập hoàn toàn, không cần kết hợp tác chiến với các binh đoàn chủ lực"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Trang 59–60 chỉ rõ sự phân công gắn kết tạo thế trận 'thiên la địa võng': DQTV là nòng cốt phong trào toàn dân đánh giặc ở cơ sở; BĐĐP và DQTV là nòng cốt phong trào chiến tranh nhân dân ở địa phương; Bộ đội chủ lực cùng LLVT địa phương làm nòng cốt cho toàn dân đánh giặc trên chiến trường cả nước. (Dẫn chiếu: Mục 4.2.2.1b, tr. 59–60)"
+  },
+  {
+    "id": 50,
+    "question": "Trong quan điểm tiến hành 'chiến tranh toàn diện' trên tất cả các mặt trận (quân sự, chính trị, ngoại giao, kinh tế, văn hóa - tư tưởng), mặt trận nào giữ vai trò chủ yếu và quyết định?",
+    "options": [
+      "Đấu tranh tư tưởng - văn hóa thay thế hoàn toàn vai trò của đấu tranh vũ trang trên chiến trường",
+      "Đấu tranh kinh tế giữ vai trò quyết định duy nhất làm sụp đổ hoàn toàn ý chí xâm lược của đối phương",
+      "Đấu tranh ngoại giao tại các diễn đàn quốc tế giữ vai trò quyết định trực tiếp kết thúc chiến tranh",
+      "Lấy đấu tranh quân sự là chủ yếu, lấy thắng lợi trên chiến trường là yếu tố quyết định giành thắng lợi"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Tiêu đề và nội dung Mục 4.2.2.2 khẳng định: kết hợp chặt chẽ giữa các mặt trận đấu tranh, nhưng phải quán triệt lấy đấu tranh quân sự là chủ yếu, lấy thắng lợi trên chiến trường là yếu tố quyết định để kết thúc chiến tranh (mỗi mặt trận có vị trí riêng và hỗ trợ cho đấu tranh quân sự). (Dẫn chiếu: Mục 4.2.2.2, tr. 60–62)"
+  },
+  {
+    "id": 51,
+    "question": "Theo quan điểm 'đánh lâu dài, ra sức thu hẹp không gian, rút ngắn thời gian' (mục 4.2.2.3), ta làm thế nào để đánh bại học thuyết 'đánh nhanh, thắng nhanh' của địch?",
+    "options": [
+      "Chấp nhận kéo dài chiến tranh vô thời hạn mà không cần chuẩn bị thời cơ tiến công phản công dứt điểm",
+      "Địa phương bám trụ 'tỉnh giữ tỉnh, huyện giữ huyện, xã giữ xã' buộc địch sa lầy, đồng thời tạo thời cơ thắng nhanh",
+      "Tập trung toàn bộ lực lượng để quyết chiến dàn hàng ngang với địch ngay từ ngày đầu cuộc chiến tranh",
+      "Chủ động rút toàn bộ lực lượng khỏi các địa phương để co cụm phòng thủ cố định ở một khu vực duy nhất"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Trang 63 giải thích: để đánh bại ý đồ đánh nhanh giải quyết nhanh, từng địa phương phải tự lực bám trụ ('tỉnh giữ tỉnh, huyện giữ huyện, xã giữ xã') thu hẹp không gian chiến tranh, buộc địch sa lầy; đồng thời tập trung nỗ lực tạo và nắm bắt thời cơ cho bộ đội chủ lực tiến công dứt điểm, rút ngắn thời gian nhằm hạn chế tổn thất. (Dẫn chiếu: Mục 4.2.2.3, tr. 62–63)"
+  },
+  {
+    "id": 52,
+    "question": "Quan điểm 'Kết hợp kháng chiến với xây dựng, vừa kháng chiến vừa xây dựng...' (mục 4.2.2.4) giải quyết yêu cầu thực tiễn nào trong chiến tranh nhân dân?",
+    "options": [
+      "Bảo đảm nhu cầu vật chất chiến tranh, ổn định đời sống nhân dân, tiết kiệm, lấy vũ khí địch đánh địch",
+      "Chỉ chú trọng phát triển kinh tế ở hậu phương lớn mà không cần trụ bám sản xuất tại vùng có chiến sự",
+      "Phát triển kinh tế chủ yếu bằng nguồn vay nợ nước ngoài thay cho phát huy nội lực của các địa phương",
+      "Tạm dừng hoàn toàn mọi hoạt động sản xuất kinh tế trong nước để chờ kết thúc chiến tranh mới khôi phục"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Trang 64 nêu: quy mô chiến tranh lớn, tiêu hao vật chất kỹ thuật và nhu cầu ổn định đời sống nhân dân rất cao, nên phải vừa kháng chiến vừa đẩy mạnh sản xuất, thực hành tiết kiệm, lấy của địch đánh địch, giữ gìn và bồi dưỡng lực lượng để càng đánh càng mạnh. (Dẫn chiếu: Mục 4.2.2.4, tr. 64)"
+  },
+  {
+    "id": 53,
+    "question": "Trong quan điểm kết hợp sức mạnh dân tộc với sức mạnh thời đại (mục 4.2.2.6), mối quan hệ giữa 'sức mạnh nội lực' và 'sức mạnh ngoại lực' được xác định như thế nào?",
+    "options": [
+      "Sức mạnh ngoại lực là chủ yếu quyết định, còn sức mạnh nội lực chỉ đóng vai trò hỗ trợ bổ sung",
+      "Sức mạnh nội lực và sức mạnh ngoại lực có vị trí ngang bằng nhau trong mọi giai đoạn chiến tranh",
+      "Phát huy tự lực tự cường ('Mang sức ta mà giải phóng cho ta'): nội lực là chủ yếu, ngoại lực là quan trọng",
+      "Chỉ dựa vào sức mạnh nội lực, không cần tranh thủ sự đồng tình ủng hộ của nhân dân tiến bộ thế giới"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Trang 65 khẳng định: kết hợp sức mạnh dân tộc với sức mạnh thời đại nhằm phát huy nội lực, tranh thủ ngoại lực tạo sức mạnh tổng hợp; 'Tuy nhiên, sức mạnh nội lực là chủ yếu, sức mạnh ngoại lực là quan trọng'. (Dẫn chiếu: Mục 4.2.2.6, tr. 65)"
+  },
+  {
+    "id": 54,
+    "question": "Trong nội dung tổ chức lực lượng chiến tranh nhân dân (mục 4.2.3.2), phương châm xây dựng lực lượng vũ trang nhân dân được xác định như thế nào?",
+    "options": [
+      "Lấy hiện đại hóa vũ khí nhập khẩu làm cơ sở duy nhất cho việc tổ chức biên chế lực lượng",
+      "Chỉ xây dựng lực lượng quân sự tập trung ở cấp trung ương, giảm nhẹ lực lượng quần chúng ở cơ sở",
+      "Coi trọng cả số lượng và chất lượng, trong đó lấy chất lượng là chính, lấy xây dựng chính trị làm cơ sở",
+      "Chỉ chú trọng tăng số lượng quân số thường trực càng đông càng tốt ở các địa bàn trọng điểm"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Trang 66 nêu nguyên văn: 'Lực lượng vũ trang nhân dân được xây dựng vững mạnh toàn diện, coi trọng cả số lượng và chất lượng trong đó lấy chất lượng là chính, lấy xây dựng chính trị làm cơ sở'. (Dẫn chiếu: Mục 4.2.3.2, tr. 66)"
+  },
+  {
+    "id": 55,
+    "question": "Theo khái niệm tại mục 5.2.1.1, Lực lượng vũ trang nhân dân Việt Nam là các tổ chức vũ trang và bán vũ trang bao gồm những lực lượng nào?",
+    "options": [
+      "Quân đội thường trực, Lực lượng dự bị động viên và Thanh niên xung phong",
+      "Quân đội nhân dân, Công an nhân dân và Dân quân tự vệ",
+      "Bộ đội chủ lực, Bộ đội biên phòng và Lực lượng kiểm ngư",
+      "Công an nhân dân, Dân quân tự vệ và Bảo vệ dân phố"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Trang 68 nêu rõ: Lực lượng vũ trang nhân dân Việt Nam bao gồm Quân đội nhân dân, Công an nhân dân và Dân quân tự vệ (do ĐCSVN lãnh đạo, Nhà nước CHXHCNVN quản lý). (Dẫn chiếu: Mục 5.2.1.1, tr. 68)"
+  },
+  {
+    "id": 56,
+    "question": "Trong những năm tới, mâu thuẫn chủ yếu nào được tài liệu chỉ ra như một thách thức lớn khi xây dựng lực lượng vũ trang nhân dân nước ta?",
+    "options": [
+      "Sự suy giảm hoàn toàn truyền thống yêu nước của quần chúng nhân dân trong thời kỳ đổi mới đất nước",
+      "Mâu thuẫn giữa yêu cầu mở rộng hội nhập kinh tế quốc tế với việc đóng cửa hoàn toàn giao lưu văn hóa",
+      "Nhu cầu đầu tư QP-AN và xây dựng LLVT ngày càng lớn, cấp thiết nhưng ngân sách Nhà nước còn hạn hẹp",
+      "Mâu thuẫn giữa lực lượng bộ đội thường trực với lực lượng dân quân tự vệ tại địa phương"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Trang 71 nêu chính xác: 'trong đó có mâu thuẫn chủ yếu là: Nhu cầu phải đầu tư cho quốc phòng và an ninh cho xây dựng lực lượng vũ trang nhân dân ngày càng lớn và cấp thiết, nhưng khả năng của nền kinh tế, ngân sách của Nhà nước là rất hạn hẹp'. (Dẫn chiếu: Mục 5.2.1.2c, tr. 71)"
+  },
+  {
+    "id": 57,
+    "question": "Khi đánh giá thực trạng lực lượng vũ trang nhân dân hiện nay (mục 5.2.1.2d), mặt hạn chế nào cần tập trung tháo gỡ để đáp ứng yêu cầu tác chiến hiện đại?",
+    "options": [
+      "Lực lượng vũ trang chưa từng được tổ chức theo hệ thống điều lệnh và chưa có sự lãnh đạo của Đảng",
+      "Lực lượng vũ trang hoàn toàn không hoàn thành được các chức năng, nhiệm vụ mà Đảng và Nhà nước giao",
+      "Chất lượng chính trị, khả năng SSCĐ, trình độ chính quy - kỷ luật và trang bị một số nơi còn hạn chế",
+      "Quân số của lực lượng thường trực quá lớn vượt xa nhu cầu chiến lược bảo vệ Tổ quốc trong tình hình mới"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Trang 71–72 ghi nhận LLVTND đã trưởng thành vững mạnh và hoàn thành tốt nhiệm vụ, song cần tháo gỡ 5 vấn đề: chất lượng chính trị của một bộ phận cán bộ chiến sĩ; khả năng chiến đấu và SSCĐ, nội dung đào tạo; trình độ chính quy và chấp hành kỷ luật; trang bị ở một số đơn vị còn lạc hậu, thiếu đồng bộ; nghiên cứu phát triển toàn diện khoa học nghệ thuật quân sự. (Dẫn chiếu: Mục 5.2.1.2d, tr. 71–72)"
+  },
+  {
+    "id": 58,
+    "question": "Trong nguyên tắc 'Đảng Cộng sản Việt Nam lãnh đạo tuyệt đối, trực tiếp về mọi mặt' đối với LLVTND, cụm từ 'trực tiếp' có nội hàm cụ thể là gì?",
+    "options": [
+      "Không qua khâu trung gian nào, bằng hệ thống tổ chức từ Chi bộ đến Quân ủy TW và Đảng ủy Công an TW",
+      "Đảng chia sẻ quyền lãnh đạo lực lượng vũ trang với các tổ chức chính trị - xã hội để bảo đảm dân chủ",
+      "Đảng chỉ lãnh đạo về đường lối chung, còn việc tổ chức thực hiện giao hoàn toàn cho chính quyền địa phương",
+      "Đảng chỉ trực tiếp lãnh đạo bộ đội chủ lực ở cấp trung ương, không lãnh đạo lực lượng ở cấp cơ sở"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Trang 73–74 phân tích rõ 3 khía cạnh: 'Tuyệt đối' là tổ chức chính trị duy nhất, không chia/nhường quyền; 'Trực tiếp' là không qua một khâu trung gian nào, bằng hệ thống tổ chức từ Chi bộ đến Quân ủy Trung ương (với QĐND, DQTV) và đến Đảng ủy Công an Trung ương (với CAND); 'Về mọi mặt' là mọi nhiệm vụ, mọi lĩnh vực, mọi tổ chức, mọi con người. (Dẫn chiếu: Mục 5.2.1.3a, tr. 73–74)"
+  },
+  {
+    "id": 59,
+    "question": "Quan điểm 'Xây dựng lực lượng vũ trang nhân dân, lấy chất lượng làm chính, lấy xây dựng chính trị làm cơ sở' được dựa trên những cơ sở nào?",
+    "options": [
+      "Chỉ dựa trên số lượng dân số đông và ngân sách mua sắm vũ khí hiện đại từ các nước phát triển",
+      "Xu hướng giảm hoàn toàn quân số thường trực xuống bằng không để tiết kiệm tối đa ngân sách nhà nước",
+      "Kinh nghiệm tổ chức quân đội đánh thuê chuyên nghiệp của các nước tư bản chủ nghĩa phương Tây",
+      "Lý luận Mác-Lênin về số lượng - chất lượng, truyền thống 'binh quý hồ tinh', nhiệm vụ và chống phi chính trị hóa"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Trang 74–75 liệt kê 5 cơ sở của quan điểm này: lý luận Mác - Lênin về mối quan hệ số lượng và chất lượng; truyền thống ông cha 'binh quý hồ tinh, bất quý hồ đa'; yêu cầu nhiệm vụ cao; thực tiễn lịch sử xây dựng LLVT; và yêu cầu đấu tranh chống âm mưu 'phi chính trị hóa quân đội' trong chiến lược 'diễn biến hòa bình'. (Dẫn chiếu: Mục 5.2.1.3c, tr. 74–75)"
+  },
+  {
+    "id": 60,
+    "question": "So với mốc thời gian do Đại hội XIII đề ra (phấn đấu năm 2030), Đại hội XIV của Đảng xác định mục tiêu xây dựng QĐND 'cách mạng, chính quy, tinh nhuệ, hiện đại' sớm hơn bao lâu?",
+    "options": [
+      "Giữ nguyên mốc năm 2030 cho toàn quân và chỉ hiện đại hóa một quân chủng",
+      "Chậm hơn 5 năm, lùi sang mốc năm 2035 do khó khăn ngân sách",
+      "Kéo dài lộ trình từng bước hiện đại cho đến mốc tầm nhìn năm 2045",
+      "Sớm hơn 5 năm so với Đại hội XIII đã đề ra (thực hiện ngay tại Đại hội XIV)"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Trang 76 nêu rõ: Đại hội XIII xác định đến 2025 cơ bản tinh, gọn, mạnh, phấn đấu năm 2030 xây dựng QĐND CM, CQ, TN, HĐ. Đại hội XIV tiếp tục khẳng định ngay 'Xây dựng Quân đội nhân dân cách mạng, chính quy, tinh nhuệ, hiện đại' — tức Đảng ta đã xác định sớm 5 năm so với Đại hội XIII đã đề ra. (Dẫn chiếu: Mục 5.2.2.2, tr. 76)"
+  },
+  {
+    "id": 61,
+    "question": "Trong chỉ đạo của đồng chí Tổng Bí thư về xây dựng Quân đội nhân dân theo tinh thần Đại hội XIV được nêu trong tài liệu, nội dung '5 vững' bao gồm những yếu tố nào?",
+    "options": [
+      "Chính trị vững, kinh tế vững, văn hóa vững, môi trường vững, an ninh mạng vững",
+      "Chính trị vững, kỷ luật vững, công nghệ vững, nghệ thuật quân sự vững, đời sống bộ đội vững",
+      "Tư tưởng vững, biên chế vững, hậu cần vững, ngoại giao vững, tài chính vững",
+      "Quân số vững, vũ khí vững, cơ sở vật chất vững, địa bàn vững, dân vận vững"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Trang 76 trích đầy đủ chỉ đạo về '2 kiên định', '2 đẩy mạnh', '2 ngăn ngừa' và '5 vững': Chính trị vững, kỷ luật vững, công nghệ vững, nghệ thuật quân sự vững, đời sống bộ đội vững, với mục tiêu quyết tâm nghiên cứu, sản xuất vũ khí trang bị tiên tiến, hiện đại. (Dẫn chiếu: Mục 5.2.2.2, tr. 76)"
+  },
+  {
+    "id": 62,
+    "question": "Theo Văn kiện Đại hội XIV của Đảng, tổ chức bộ máy lực lượng Công an nhân dân tiếp tục được hoàn chỉnh theo mô hình hướng nào?",
+    "options": [
+      "'Trung ương tinh gọn, vùng liên kết, cơ sở kiêm nhiệm'",
+      "'Tỉnh tinh gọn, khu vực phân tán, đặc khu tự chủ'",
+      "'Bộ chỉ huy tập trung, huyện trọng điểm, thôn tự quản'",
+      "'Bộ tinh, tỉnh toàn diện, xã vững mạnh, bám cơ sở'"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Trang 77 trích Văn kiện Đại hội XIV (tr. 115–116): 'Tiếp tục hoàn chỉnh tổ chức bộ máy Công an nhân dân theo hướng \"Bộ tinh, tỉnh toàn diện, xã vững mạnh, bám cơ sở\". Giữ vững và phát huy truyền thống Công an nhân dân \"Vì nước quên thân, vì dân phục vụ\"'. (Dẫn chiếu: Mục 5.2.2.2, tr. 77)"
+  },
+  {
+    "id": 63,
+    "question": "Trong phương hướng xây dựng Quân đội nhân dân, Công an nhân dân 'cách mạng, chính quy, tinh nhuệ, từng bước hiện đại', nội dung nào là vấn đề cơ bản hàng đầu trong mọi giai đoạn cách mạng?",
+    "options": [
+      "Xây dựng Quân đội nhân dân, Công an nhân dân tinh nhuệ về kỹ thuật",
+      "Xây dựng Quân đội nhân dân, Công an nhân dân chính quy",
+      "Xây dựng Quân đội nhân dân, Công an nhân dân cách mạng",
+      "Mua sắm trang bị vũ khí hiện đại từ các nước công nghiệp phát triển"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Trang 77 khẳng định: Xây dựng Quân đội nhân dân, Công an nhân dân cách mạng là vấn đề cơ bản hàng đầu trong nhiệm vụ xây dựng quân đội, công an trong mọi giai đoạn cách mạng (xây dựng bản chất giai cấp công nhân, tuyệt đối trung thành với Đảng, Tổ quốc và nhân dân). (Dẫn chiếu: Mục 5.2.2.2a, tr. 77)"
+  },
+  {
+    "id": 64,
+    "question": "Biểu hiện của 'Tinh nhuệ về chính trị' và 'Tinh nhuệ về tổ chức' trong xây dựng Quân đội nhân dân, Công an nhân dân được tài liệu giải thích như thế nào?",
+    "options": [
+      "Về chính trị là phân tích, kết luận đúng - sai trước tình hình; về tổ chức là gọn nhẹ nhưng đáp ứng yêu cầu",
+      "Về chính trị chỉ dành cho sĩ quan chính trị; về tổ chức là hợp nhất toàn bộ lực lượng thành một binh chủng",
+      "Về chính trị là thành thạo vũ khí hiện đại; về tổ chức là hoạt động tách rời khỏi cấp ủy Đảng địa phương",
+      "Về chính trị là am hiểu nhiều ngoại ngữ; về tổ chức là mở rộng biên chế càng đông càng tốt ở các cấp"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Trang 78 nêu rõ 3 nội dung tinh nhuệ: (1) Tinh nhuệ về chính trị: đứng trước diễn biến tình hình có khả năng phân tích, kết luận chính xác đúng, sai, có thái độ đúng đắn; (2) Tinh nhuệ về tổ chức: tổ chức gọn nhẹ nhưng đáp ứng yêu cầu được giao; (3) Tinh nhuệ về kỹ - chiến thuật: giỏi sử dụng binh khí kỹ thuật hiện có, biết dùng vũ khí hiện đại, giỏi cách đánh. (Dẫn chiếu: Mục 5.2.2.2a, tr. 78)"
+  },
+  {
+    "id": 65,
+    "question": "Việc xây dựng lực lượng dự bị động viên nước ta là sự kế thừa kế sách truyền thống nào của cha ông ta và phải bảo đảm yêu cầu gì theo Đại hội XIII?",
+    "options": [
+      "Kế thừa 'tiên phát chế nhân'; xây dựng lực lượng chuyên nghiệp hóa tách rời hoàn toàn khỏi địa phương",
+      "Kế thừa kế 'thanh dã'; chỉ huy động phương tiện kỹ thuật khi chiến tranh đã bước vào giai đoạn kết thúc",
+      "Kế thừa kế 'vây thành diệt viện'; duy trì toàn bộ quân dự bị ở trạng thái tập trung thường trực quanh năm",
+      "Kế thừa 'ngụ binh ư nông', 'bách tính giai binh'; xây dựng hùng hậu, chất lượng cao, động viên nhanh"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Trang 79 nêu: Xây dựng lực lượng dự bị động viên kế thừa kế sách 'ngụ binh ư nông', 'bách tính giai binh' của cha ông ta và tiếp thu tinh hoa nghệ thuật quân sự thế giới; thực hiện theo NQ ĐH XIII là xây dựng lực lượng DBĐV hùng hậu, chất lượng ngày càng cao, huấn luyện và quản lý tốt, bảo đảm động viên nhanh khi cần thiết. (Dẫn chiếu: Mục 5.2.2.2b, tr. 79)"
+  },
+  {
+    "id": 66,
+    "question": "Theo mục 5.2.2.2c của tài liệu, các văn bản pháp lý về Dân quân tự vệ đã phát triển qua những mốc nào và Luật DQTV có hiệu lực từ ngày nào?",
+    "options": [
+      "Nghị định DQTV (1991) -> Thông tư DQTV (2010) -> Luật DQTV có hiệu lực ngày 15/7/2021",
+      "Điều lệ DQTV (1990) -> Pháp lệnh DQTV (2004) -> Luật DQTV có hiệu lực thi hành ngày 15/7/2019",
+      "Điều lệ DQTV (1995) -> Pháp lệnh DQTV (2008) -> Luật DQTV có hiệu lực ngày 01/01/2018",
+      "Pháp lệnh DQTV (1990) -> Luật DQTV (2004) -> Nghị định về tổ chức DQTV (2020)"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Trang 79 ghi rõ 3 mốc: Năm 1990 Chính phủ ban hành Điều lệ Dân quân tự vệ; năm 2004 có Pháp lệnh Dân quân tự vệ; và Luật Dân quân tự vệ được ban hành và có hiệu lực thi hành ngày 15 tháng 7 năm 2019. (Dẫn chiếu: Mục 5.2.2.2c, tr. 79)"
+  },
+  {
+    "id": 67,
+    "question": "Trong khái niệm 'Kết hợp phát triển kinh tế, xã hội với tăng cường quốc phòng, an ninh' (mục 6.2.1.1a), chủ thể, đặc điểm, địa bàn và mục đích được xác định là gì?",
+    "options": [
+      "Chủ thể doanh nghiệp quốc phòng; đặc điểm tự phát; địa bàn khu kinh tế trọng điểm; mục đích xuất khẩu vũ khí",
+      "Chủ thể Bộ Ngoại giao; đặc điểm ngắn hạn; địa bàn vùng biển đảo; mục đích mở rộng hợp tác du lịch biển",
+      "Chủ thể là Quân đội; đặc điểm bị động ứng phó; địa bàn vùng biên giới; mục đích tăng thu ngân sách",
+      "Chủ thể Nhà nước và Nhân dân; chủ động tích cực; mọi lĩnh vực cả nước; thắng lợi hai nhiệm vụ chiến lược"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Trang 81–82 liệt kê chính xác 4 yếu tố: Chủ thể là Nhà nước và Nhân dân; Đặc điểm là hoạt động chủ động và tích cực; Địa bàn là tất cả các lĩnh vực, trên phạm vi cả nước; Mục đích là thực hiện thắng lợi hai nhiệm vụ chiến lược xây dựng CNXH và bảo vệ Tổ quốc XHCN. (Dẫn chiếu: Mục 6.2.1.1a, tr. 81–82)"
+  },
+  {
+    "id": 68,
+    "question": "Vì sao tài liệu nêu việc bảo vệ Tổ quốc trong tình hình mới đòi hỏi phải xây dựng các phòng tuyến bảo vệ ở cả ngoài lãnh thổ quốc gia (tr. 83)?",
+    "options": [
+      "Để thay thế toàn bộ nhiệm vụ phòng thủ của lực lượng bộ đội địa phương và dân quân tự vệ ở trong nước",
+      "Hình thành từ lực lượng làm nhiệm vụ ở nước đối tác, kết hợp QPTD, ANND với đối ngoại nhân dân vì lợi ích hài hòa",
+      "Để triển khai các căn cứ quân sự thường trực tại lãnh thổ của các nước láng giềng trong khu vực",
+      "Để kiểm soát các tuyến hàng hải quốc tế và áp đặt chính sách thương mại lên các nước khác trong khu vực"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Trang 83 giải thích: phòng tuyến ngoài lãnh thổ quốc gia được hình thành từ các lực lượng đang thực hiện nhiệm vụ ở những nước là đối tác của Việt Nam — đây là sự cụ thể hóa quan điểm kết hợp xây dựng nền QPTD, thế trận QPTD gắn với nền ANND, thế trận ANND và nền đối ngoại nhân dân nhằm thực hiện hài hòa lợi ích với các đối tác. (Dẫn chiếu: Mục 6.2.1.1b, tr. 83)"
+  },
+  {
+    "id": 69,
+    "question": "Theo cơ sở lý luận tại mục 6.2.1.2, mối quan hệ tác động hai chiều giữa kinh tế với quốc phòng, an ninh và đối ngoại được luận giải như thế nào?",
+    "options": [
+      "Kinh tế và quốc phòng vận động theo hai hệ thống quy luật tách rời nhau, không có sự tác động qua lại",
+      "Kinh tế suy đến cùng quyết định QP, AN, ĐN; ngược lại QP, AN, ĐN tác động lại kinh tế cả tích cực và tiêu cực",
+      "Quốc phòng, an ninh quyết định tuyệt đối sự ra đời và bản chất của chế độ kinh tế - xã hội của mỗi nước",
+      "Hoạt động quốc phòng, an ninh chỉ mang lại tác động tích cực mà không tiêu tốn nguồn lực kinh tế xã hội"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Trang 84–85 phân tích đầy đủ hai chiều: kinh tế suy đến cùng quyết định QP, AN, ĐN (kể cả câu nói của Ph.Ăngghen); ngược lại QP, AN, ĐN vừa tạo môi trường ổn định và thị trường kích thích kinh tế (tích cực), vừa tiêu tốn đáng kể nhân-vật-tài lực theo V.I.Lênin là 'mất đi' không quay vào tái sản xuất xã hội và có thể ảnh hưởng cơ cấu kinh tế, môi trường sinh thái (tiêu cực). (Dẫn chiếu: Mục 6.2.1.2, tr. 84–85)"
+  },
+  {
+    "id": 70,
+    "question": "Trong lịch sử giữ nước và hai cuộc kháng chiến chống Pháp, chống Mỹ, chủ trương nào thể hiện nhất quán sự kết hợp phát triển kinh tế với quốc phòng, an ninh?",
+    "options": [
+      "Thời phong kiến chỉ chú trọng phát triển thương nghiệp đối ngoại, không tổ chức khai hoang lập ấp vùng xung yếu",
+      "Trong kháng chiến chống Pháp tạm dừng toàn bộ sản xuất tại địa phương để tập trung cho bộ đội chủ lực",
+      "Từ 'ngụ binh ư nông', 'động vi binh, tĩnh vi dân' đến 'vừa kháng chiến, vừa kiến quốc' và kết hợp hai miền",
+      "Chỉ từ sau năm 1986 đến nay Đảng ta mới bắt đầu đặt ra vấn đề kết hợp kinh tế với quốc phòng, an ninh"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Trang 86–87 tổng kết mạch xuyên suốt từ các triều đại phong kiến ('lấy dân làm gốc', 'phú quốc binh cường', 'khoan thư sức dân', 'ngụ binh ư nông', 'động vi binh, tĩnh vi dân', khai hoang lập ấp) đến chống Pháp ('vừa kháng chiến, vừa kiến quốc', 'xây dựng làng kháng chiến') và chống Mỹ ở hai miền. (Dẫn chiếu: Mục 6.2.1.3, tr. 86–88)"
+  },
+  {
+    "id": 71,
+    "question": "Theo Đại hội XIII và Đại hội XIV của Đảng về chiến lược phát triển kinh tế - xã hội (mục 6.2.2.1), mục tiêu đến năm 2030 và tầm nhìn đến năm 2045 là gì?",
+    "options": [
+      "Đến 2030 là nước đang phát triển có công nghiệp hiện đại, thu nhập TB cao; đến 2045 là nước phát triển, thu nhập cao",
+      "Đến năm 2030 hoàn thành công nghiệp hóa nông nghiệp; tầm nhìn đến năm 2045 đạt thu nhập trung bình cao",
+      "Đến năm 2030 là nước phát triển thu nhập cao; tầm nhìn đến năm 2045 là siêu cường công nghiệp số",
+      "Đến năm 2030 trở thành nước công nghiệp mới; tầm nhìn đến năm 2050 hoàn thành chuyển đổi xanh toàn diện"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Trang 88–89 nêu rõ hai mốc chiến lược được cả Đại hội XIII và Đại hội XIV khẳng định: đến năm 2030 là nước đang phát triển có công nghiệp hiện đại, thu nhập trung bình cao; tầm nhìn đến năm 2045 trở thành nước phát triển, thu nhập cao, nền kinh tế hiện đại, tự chủ, hội nhập sâu rộng và bền vững. (Dẫn chiếu: Mục 6.2.2.1, tr. 88–89)"
+  },
+  {
+    "id": 72,
+    "question": "Trong 5 nội dung kết hợp KT-XH với QP-AN ở vùng lãnh thổ (mục 6.2.2.2), yêu cầu về phân bố dân cư và đầu tư cơ sở hạ tầng là gì?",
+    "options": [
+      "Tập trung dân cư về các siêu đô thị vùng đồng bằng và xây dựng hạ tầng chỉ phục vụ mục tiêu kinh tế thuần túy",
+      "Ở đâu có đất, biển đảo là có dân và lực lượng QP-AN; đầu tư hạ tầng kinh tế kết hợp công trình QP bảo đảm lưỡng dụng",
+      "Hạn chế đưa dân ra các vùng biển đảo và biên giới để giảm chi phí đầu tư hạ tầng cơ sở địa phương",
+      "Tách riêng hệ thống công trình dân sự và công trình quốc phòng, không chuyển hóa công năng khi có chiến tranh"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Nội dung thứ Ba và thứ Tư ở trang 90 nêu rõ: phân công lao động, phân bố dân cư gắn với bố trí lực lượng QP-AN bảo đảm ở đâu có đất, có biển, đảo là ở đó có dân và lực lượng QP, AN; đầu tư hạ tầng kinh tế kết hợp công trình QP quân sự, phòng thủ dân sự, bảo đảm tính lưỡng dụng trong mỗi công trình. (Dẫn chiếu: Mục 6.2.2.2, tr. 90)"
+  },
+  {
+    "id": 73,
+    "question": "Theo Nghị quyết 252/2025/QH15 (10/12/2025) và Nghị quyết 306/NQ-CP (05/10/2025) trong tài liệu, cả nước sau sắp xếp ĐVHC cấp tỉnh được tổ chức thành mấy vùng KT-XH và có bao nhiêu tỉnh, thành giáp biển?",
+    "options": [
+      "07 vùng kinh tế - xã hội với 63 tỉnh, thành phố và có 28 tỉnh, thành giáp với biển",
+      "06 vùng kinh tế - xã hội với 34 tỉnh, thành phố và có 21/34 tỉnh, thành giáp với biển",
+      "06 vùng kinh tế - xã hội với 34 tỉnh, thành phố và có 24/34 tỉnh, thành giáp với biển",
+      "05 vùng kinh tế - xã hội với 30 tỉnh, thành phố và có 18 tỉnh, thành giáp với biển"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sau sắp xếp ĐVHC cấp tỉnh theo NQ 252/2025/QH15 và NQ 306/NQ-CP, cả nước gồm 06 vùng KT-XH (Trung du & MNPB 9 tỉnh; ĐBSH 6; Bắc Trung Bộ 5; DHNTB & Tây Nguyên 6; Đông Nam Bộ 3; ĐBSCL 5 — tổng 34 tỉnh/TP), và sau sáp nhập nước ta có 21/34 tỉnh, thành giáp biển. (Dẫn chiếu: Mục 6.2.2.2a và 6.2.2.2c, tr. 90–91, 93)"
+  },
+  {
+    "id": 74,
+    "question": "Khi quy hoạch thành phố, khu công nghiệp và lựa chọn đối tác đầu tư nước ngoài ở vùng KT-XH trọng điểm (tr. 91–92), cần tuân thủ nguyên tắc nào?",
+    "options": [
+      "Không xây dựng tổ chức chính trị, đoàn thể quần chúng trong các khu công nghiệp có vốn đầu tư nước ngoài",
+      "Xây tập trung thành siêu đô thị khổng lồ và giao trọn khu công nghiệp cho một đối tác nước ngoài duy nhất",
+      "Phá bỏ các địa hình tự nhiên có giá trị phòng thủ để mở rộng tối đa mặt bằng khu chế xuất tập trung",
+      "Quy mô trung bình, bố trí phân tán; làm 'công trình ngầm lưỡng dụng'; bố trí xen kẽ đan cài lợi ích đầu tư"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Trang 91–92 nhấn mạnh: chọn quy mô trung bình, bố trí phân tán để hạn chế hậu quả tiến công hỏa lực khi có chiến tranh; từng bước xây dựng hệ thống 'công trình ngầm lưỡng dụng'; bảo vệ địa hình có giá trị phòng thủ; gắn kết xây dựng lực lượng QP-AN, đoàn thể và bố trí xen kẽ tạo thế đan cài lợi ích giữa các nhà đầu tư nước ngoài. (Dẫn chiếu: Mục 6.2.2.2a, tr. 91–92)"
+  },
+  {
+    "id": 75,
+    "question": "Đặc điểm nào khiến việc kết hợp phát triển KT-XH với tăng cường QP-AN ở vùng núi, biên giới trở nên cực kỳ quan trọng cả trước mắt và lâu dài?",
+    "options": [
+      "Mật độ dân số quá cao (trên 300 người/km2) gây quá tải hạ tầng đô thị và khu công nghiệp nặng",
+      "Kinh tế vùng biên giới đã phát triển đồng đều nên không cần lực lượng quân đội tham gia khu kinh tế - QP",
+      "Vùng núi biên giới không tiếp giáp với quốc gia nào nên ít chịu tác động từ tình hình an ninh bên ngoài",
+      "Địa bàn chiến lược trọng yếu nhưng dân cư thưa (20–40 người/km2), kinh tế khó dễ bị địch lợi dụng kích động"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Trang 92–93 nêu rõ đặc điểm vùng núi biên giới tiếp giáp Trung Quốc, Lào, Campuchia: đồng bào dân tộc ít người, mật độ dân số thấp (TB 20–40 người/km2), kinh tế - dân trí còn khó khăn, dễ bị lợi dụng thực hiện 'diễn biến hòa bình', bạo loạn lật đổ; cần kết hợp định canh định cư, Chương trình 135, đường vành đai kinh tế và sử dụng quân đội làm nòng cốt xây dựng các khu KT- QP. (Dẫn chiếu: Mục 6.2.2.2b, tr. 92–93)"
+  },
+  {
+    "id": 76,
+    "question": "Trong kết hợp KT-XH với QP-AN ở ngành công nghiệp (mục 6.2.2.3a), định hướng đối với nhà máy công nghiệp quốc phòng và công nghiệp dân dụng là gì?",
+    "options": [
+      "Bỏ lực lượng tự vệ và phòng không công nghiệp tại các nhà máy để giảm chi phí vận hành sản xuất",
+      "Nhà máy dân dụng có thể làm hàng quân sự; nhà máy CNQP thời bình làm hàng dân sự; chuyển giao công nghệ hai chiều",
+      "Nhà máy dân dụng chỉ sản xuất hàng tiêu dùng, tuyệt đối không tham gia mặt hàng có tính lưỡng dụng",
+      "Chuyển giao công nghệ chỉ thực hiện một chiều từ công nghiệp dân dụng sang công nghiệp quốc phòng"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Trang 94 trình bày rõ: phát triển công nghiệp theo hướng lưỡng dụng; các nhà máy CNQP trong thời bình sản xuất thêm hàng dân sự chất lượng cao để tiêu dùng và xuất khẩu; thực hiện chuyển giao công nghệ hai chiều giữa CNQP và công nghiệp dân dụng; phát triển hệ thống phòng không công nghiệp và lực lượng tự vệ bảo vệ nhà máy. (Dẫn chiếu: Mục 6.2.2.3a, tr. 94)"
+  },
+  {
+    "id": 77,
+    "question": "Khi kết hợp phát triển giao thông vận tải và xây dựng cơ bản với QP-AN (mục 6.2.2.3c), quy định kỹ thuật chiến lược nào sau đây được tài liệu nêu rõ?",
+    "options": [
+      "Mở rộng sân bay chỉ tập trung ở khu vực ven biển và cấm cải tạo hang động dọc đường giao thông",
+      "Khi xây dựng thành phố đô thị không cần làm tầng ngầm hay đường giao thông ngầm để tiết kiệm chi phí",
+      "Các công trình xây dựng dân dụng không cần tính đến yếu tố tự bảo vệ hay khả năng chuyển hóa công năng",
+      "Có kế hoạch dùng đường cao tốc làm đường băng sân bay; cấp phép xây dựng cho đối tác ngoại phải có ý kiến cơ quan quân sự"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Trang 96–97 nêu nhiều yêu cầu cụ thể mang tính lưỡng dụng cao: có kế hoạch sử dụng cả đường cao tốc làm đường băng cho máy bay khi cần trong chiến tranh; đô thị phải có công trình ngầm; vật liệu siêu bền chống xuyên/mặn/bức xạ; và khi cấp phép đầu tư xây dựng cho đối tác nước ngoài phải có sự tham gia ý kiến của cơ quan quân sự có thẩm quyền. (Dẫn chiếu: Mục 6.2.2.3c, tr. 96–97)"
+  },
+  {
+    "id": 78,
+    "question": "Trong kết hợp KT-XH với QP-AN ở lĩnh vực y tế (tr. 98), mô hình trọng tâm nào được xây dựng đặc biệt ở miền núi, biên giới, hải đảo?",
+    "options": [
+      "Mô hình trạm y tế lưu động chỉ hoạt động trong thời gian diễn tập phòng thủ",
+      "Mô hình quân dân y kết hợp và xây dựng kế hoạch động viên y tế dân sự cho quân sự",
+      "Mô hình chuyển toàn bộ nhân lực y tế quân sự sang quản lý hành chính địa phương",
+      "Mô hình bệnh viện tư nhân độc lập tách khỏi hệ thống y tế công cộng"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Trang 98 nêu 4 nội dung kết hợp trong lĩnh vực y tế: phối hợp chặt chẽ y tế dân sự và y tế quân sự; xây dựng mô hình quân dân y kết hợp đặc biệt ở miền núi, biên giới, hải đảo; xây dựng kế hoạch động viên y tế dân sự cho quân sự khi có chiến tranh; phát huy y tế quân sự khám chữa bệnh cho nhân dân thời bình và thời chiến. (Dẫn chiếu: Mục 6.2.2.3c, tr. 98)"
+  },
+  {
+    "id": 79,
+    "question": "Theo định hướng kết hợp trong hoạt động đối ngoại (mục 6.2.2.5), nội hàm 'vai trò tiên phong của đối ngoại' và 'ba trụ cột' của nền ngoại giao hiện đại là gì?",
+    "options": [
+      "'Vai trò tiên phong' chỉ thuộc Bộ Ngoại giao; ba trụ cột gồm kinh tế, thương mại và du lịch",
+      "Ba trụ cột gồm đối ngoại song phương, khu vực và toàn cầu, tách biệt với quốc phòng - an ninh",
+      "Gồm ngoại giao, QP, AN và các binh chủng phối hợp liên ngành; ba trụ cột là đối ngoại đảng, nhà nước, nhân dân",
+      "Đối ngoại lấy tăng trưởng thương mại làm tiêu chí cao nhất, xếp lợi ích quốc gia - dân tộc ở vị trí thứ yếu"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Trang 98–99 giải thích rõ: 'Vai trò tiên phong của đối ngoại' không chỉ có ngoại giao mà cả quốc phòng, an ninh và các binh chủng khác; lợi ích quốc gia - dân tộc là kim chỉ nam; điểm thứ Bảy nêu rõ 'Xây dựng nền ngoại giao toàn diện, hiện đại với ba trụ cột là đối ngoại đảng, ngoại giao nhà nước và đối ngoại nhân dân'. (Dẫn chiếu: Mục 6.2.2.5, tr. 98–99)"
+  },
+  {
+    "id": 80,
+    "question": "Trong định hướng đối ngoại song phương và đa phương tại mục 6.2.2.5 (tr. 99), Việt Nam xác định phương châm hành động mới như thế nào?",
+    "options": [
+      "Ưu tiên quan hệ song phương với một siêu cường duy nhất và rút khỏi các thể chế đa phương toàn cầu",
+      "Giải quyết mọi bất đồng trên biển bằng biện pháp đơn phương ngoài khuôn khổ Công ước Luật Biển 1982",
+      "Song phương chỉ dừng ở giao lưu văn hóa; đa phương giữ thái độ thụ động chờ các nước lớn định đoạt",
+      "Song phương 'tạo thế đan xen lợi ích', 'tăng độ tin cậy'; đa phương chủ động đóng góp định hình thể chế quốc tế"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Điểm thứ Tư (tr. 99) trích nguyên văn tinh thần ĐH XIII & XIV về tư duy đối ngoại song phương ('tạo thế đan xen lợi ích', 'tăng độ tin cậy') và đa phương (chủ động tham gia, tích cực đóng góp xây dựng, định hình thể chế đa phương và trật tự chính trị - kinh tế quốc tế). (Dẫn chiếu: Mục 6.2.2.5, tr. 99)"
+  },
+  {
+    "id": 81,
+    "question": "Trong các giải pháp chủ yếu thực hiện kết hợp KT-XH với QP-AN và đối ngoại (mục 6.2.3.1–6.2.3.4), nội dung nào sau đây được tài liệu xác định ĐÚNG?",
+    "options": [
+      "Các bộ Quốc phòng, Công an, Ngoại giao, Công thương hoạt động độc lập, không cần ban hành quy chế phối hợp",
+      "Chấp hành NĐ 168/2018/NĐ-CP; bồi dưỡng trước hết cán bộ chủ trì các cấp; về lâu dài có chế tài bắt buộc",
+      "Việc kết hợp chỉ mang tính khuyến khích tự nguyện, lâu dài không cần thể chế hóa thành pháp luật hay chế tài",
+      "Chỉ cần bồi dưỡng kiến thức cho nhân dân, không cần tập trung trước hết vào đội ngũ cán bộ chủ trì các cấp"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Trang 100–102 nêu rõ: chấp hành Nghị định 168/2018/NĐ-CP ngày 28/12/2018; đối tượng bồi dưỡng phổ cập toàn dân nhưng trước hết tập trung vào cán bộ chủ trì các cấp, các bộ ngành đoàn thể từ TW đến cơ sở; về lâu dài cần có các chế tài bắt buộc và quy chế phối hợp giữa các bộ Quốc phòng, Công an, Ngoại giao, Công thương... (Dẫn chiếu: Mục 6.2.3.1–6.2.3.4, tr. 100–102)"
+  },
+  {
+    "id": 82,
+    "question": "Theo tài liệu, hai yếu tố thực tiễn nào đã tác động mạnh mẽ nhất đến sự ra đời của Nhà nước Văn Lang — nhà nước đầu tiên của nước ta thời các Vua Hùng?",
+    "options": [
+      "Ảnh hưởng trực tiếp từ mô hình nhà nước phong kiến tập quyền ở phương Bắc",
+      "Sự bùng nổ dân số đô thị và nhu cầu mở rộng lãnh thổ ra ngoài Đông Nam Á",
+      "Yêu cầu tự vệ chống giặc ngoại xâm và yêu cầu làm thủy lợi của nền kinh tế",
+      "Nhu cầu giao thương hàng hải quốc tế và cạnh tranh khai thác khoáng sản"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Trang 103 nêu rõ: 'Do yêu cầu tự vệ trong chống giặc ngoại xâm và yêu cầu làm thủy lợi của nền kinh tế đã tác động mạnh mẽ đến sự hình thành của nhà nước đầu tiên của nước ta' — nền văn minh sông Hồng (Văn Lang) mà đỉnh cao là văn hóa Đông Sơn. (Dẫn chiếu: Mục 7.2.1.1, tr. 103)"
+  },
+  {
+    "id": 83,
+    "question": "Câu viết của Nguyễn Trãi 'Quan hà bách nhị do thiên thiết' được tài liệu trích dẫn khi phân tích yếu tố nào tác động đến nghệ thuật đánh giặc của ông cha ta?",
+    "options": [
+      "Yếu tố kinh tế tự cung tự cấp và trình độ canh tác nông nghiệp",
+      "Yếu tố văn hóa làng xã và phong tục tập quán của 54 dân tộc anh em",
+      "Yếu tố địa lý: địa hình nước Nam hiểm yếu, hai người chống trăm người",
+      "Yếu tố binh vận và nghệ thuật ngoại giao 'tâm công' với quân xâm lược"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Trang 104 trích câu của Nguyễn Trãi trong phần phân tích yếu tố địa lý: 'Quan hà bách nhị do thiên thiết' nghĩa là địa hình nước Nam hiểm yếu, dễ phòng thủ khó tấn công, hai người có thể chống được trăm người. (Dẫn chiếu: Mục 7.2.1.2a, tr. 103–104)"
+  },
+  {
+    "id": 84,
+    "question": "Trình tự thời gian đúng của các cuộc khởi nghĩa tiêu biểu trong thời kỳ hơn một nghìn năm Bắc thuộc (179 TCN – 938 SCN) được nêu trong tài liệu là gì?",
+    "options": [
+      "An Dương Vương (40) -> Lý Tự Tiên (248) -> Phùng Hưng (544) -> Lê Hoàn (722) -> Ngô Quyền (938)",
+      "Bà Triệu (40) -> Hai Bà Trưng (248) -> Mai Thúc Loan (542) -> Lý Bôn (722) -> Ngô Quyền (938)",
+      "Hai Bà Trưng (40) -> Lý Bôn (248) -> Bà Triệu (542) -> Đinh Tiên Hoàng (766) -> Ngô Quyền (938)",
+      "Hai Bà Trưng (40) -> Bà Triệu (248) -> Lý Bôn (542) -> Mai Thúc Loan (722) -> Ngô Quyền (938)"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Trang 105 trình bày chính xác chuỗi mốc: Hai Bà Trưng (mùa xuân năm 40, giữ độc lập 3 năm), Triệu Thị Trinh (248), Lý Bôn (542, đầu 544 lập nước Vạn Xuân), Lý Tự Tiên & Đinh Kiến (687), Mai Thúc Loan (722), Phùng Hưng (766–791) và chiến thắng Bạch Đằng của Ngô Quyền năm 938 chấm dứt hơn 1.000 năm Bắc thuộc. (Dẫn chiếu: Mục 7.2.1.3b, tr. 105)"
+  },
+  {
+    "id": 85,
+    "question": "Theo tài liệu, nguyên nhân cốt lõi khiến cuộc kháng chiến chống quân Minh do Hồ Quý Ly lãnh đạo (1406–1407) bị thất bại là gì?",
+    "options": [
+      "Do nhà Hồ chủ trương rút lui chiến lược bỏ kinh thành Thăng Long ngay từ đầu cuộc chiến",
+      "Do trong tác chiến quá thiên về phòng thủ và không phát động được toàn dân đánh giặc",
+      "Do quân Minh dùng kế 'tiên phát chế nhân' tiến công bất ngờ ngay vào dịp Tết nguyên đán",
+      "Do nhà Hồ thiếu vũ khí công thành và không xây dựng được hệ thống thành lũy kiên cố"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Trang 106 chỉ rõ hai bài học thất bại của cuộc kháng chiến chống Minh (1406–1407): 'Trong tác chiến quá thiên về phòng thủ coi đó là phương thức cơ bản dẫn đến sai lầm về chỉ đạo chiến lược, mặt khác không phát động được toàn dân đánh giặc nên bị thất bại'. (Dẫn chiếu: Mục 7.2.1.3c, tr. 106)"
+  },
+  {
+    "id": 86,
+    "question": "Chủ trương 'Ngồi yên đợi giặc không bằng đem quân ra trước để chặn mũi nhọn của chúng' gắn liền với vị anh hùng và trận đánh lịch sử nào?",
+    "options": [
+      "Lê Hoàn trong cuộc kháng chiến chống quân Tống lần thứ nhất vào năm 981",
+      "Nguyễn Huệ trong chiến dịch đại phá 29 vạn quân Mãn Thanh vào mùa xuân năm 1789",
+      "Trần Quốc Tuấn trong cuộc kháng chiến chống quân Nguyên - Mông lần thứ hai năm 1285",
+      "Lý Thường Kiệt phá kho lương thành Ung Châu và lập phòng tuyến sông Như Nguyệt (1075–1077)"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Trang 106 và 108 nêu rõ: trước nguy cơ xâm lược của nhà Tống (1075–1077), Lý Thường Kiệt đã dùng biện pháp 'tiên phát chế nhân' chủ động tiến công trước đốt phá kho lương thảo giặc ở thành Ung Châu, rồi lập phòng tuyến sông Như Nguyệt chặn giặc và giành thắng lợi. (Dẫn chiếu: Mục 7.2.1.3c và 7.2.1.4a, tr. 106–108)"
+  },
+  {
+    "id": 87,
+    "question": "Nghệ thuật 'tạm nhường thành Thăng Long' (thực hiện 'thành không nhà trống') của nhà Trần trong kháng chiến chống Nguyên - Mông mang ý nghĩa gì?",
+    "options": [
+      "Là sai lầm về chiến thuật khiến quân đội nhà Trần mất hoàn toàn khả năng tiếp tế hậu cần",
+      "Là rút lui chiến lược bảo toàn lực lượng, tiêu hao địch để tạo thời cơ phản công chiến lược",
+      "Là biểu hiện của tư tưởng rút lui đầu hàng để cầu hòa tạm thời với quân Nguyên - Mông",
+      "Nhằm dụ quân Nguyên - Mông kéo thẳng quân xuống phía Nam đánh quân Chiêm Thành"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Trang 108 giải thích: 'Rút lui chiến lược, tạm nhường Thăng Long cho giặc trong một thời gian nhất định là để bảo toàn lực lượng và đó là một nét độc đáo trong nghệ thuật tác chiến, chứ không phải là tư tưởng rút lui'; địch chỉ chiếm được 'thành không nhà trống', rơi vào thế 'tiến thoái lưỡng nan' để ta phản công quét sạch địch (lần 1 sau 9 ngày, lần 2 sau 5 tháng, lần 3 sau 3 tháng). (Dẫn chiếu: Mục 7.2.1.4a, tr. 108)"
+  },
+  {
+    "id": 88,
+    "question": "Trong nghệ thuật mưu kế đánh giặc của ông cha ta (mục 7.2.1.4b), cặp điển hình nào phản ánh ĐÚNG kế 'mưu phạt công tâm' và triệt phá hậu cần của địch?",
+    "options": [
+      "Quang Trung thực hiện kế 'thanh dã' rút khỏi Thăng Long chờ quân Thanh tự động rút lui",
+      "Ông cha ta tách rời tiến công quân sự khỏi binh vận và ngoại giao để giữ bí mật chiến dịch",
+      "Lý Thường Kiệt dùng kế 'vây thành diệt viện' tại cửa ải Chi Lăng để buộc giặc hàng",
+      "Lê Lợi - Nguyễn Trãi cấp thuyền ngựa cho hàng binh Minh; Trần Khánh Dư đánh đoàn thuyền lương ở Vân Đồn"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Trang 109–110 nêu rõ: Lê Lợi, Nguyễn Trãi thực hiện 'mưu phạt công tâm', đánh vào lòng người, cấp thuyền ngựa lương thảo cho hàng binh Minh về nước để 'muôn đời dập tắt chiến tranh'; quân dân nhà Trần thực hiện kế 'thanh dã' (vườn không nhà trống) và Trần Khánh Dư tiêu diệt đoàn thuyền lương Trương Văn Hổ ở bến Vân Đồn. (Dẫn chiếu: Mục 7.2.1.4b, tr. 109–110)"
+  },
+  {
+    "id": 89,
+    "question": "Vì sao Lê Lợi bác bỏ đề nghị đánh gấp thành Đông Quan mà quyết định thực hành trận Chi Lăng - Xương Giang tiêu diệt viện binh nhà Minh?",
+    "options": [
+      "Vì 'đánh thành hạ sách', giữ nhuệ khí phá viện binh thì thành tất phải hàng ('được cả hai')",
+      "Vì Lê Lợi muốn kéo dài chiến tranh thêm nhiều năm để chờ đợi nguồn viện trợ từ bên ngoài",
+      "Vì lực lượng nghĩa quân Lam Sơn lúc đó hoàn toàn không có khả năng bao vây thành trì lớn",
+      "Vì thành Đông Quan không phải là nơi đóng quân chủ lực của tổng chỉ huy Vương Thông"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Trang 112 trích phân tích sáng suốt của Lê Lợi: 'đánh thành hạ sách... Sao bằng nuôi dưỡng sức quân, giữ lấy nhuệ khí để đợi viện binh của giặc. Viện binh bị phá thì thành tất phải hàng. Làm một việc mà được cả hai, đó mới là kế sách vẹn toàn'. (Dẫn chiếu: Mục 7.2.1.4e, tr. 112)"
+  },
+  {
+    "id": 90,
+    "question": "Theo mục 7.2.1.4d, bản chất nghệ thuật 'lấy nhỏ đánh lớn, lấy ít địch nhiều, lấy yếu chống mạnh' của ông cha ta là gì?",
+    "options": [
+      "Chỉ áp dụng được trong khởi nghĩa nông dân quy mô nhỏ, không dùng được ở chiến tranh giải phóng",
+      "Là lối đánh phòng ngự thụ động dựa hoàn toàn vào hệ thống thành lũy kiên cố ở đồng bằng",
+      "Là sự liều lĩnh bất chấp tương quan lực lượng mỗi khi quân số của ta ít hơn quân địch",
+      "Là sản phẩm của lấy 'thế' thắng 'lực', tạo sức mạnh tổng hợp chứ không chỉ so sánh quân số, vũ khí"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Trang 110–111 giải thích: 'Nghệ thuật lấy nhỏ đánh lớn, lấy ít địch nhiều, lấy yếu chống mạnh chính là sản phẩm của lấy \"thế\" thắng \"lực\"' — với các điển hình như Lý (10 vạn chống 30 vạn Tống), Trần (15 vạn chống 60 vạn và 50 vạn Nguyên bằng 'lấy đoản binh chế trường trận'), Lam Sơn (10 vạn thắng 80 vạn Minh), Tây Sơn (10 vạn thắng 29 vạn Thanh). (Dẫn chiếu: Mục 7.2.1.4d, tr. 110–111)"
+  },
+  {
+    "id": 91,
+    "question": "Nghệ thuật quân sự Việt Nam từ khi có Đảng lãnh đạo gồm ba bộ phận hợp thành nào, và bộ phận nào đóng vai trò chủ đạo?",
+    "options": [
+      "Chiến lược quân sự (chủ đạo), Nghệ thuật chiến dịch (khâu nối liền) và Chiến thuật",
+      "Hậu cần quân sự (chủ đạo), Ngoại giao quốc phòng và Công tác binh địch vận",
+      "Nghệ thuật phòng ngự (chủ đạo), Nghệ thuật tiến công và Nghệ thuật rút lui chiến lược",
+      "Tác chiến du kích (chủ đạo), Tác chiến hiệp đồng quân chủng và Tác chiến phòng không"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Trang 113–114 khẳng định nghệ thuật quân sự Việt Nam từ khi có Đảng lãnh đạo gồm 3 bộ phận hợp thành có quan hệ biện chứng: chiến lược quân sự (đóng vai trò chủ đạo, quan trọng nhất), nghệ thuật chiến dịch (khâu nối liền giữa chiến lược quân sự và chiến thuật) và chiến thuật. (Dẫn chiếu: Mục 7.2.2, tr. 113–114)"
+  },
+  {
+    "id": 92,
+    "question": "Trong hoàn cảnh 'ngàn cân treo sợi tóc' sau Cách mạng Tháng Tám 1945 (có quân Anh, Tưởng, Ấn Độ, Nhật và Pháp), Đảng ta đã xác định đúng kẻ thù nguy hiểm, trực tiếp là lực lượng nào?",
+    "options": [
+      "Xác định đồng thời tất cả các quân đội nước ngoài là đối tượng tác chiến trực tiếp trên chiến trường",
+      "Chờ đến sau phong trào Đồng khởi năm 1960 mới xác định được đối tượng tác chiến trực tiếp ở miền Nam",
+      "Xác định thực dân Pháp là kẻ thù nguy hiểm, trực tiếp (và từ tháng 9/1954 nhận định đế quốc Mỹ là kẻ thù trực tiếp)",
+      "Xác định quân Tưởng là kẻ thù nguy hiểm nhất và liên kết quân sự lâu dài với thực dân Pháp để đánh Tưởng"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Trang 114 nêu rõ hai quyết sách chiến lược mẫu mực trong xác định đúng kẻ thù: sau CMT8/1945 giữa nhiều quân đội nước ngoài, Đảng xác định thực dân Pháp là kẻ thù nguy hiểm, trực tiếp; và ngay từ tháng 9/1954 sau Điện Biên Phủ, Đảng nhận định đế quốc Mỹ đang dần trở thành kẻ thù trực tiếp, nguy hiểm. (Dẫn chiếu: Mục 7.2.2.2a, tr. 114)"
+  },
+  {
+    "id": 93,
+    "question": "Theo mục 7.2.2.2a (tr. 116), phương thức tiến hành chiến tranh được Đảng chỉ đạo trong kháng chiến chống xâm lược là kết hợp các yếu tố nào?",
+    "options": [
+      "Tách riêng tác chiến của các binh đoàn chủ lực khỏi phong trào quần chúng ở nông thôn đồng bằng",
+      "Hai lực lượng (chính trị, quân sự), ba mũi giáp công trên cả ba vùng chiến lược (rừng núi, đồng bằng, đô thị)",
+      "Chỉ sử dụng đấu tranh chính trị ở đô thị kết hợp đấu tranh ngoại giao trên bàn đàm phán",
+      "Chỉ sử dụng một lực lượng quân sự tập trung tác chiến đơn lẻ trên địa bàn rừng núi"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Trang 116 ghi đầy đủ công thức phương thức tiến hành chiến tranh: chiến tranh nhân dân kết hợp LLVT địa phương với các binh đoàn chủ lực; hai lực lượng (chính trị, quân sự); ba mũi giáp công (quân sự, chính trị, binh vận); trên cả ba vùng chiến lược (rừng núi, nông thôn đồng bằng và đô thị). (Dẫn chiếu: Mục 7.2.2.2a, tr. 116)"
+  },
+  {
+    "id": 94,
+    "question": "Sự hình thành chiến dịch trong nghệ thuật chiến dịch Việt Nam được đánh dấu bằng chiến dịch nào và gồm 5 loại hình chiến dịch gì?",
+    "options": [
+      "Đánh dấu bằng Chiến dịch Hồ Chí Minh 1975; toàn bộ các chiến dịch chỉ diễn ra ở địa hình rừng núi hiểm trở",
+      "Đánh dấu bằng Việt Bắc Thu - Đông 1947; gồm tiến công, phản công, phòng ngự, phòng không và tiến công tổng hợp",
+      "Đánh dấu bằng Chiến dịch Biên giới 1950; chỉ gồm hai loại hình tiến công và phòng ngự",
+      "Đánh dấu bằng Chiến dịch Điện Biên Phủ 1954; không bao gồm loại hình chiến dịch phòng không và phản công"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Trang 116–117 nêu rõ: chiến dịch hình thành trong kháng chiến chống Pháp, đánh dấu bằng Chiến dịch Việt Bắc Thu - Đông năm 1947 (hơn 40 chiến dịch chống Pháp, hơn 50 chiến dịch chống Mỹ) với 5 loại hình: tiến công (Điện Biên Phủ 1954, Tây Nguyên, Hồ Chí Minh 1975), phản công (Việt Bắc 1947, Đường 9 - Nam Lào 1971), phòng ngự (Quảng Trị 1972), phòng không (Hà Nội 1972) và tiến công tổng hợp (Khu 8). (Dẫn chiếu: Mục 7.2.2.2b, tr. 116–117)"
+  },
+  {
+    "id": 95,
+    "question": "Bước phát triển của nghệ thuật chiến dịch trong Chiến dịch Điện Biên Phủ (1954) và Tổng tiến công mùa Xuân 1975 thể hiện rõ nhất ở điểm nào?",
+    "options": [
+      "Ở Điện Biên Phủ quy mô chỉ từ 1 đến 3 trung đoàn; ở Xuân 1975 không kết hợp tiến công quân sự với nổi dậy quần chúng",
+      "Cả hai giai đoạn đều chỉ tác chiến đơn binh chủng ở ngoài công sự và chủ động tránh các trận quyết chiến chiến lược",
+      "Điện Biên Phủ chuyển sang 'đánh chắc, tiến chắc' (5 đại đoàn); Xuân 1975 đánh lần lượt và đồng loạt (5 quân đoàn)",
+      "Ở Điện Biên Phủ giữ nguyên 'đánh nhanh, thắng nhanh'; ở Xuân 1975 chỉ tiến công lần lượt từng mặt trận nhỏ lẻ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Trang 117–118 phân tích chi tiết: Điện Biên Phủ chuyển từ 'đánh nhanh, thắng nhanh' sang 'đánh chắc, tiến chắc', quy mô 5 đại đoàn, vây hãm kết hợp đột phá; Xuân 1975 có bước phát triển nhảy vọt với 5 quân đoàn bộ binh và nhiều quân binh chủng, vận dụng cả hai cách đánh lần lượt và đồng loạt, kết hợp tiến công và nổi dậy, khuếch trương kết quả trận then chốt trước với trận then chốt sau. (Dẫn chiếu: Mục 7.2.2.2b, tr. 117–118)"
+  },
+  {
+    "id": 96,
+    "question": "Trình tự phát triển của hình thức 'Chiến thuật' qua các giai đoạn của hai cuộc kháng chiến chống Pháp và chống Mỹ (tr. 118–119) diễn ra như thế nào?",
+    "options": [
+      "Đầu kỳ dùng du kích chiến, vận động chiến ngoài công sự; giai đoạn sau đánh trong công sự, hiệp đồng; cuối kỳ xuất hiện phòng ngự",
+      "Từ phòng ngự trận địa quy mô quân đoàn ở giai đoạn đầu chuyển sang du kích chiến quy mô tiểu đội ở giai đoạn cuối",
+      "Chiến thuật trong hai cuộc kháng chiến chỉ sử dụng vũ khí thô sơ và hoàn toàn không có sự hiệp đồng giữa ba thứ quân",
+      "Ngay từ đầu kháng chiến chống Pháp đã thực hành tác chiến hiệp đồng quân binh chủng quy mô sư đoàn đánh trong công sự"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Trang 118–119 trình bày tiến trình phát triển chiến thuật qua 3 chặng: đầu kỳ chủ yếu du kích chiến, vận động chiến ngoài công sự (tập kích, phục kích, vận động tiến công quy mô trung/đại/tiểu đoàn); giai đoạn sau đánh giỏi địch trong công sự và hiệp đồng quân binh chủng; cuối kỳ xuất hiện chiến thuật phòng ngự (đồi A1, Quảng Trị 1972, Thượng Đức 1974), truy kích, đánh địch đổ bộ đường không. (Dẫn chiếu: Mục 7.2.2.2c, tr. 118–119)"
+  },
+  {
+    "id": 97,
+    "question": "Trong 5 bài học kinh nghiệm về nghệ thuật quân sự (mục 7.2.3.1), khi khai thác 'thiên thời, địa lợi, nhân hòa', tài liệu nhấn mạnh đặc biệt chú trọng yếu tố nào?",
+    "options": [
+      "Đặc biệt chú trọng 'địa lợi' vì địa hình tự nhiên có thể tự động vô hiệu hóa mọi loại vũ khí công nghệ cao",
+      "Đặc biệt chú trọng 'nhân hòa', kết hợp chặt chẽ lực, thế, thời, mưu để tạo ra sức mạnh tổng hợp đánh thắng địch",
+      "Đặc biệt chú trọng 'thiên thời' vì yếu tố thời đại bên ngoài quyết định thay thế hoàn toàn yếu tố bên trong",
+      "Chỉ cần tập trung tăng quân số thường trực thật đông, không cần tạo thế trận hay giữ yếu tố bí mật, bất ngờ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Trang 120 viết: 'Nghệ thuật quân sự của ta còn phải biết đánh giá đúng và triệt để khai thác các yếu tố \"thiên thời, địa lợi, nhân hòa\"... trong đó, cần đặc biệt chú trọng \"nhân hòa\". Chỉ có kết hợp chặt chẽ lực, thế, thời, mưu và các yếu tố khác, ta mới có thể tạo ra sức mạnh tổng hợp...'. (Dẫn chiếu: Mục 7.2.3.1c, tr. 120)"
+  },
+  {
+    "id": 98,
+    "question": "Theo mục 8.2.1.1, 'Quốc gia' gồm ba yếu tố cấu thành nào, và 'Lãnh thổ quốc gia Việt Nam' bao gồm những bộ phận nào?",
+    "options": [
+      "Gồm chính quyền, hiến pháp và biển đảo; Lãnh thổ VN chỉ gồm nội thủy, vùng tiếp giáp lãnh hải và vùng biển quốc tế",
+      "Gồm lãnh thổ, văn hóa và ngoại giao; Lãnh thổ VN gồm đất liền, vùng đặc quyền kinh tế 200 hải lý và vùng trời",
+      "Gồm lãnh thổ, kinh tế và quân đội; Lãnh thổ VN chỉ gồm đất liền và thềm lục địa ngoài khơi",
+      "Gồm lãnh thổ, dân cư, chính quyền; Lãnh thổ VN gồm vùng đất, vùng biển (nội thủy, lãnh hải), vùng trời, lãnh thổ đặc biệt"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Trang 123–124 xác định rõ: Quốc gia gồm 3 yếu tố là lãnh thổ, dân cư và chính quyền; Lãnh thổ quốc gia Việt Nam gồm vùng đất quốc gia (đất liền, đảo, quần đảo — bộ phận quan trọng nhất), vùng biển quốc gia (nội thủy và lãnh hải), vùng trời quốc gia và lãnh thổ quốc gia đặc biệt. (Dẫn chiếu: Mục 8.2.1.1, tr. 123–124)"
+  },
+  {
+    "id": 99,
+    "question": "Trong luật biển quốc tế được trình bày ở mục 8.2.1.1, chiều rộng của 'Lãnh hải quốc gia' và mức độ thực hiện chủ quyền giữa 'Nội thủy' với 'Lãnh hải' được quy định như thế nào?",
+    "options": [
+      "Lãnh hải rộng 12 hải lý (ranh giới ngoài là BGQG trên biển); chủ quyền tuyệt đối ở nội thủy, đầy đủ toàn vẹn ở lãnh hải",
+      "Lãnh hải rộng 12 hải lý nhưng chỉ có quyền tài phán về đánh bắt cá chứ không phải là lãnh thổ biển quốc gia",
+      "Lãnh hải rộng 200 hải lý; quốc gia ven biển không thực hiện chủ quyền ở vùng lãnh hải",
+      "Lãnh hải rộng 24 hải lý tính từ bờ biển; nội thủy có chế độ pháp lý tương tự như vùng biển quốc tế"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Trang 124 nêu chính xác: Lãnh hải quốc gia có chiều rộng 12 hải lý tính từ đường cơ sở, có chế độ pháp lý như lãnh thổ đất liền, ranh giới ngoài của lãnh hải là biên giới quốc gia trên biển. Quốc gia thực hiện chủ quyền tuyệt đối, đầy đủ, toàn vẹn ở vùng nội thủy và đầy đủ, toàn vẹn ở vùng lãnh hải. (Dẫn chiếu: Mục 8.2.1.1, tr. 124)"
+  },
+  {
+    "id": 100,
+    "question": "Sự khác biệt giữa 'Quyền chủ quyền' và 'Quyền tài phán' của quốc gia ven biển tại vùng đặc quyền kinh tế và thềm lục địa (tr. 125) là gì?",
+    "options": [
+      "Quyền chủ quyền gắn với tài nguyên và khai thác kinh tế; quyền tài phán là thẩm quyền quản lý, cấp phép, xử lý và mở rộng hơn",
+      "Cả quyền chủ quyền và quyền tài phán đều chỉ có giá trị pháp lý trong phạm vi 12 hải lý của vùng lãnh hải",
+      "Quyền chủ quyền chỉ áp dụng cho tàu treo cờ ở biển quốc tế, còn quyền tài phán chỉ áp dụng trong đất liền",
+      "Quyền tài phán có trước quyền chủ quyền và đồng nghĩa với chủ quyền lãnh thổ tuyệt đối trên vùng đặc quyền kinh tế"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Trang 125 phân biệt rất rõ: Quyền chủ quyền đối với tài nguyên thiên nhiên và hoạt động kinh tế ở EEZ/thềm lục địa bắt nguồn từ chủ quyền lãnh thổ; Quyền tài phán là thẩm quyền riêng biệt đưa ra quyết định, quy phạm, cấp phép, giám sát, xử lý (đảo nhân tạo, công trình, NCKH biển, môi trường biển), là hệ quả của quyền chủ quyền và có không gian mở rộng hơn (kể cả trên tàu thuyền treo cờ quốc gia đó hoạt động ở vùng biển nước khác). (Dẫn chiếu: Mục 8.2.1.1, tr. 125)"
+  },
+  {
+    "id": 101,
+    "question": "Theo số liệu tại mục 8.2.1.2 (tr. 125), thực trạng chiếm đóng trái phép tại quần đảo Hoàng Sa và tranh chấp trên quần đảo Trường Sa hiện nay như thế nào?",
+    "options": [
+      "Trung Quốc chiếm đóng trái phép toàn bộ Hoàng Sa (4/1956 và 01/1974); ở Trường Sa có 04 nước 05 bên đóng giữ (VN giữ 21 đảo)",
+      "Việt Nam hiện đóng giữ 12 đảo ở Hoàng Sa và 9 đảo ở Trường Sa; Brunei đang chiếm đóng trái phép 07 đảo đá ngầm",
+      "Trung Quốc chiếm đóng trái phép toàn bộ Hoàng Sa vào năm 1988; tại Trường Sa hiện chỉ có 02 nước đưa ra yêu sách chủ quyền",
+      "Đài Loan chiếm đóng toàn bộ quần đảo Hoàng Sa còn Philippines đóng giữ đảo Ba Bình lớn nhất ở Trường Sa"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Trang 125 ghi cụ thể: Trung Quốc chiếm đóng trái phép toàn bộ Hoàng Sa trong 2 đợt (tháng 4/1956 và tháng 01/1974). Tại Trường Sa có mặt lực lượng 04 nước 05 bên và yêu sách 05 nước 06 bên: Việt Nam đóng giữ 21 đảo (09 đảo nổi, 12 đảo đá ngầm); TQ chiếm trái phép 07 đảo đá ngầm; Đài Loan chiếm đảo Ba Bình (lớn nhất Trường Sa); Philippines 09 đảo; Malaysia 07 đảo; Brunei không có đảo nhưng tuyên bố chủ quyền. (Dẫn chiếu: Mục 8.2.1.2, tr. 125)"
+  },
+  {
+    "id": 102,
+    "question": "Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam đã thông qua Nghị quyết phê chuẩn văn bản gia nhập Công ước Liên hợp quốc về Luật Biển năm 1982 (UNCLOS 1982) vào ngày nào?",
+    "options": [
+      "Ngày 23 tháng 6 năm 1994",
+      "Ngày 04 tháng 11 năm 2002",
+      "Ngày 17 tháng 6 năm 2003",
+      "Ngày 10 tháng 12 năm 1982"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Trang 126 nêu rõ: Trong Nghị quyết phê chuẩn văn bản gia nhập Công ước Liên hợp quốc về Luật Biển năm 1982 của Quốc hội Việt Nam ngày 23 tháng 6 năm 1994 đã ghi nhận mọi tranh chấp đối với các vùng biển được giải quyết trên tinh thần bình đẳng, hiểu biết, tôn trọng lẫn nhau và tôn trọng luật pháp quốc tế. (Dẫn chiếu: Mục 8.2.1.2, tr. 126)"
+  },
+  {
+    "id": 103,
+    "question": "Trong nền kinh tế đối ngoại của nước ta hiện nay (tr. 126), vận tải biển chiếm tỷ lệ khoảng bao nhiêu phần trăm lưu lượng hàng hóa xuất nhập khẩu?",
+    "options": [
+      "Dưới 30% lưu lượng hàng hóa xuất nhập khẩu",
+      "Khoảng 60% lưu lượng hàng hóa xuất nhập khẩu",
+      "Khoảng 45% lưu lượng hàng hóa xuất nhập khẩu",
+      "Trên 80% lưu lượng hàng hóa xuất nhập khẩu"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Trang 126 nhấn mạnh: 'Cần nhấn mạnh rằng, vận tải biển của Việt Nam chiếm trên 80% lưu lượng hàng hóa xuất nhập khẩu'. (Dẫn chiếu: Mục 8.2.1.2, tr. 126)"
+  },
+  {
+    "id": 104,
+    "question": "Lập trường nhất quán của Đảng và Nhà nước ta trong giải quyết các tranh chấp ở Biển Đông (mục 8.2.1.3) dựa trên cơ sở pháp lý và văn kiện khu vực nào?",
+    "options": [
+      "Đàm phán hòa bình trên cơ sở luật pháp quốc tế, nhất là UNCLOS 1982 và Tuyên bố DOC 2002, hướng tới Bộ quy tắc COC",
+      "Chỉ đàm phán song phương với các nước ngoài ASEAN mà không căn cứ vào Công ước Luật Biển 1982",
+      "Sử dụng biện pháp quân sự đơn phương để nhanh chóng áp đặt kiểm soát toàn bộ các vùng biển đảo",
+      "Chấp nhận gác bỏ chủ quyền đối với hai quần đảo Hoàng Sa và Trường Sa để đổi lấy hợp tác kinh tế"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Trang 126–129 khẳng định Việt Nam có đầy đủ bằng chứng lịch sử và cơ sở pháp lý khẳng định chủ quyền với Hoàng Sa, Trường Sa; chủ trương kiên trì đối thoại hòa bình trên cơ sở luật pháp quốc tế, UNCLOS 1982, 5 nguyên tắc chung sống hòa bình, thực hiện nghiêm chỉnh DOC 2002 giữa ASEAN và Trung Quốc và hướng tới xây dựng COC. (Dẫn chiếu: Mục 8.2.1.3, tr. 126–129)"
+  },
+  {
+    "id": 105,
+    "question": "Trong Chiến lược phát triển bền vững kinh tế biển Việt Nam đến năm 2030, tầm nhìn đến năm 2045 và chủ trương 'dân sự hóa trên biển' (tr. 127–130), nhận định nào ĐÚNG?",
+    "options": [
+      "Chiến lược kinh tế biển chỉ tập trung vào đánh bắt ven bờ bằng mọi phương pháp kể cả phương pháp hủy diệt",
+      "'Dân sự hóa trên biển' gắn với tổ chức dân cư, sản xuất, hạ tầng lưỡng dụng, kết hợp thế trận 'tĩnh' và thế 'động'",
+      "'Dân sự hóa trên biển' đồng nghĩa với việc rút toàn bộ lực lượng quân sự ra khỏi các đảo để chỉ làm du lịch",
+      "Tầm nhìn đến năm 2045 chỉ tập trung thủy sản nội địa, không tham gia giải quyết các vấn đề quốc tế về biển"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Trang 128–130 nêu rõ: nghiêm cấm khai thác hủy diệt, phát triển đánh bắt xa bờ; dân sự hóa trên biển đảo gắn với tổ chức dân cư định cư ổn định, thí điểm khu quốc phòng - kinh tế (Trường Sa, vùng biển Đông Bắc...), kết hợp thế trận 'tĩnh' của đảo và bờ với thế 'động' của lực lượng cơ động trên biển. (Dẫn chiếu: Mục 8.2.1.3, tr. 127–130)"
+  },
+  {
+    "id": 106,
+    "question": "Trong 4 giải pháp bảo vệ chủ quyền biển, đảo hiện nay (mục 8.2.1.4c, tr. 132–136), giải pháp thứ tư đặt trọng tâm vào nhiệm vụ nào?",
+    "options": [
+      "Giải thể các tổ chức chính trị ở vùng biển đảo để áp dụng cơ chế quân quản hoàn toàn trên các đảo xa",
+      "Hạn chế hoạt động của lực lượng kiểm ngư và dân quân tự vệ biển ở vùng ven bờ và các huyện đảo",
+      "Củng cố, nâng cao hiệu quả hệ thống chính trị ở các đặc khu (nhất là đặc khu xa bờ) tạo thế trận liên hoàn",
+      "Chuyển toàn bộ dân cư đang sinh sống ở các huyện đảo vào đất liền để bảo đảm an toàn tuyệt đối cho dân"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Giải pháp thứ tư (tr. 135–136) nhấn mạnh củng cố và nâng cao hiệu quả hoạt động của hệ thống chính trị ở các đặc khu, hoàn thiện thiết chế phù hợp đặc thù biển đảo, phát huy vai trò tổ chức Đảng và phối hợp giữa các đặc khu để tạo thế trận liên hoàn trên biển. (Dẫn chiếu: Mục 8.2.1.4c, tr. 135–136)"
+  },
+  {
+    "id": 107,
+    "question": "Theo Điều 1 Luật Biên giới quốc gia năm 2003 (mục 8.2.2.1), biên giới quốc gia Việt Nam gồm những bộ phận nào và chiều dài biên giới đất liền là bao nhiêu?",
+    "options": [
+      "Gồm biên giới trên đất liền (dài 3.260 km) và trên biển; không bao gồm vùng trời và trong lòng đất",
+      "Gồm biên giới trên đất liền (dài 4.550 km giáp TQ, Lào, Campuchia), trên biển, trên không và trong lòng đất",
+      "Chỉ gồm hệ thống các cột mốc quốc giới trên đất liền và các cửa khẩu đường bộ nối với các nước bạn",
+      "Gồm biên giới trên đất liền (dài 4.550 km) và trên biển; đã quy định rõ độ cao trên không và độ sâu lòng đất"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Trang 136 và 140 nêu rõ: Biên giới quốc gia VN gồm 4 bộ phận (đất liền, biển, không, lòng đất); đường biên giới đất liền dài 4.550 km (bờ biển dài 3.260 km); đến nay chưa có quốc gia nào quy định độ cao cụ thể của biên giới trên không và độ sâu cụ thể của biên giới trong lòng đất. (Dẫn chiếu: Mục 8.2.2.1, tr. 136, 140)"
+  },
+  {
+    "id": 108,
+    "question": "Theo mục 8.2.2.1đ (tr. 140), 'Khu vực biên giới trên không' của Việt Nam được xác định có chiều rộng bao nhiêu?",
+    "options": [
+      "Toàn bộ vùng trời phía trên phần đất liền và các đảo thuộc chủ quyền của nước Việt Nam",
+      "Phần không gian dọc theo biên giới quốc gia có chiều rộng 12 hải lý tính từ đường cơ sở trở ra",
+      "Phần không gian dọc theo biên giới quốc gia có chiều rộng 10 km tính từ biên giới Việt Nam trở vào",
+      "Phần không gian dọc theo biên giới quốc gia có chiều rộng 05 km tính từ biên giới Việt Nam trở vào"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Trang 140 quy định rõ 3 phạm vi khu vực biên giới: trên đất liền gồm xã/phường/thị trấn có phần địa giới trùng biên giới đất liền; trên biển tính từ BGQG trên biển vào hết địa giới hành chính xã/phường/thị trấn giáp biển và đảo, quần đảo; trên không gồm phần không gian dọc theo BGQG có chiều rộng 10 km tính từ biên giới Việt Nam trở vào. (Dẫn chiếu: Mục 8.2.2.1đ, tr. 140)"
+  },
+  {
+    "id": 109,
+    "question": "Bộ ba mốc ký kết Hiệp ước hoạch định/biên giới trên đất liền giữa Việt Nam với Trung Quốc, Lào và Campuchia nào sau đây được ghi nhận ĐÚNG trong tài liệu?",
+    "options": [
+      "Ba văn kiện biên giới đất liền VN - TQ ký năm 1991 và chính thức có hiệu lực ngay trong năm 1993",
+      "Hiệp ước xác định giao điểm đường biên giới VN - Lào - Trung Quốc được ký kết ngày 26/8/2008",
+      "VN - TQ (ký 18/7/1977); VN - Lào (ký 30/12/1999); VN - Campuchia (ký 19/11/2009)",
+      "VN - TQ (ký 30/12/1999, hiệu lực 06/7/2000); VN - Lào (ký 18/7/1977); VN - Campuchia (ký 27/12/1985)"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Đối chiếu trang 136–138: VN-TQ ký Hiệp ước BG đất liền 30/12/1999 (hiệu lực 06/7/2000) và 3 văn kiện BG đất liền 19/11/2009 (hiệu lực 14/7/2010); VN-Lào ký Hiệp ước hoạch định BGQG 18/7/1977; VN-Campuchia ký Hiệp ước hoạch định BGQG 27/12/1985; ngã ba VN-Lào-TQ ký 10/10/2006 còn VN-Lào-CPC ký 26/8/2008. (Dẫn chiếu: Mục 8.2.2.1a, tr. 136–138)"
+  },
+  {
+    "id": 110,
+    "question": "Trong bảo vệ biên giới quốc gia (mục 8.2.2.2), lực lượng nào là nòng cốt chuyên trách, và khi có xung đột, chiến tranh có những trạng thái sẵn sàng chiến đấu nào?",
+    "options": [
+      "Bộ đội chủ lực thay thế hoàn toàn công an và chính quyền địa phương trong bảo vệ khu vực biên giới thời bình",
+      "Lực lượng Cảnh sát biển là nòng cốt chuyên trách trên đất liền; gồm hai trạng thái phòng ngự và phản công",
+      "Lực lượng Dân quân tự vệ là lực lượng chuyên trách quản lý việc ký kết các hiệp định biên giới với nước ngoài",
+      "Bộ đội Biên phòng là nòng cốt chuyên trách; thể hiện qua 3 trạng thái SSCĐ: thường xuyên, tăng cường và cao"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Trang 143–144 nêu rõ: Bộ đội Biên phòng là lực lượng nòng cốt chuyên trách phối hợp với công an, các ngành và chính quyền địa phương quản lý, bảo vệ BGQG. Khi có xung đột hoặc chiến tranh, các biện pháp bảo vệ thể hiện rõ qua 3 trạng thái SSCĐ: thường xuyên, tăng cường và cao. (Dẫn chiếu: Mục 8.2.2.2a–b, tr. 143–144)"
+  },
+  {
+    "id": 111,
+    "question": "Theo giải pháp tăng cường sự lãnh đạo của Đảng, quản lý của Nhà nước về biên giới quốc gia (tr. 145), nguyên tắc thẩm quyền đối với việc ký kết hiệp định biên giới là gì?",
+    "options": [
+      "Mọi chủ trương lãnh thổ, biên giới và ký kết hiệp định với nước ngoài phải do Nhà nước thống nhất quản lý",
+      "Cấp ủy địa phương chỉ phụ trách phát triển kinh tế, không chỉ đạo xây dựng nền biên phòng toàn dân tại cơ sở",
+      "Giao cho các ban quản lý cửa khẩu tự thỏa thuận quy chế quản lý biên giới trực tiếp với đối tác nước ngoài",
+      "Các tỉnh có biên giới được tự chủ ký kết các hiệp định hoạch định lại đường biên giới với nước láng giềng"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Trang 145 quy định nghiêm ngặt: Bộ Chính trị trực tiếp lãnh đạo các vấn đề đối nội, đối ngoại, quan hệ biên giới; mọi chủ trương giải quyết về lãnh thổ, biên giới và ký kết hiệp định với nước ngoài đều phải do Nhà nước thống nhất quản lý, khắc phục tình trạng tùy tiện, lạm quyền làm tổn hại lợi ích quốc gia. (Dẫn chiếu: Mục 8.2.2.2c, tr. 145)"
+  },
+  {
+    "id": 112,
+    "question": "Trong giải pháp đàm phán giải quyết các vấn đề tồn tại về biên giới với các nước láng giềng (tr. 148), Việt Nam tiến hành theo phương châm nào?",
+    "options": [
+      "Dễ trước khó sau, đủ điều kiện - tài liệu pháp lý giải quyết trước; chưa đủ giải quyết sau; kiên trì, khôn khéo",
+      "Giải quyết vấn đề phức tạp, chưa đủ chứng cứ pháp lý trước; những vấn đề dễ giải quyết sau",
+      "Chấp nhận phân giới cắm mốc mới mà không cần căn cứ tư liệu, bản đồ hay bằng chứng quản lý lâu đời",
+      "Từ chối áp dụng cơ chế hòa bình theo Điều 33 Hiến chương Liên hợp quốc để tránh quốc tế hóa tranh chấp"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Trang 148 nêu rõ: dựa vào Điều 33 Hiến chương LHQ và các yếu tố pháp lý (luật pháp quốc tế, tư liệu, bản đồ, bằng chứng quản lý lâu đời), trong đàm phán biên giới với láng giềng tiến hành theo cách: 'Dễ trước khó sau, đủ điều kiện, cơ sở pháp lý, tài liệu giải quyết trước; chưa đủ tài liệu, chứng cứ pháp lý giải quyết sau; giải quyết vấn đề biển, đảo phải kiên trì, kiềm chế, khôn khéo, không để sơ hở để họ tạo cớ gây căng thẳng, xung đột'. (Dẫn chiếu: Mục 8.2.2.2c, tr. 148)"
+  },
+  {
+    "id": 113,
+    "question": "Hành động và nhận thức nào của sinh viên thể hiện ĐÚNG trách nhiệm xây dựng, bảo vệ chủ quyền biển, đảo, biên giới quốc gia theo mục 8.2.3?",
+    "options": [
+      "Cho rằng sinh viên chưa nhập ngũ thì chưa có nghĩa vụ tuyên truyền và thực hiện Luật Biên giới quốc gia 2003",
+      "Quán triệt lập trường theo UNCLOS 1982, học tốt môn GDQPAN, sẵn sàng phục vụ QĐND, CAND hoặc khu KT-QP",
+      "Đăng tải ý kiến cá nhân kích động xung đột vũ trang trên biển trái đường lối hòa bình của Đảng, Nhà nước",
+      "Chỉ quan tâm bảo vệ chủ quyền đất liền, xem vùng đặc quyền kinh tế 200 hải lý không liên quan đến công dân"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Trang 148–149 tổng hợp 5 yêu cầu trách nhiệm sinh viên: đi tiên phong lan tỏa nhận thức đúng theo lập trường Đảng, Nhà nước (chủ quyền Hoàng Sa, Trường Sa, nội thủy, lãnh hải; quyền chủ quyền và quyền tài phán trong vùng ĐQKT 200 hải lý và thềm lục địa theo UNCLOS 1982); nâng cao lòng yêu nước; hiểu ý nghĩa thiêng liêng BGQG; học tốt môn GDQPAN; sẵn sàng tham gia QĐND, CAND hoặc tình nguyện phục vụ tại khu KT-QP và chấp hành nghiêm Luật BGQG 2003. (Dẫn chiếu: Mục 8.2.3, tr. 148–149)"
+  },
+  {
+    "id": 114,
+    "question": "Theo mục 9.2.1.1a, điểm phân biệt tên gọi giữa 'Dân quân' và 'Tự vệ' trong lực lượng vũ trang quần chúng không thoát ly sản xuất, công tác là gì?",
+    "options": [
+      "Dân quân hoạt động trong thời chiến tranh, còn Tự vệ chỉ hoạt động bảo vệ trong thời bình",
+      "Lực lượng tổ chức ở địa phương gọi là dân quân; tổ chức ở cơ quan, đơn vị sự nghiệp, tổ chức kinh tế gọi là tự vệ",
+      "Dân quân là lực lượng thường trực thoát ly sản xuất, còn Tự vệ là lực lượng bán chuyên trách",
+      "Dân quân được trang bị vũ khí hiện đại, còn Tự vệ chỉ thực hiện nhiệm vụ bảo vệ hành chính"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Trang 151 định nghĩa: Dân quân tự vệ là lực lượng vũ trang quần chúng không thoát ly sản xuất, công tác; được tổ chức ở địa phương gọi là dân quân, được tổ chức ở cơ quan nhà nước, tổ chức chính trị, tổ chức chính trị - xã hội, đơn vị sự nghiệp, tổ chức kinh tế gọi là tự vệ. (Dẫn chiếu: Mục 9.2.1.1a, tr. 151)"
+  },
+  {
+    "id": 115,
+    "question": "Theo số liệu thực tiễn tại mục 9.2.1.1b (tr. 152), đóng góp của BĐĐP, dân quân du kích trong 9 năm chống Pháp và DQTV miền Bắc (04/1968–1973) được ghi nhận là gì?",
+    "options": [
+      "9 năm chống Pháp dân quân du kích chỉ chiếm 17,8% số địch bị tiêu diệt; chống Mỹ bắn rơi 120 máy bay địch",
+      "Năm 1968 miền Bắc chỉ có khoảng 500.000 chiến sĩ DQTV, chiếm tỷ lệ dưới 3% tổng dân số toàn miền Bắc",
+      "Chiến cuộc Đông - Xuân 1953–1954 du kích chỉ tiêu diệt khoảng 1/3 tổng số quân Pháp bị diệt trên chiến trường",
+      "9 năm chống Pháp tiêu diệt 56 vạn tên (trong đó BĐĐP, DQ du kích 26 vạn = 46,4%); chống Mỹ bắn rơi 424/4.181 máy bay"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Trang 152 ghi chính xác: Đông-Xuân 53–54 du kích diệt 8/12 vạn (2/3); tổng kết 9 năm chống Pháp diệt & làm tan rã 56 vạn (BĐCL 10 vạn = 17,8%, BĐĐP & dân quân du kích 26 vạn = 46,4%, binh địch vận 20 vạn = 35%); năm 1968 miền Bắc có 2.381.511 chiến sĩ DQTV (11,3% dân số) và từ 04/1968–1973 tham gia bắn rơi 424/4.181 máy bay Mỹ. (Dẫn chiếu: Mục 9.2.1.1b, tr. 151–152)"
+  },
+  {
+    "id": 116,
+    "question": "Theo Điều 5 Luật Dân quân tự vệ năm 2019 (mục 9.2.1.1d), nhiệm vụ mới mang tính hiện đại nào sau đây nằm trong 07 nhiệm vụ của lực lượng DQTV?",
+    "options": [
+      "Độc quyền quản lý và điều hành toàn bộ hoạt động hàng không dân dụng trên vùng trời quốc gia",
+      "Tham gia thực hiện biện pháp về chiến tranh thông tin, chiến tranh không gian mạng theo quy định",
+      "Thay thế Bộ Ngoại giao chủ trì đàm phán phân giới cắm mốc tuyến biên giới trên đất liền",
+      "Trực tiếp điều tra, truy tố và xét xử sơ thẩm các vụ án hình sự, kinh tế xuyên biên giới"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Trong 7 nhiệm vụ tại Điều 5 Luật DQTV 2019 (tr. 153–154), nhiệm vụ thứ 4 quy định rõ: 'Tham gia thực hiện các biện pháp về chiến tranh thông tin, chiến tranh không gian mạng theo quy định của pháp luật, quyết định của cấp có thẩm quyền'. (Dẫn chiếu: Mục 9.2.1.1d, tr. 153–154)"
+  },
+  {
+    "id": 117,
+    "question": "Theo phương châm 'vững mạnh, rộng khắp, coi trọng chất lượng là chính' (tr. 154), doanh nghiệp ngoài quốc doanh không đủ điều kiện tổ chức DQTV xử lý thế nào?",
+    "options": [
+      "Công nhân của doanh nghiệp đó được miễn hoàn toàn nghĩa vụ tham gia lực lượng Dân quân tự vệ",
+      "Giám đốc đề nghị Bộ CHQS tỉnh đồng ý để công dân tham gia DQTV nơi cư trú và bảo đảm thời gian",
+      "Bộ Quốc phòng trực tiếp cử sĩ quan thường trực vào điều hành lực lượng bảo vệ của doanh nghiệp",
+      "Doanh nghiệp buộc phải tự thành lập đơn vị tự vệ riêng dù chưa có tổ chức Đảng tại cơ sở"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Trang 154 quy định cụ thể cơ chế bảo đảm tính 'rộng khắp' với doanh nghiệp ngoài quốc doanh chưa đủ điều kiện (không có tổ chức Đảng): nếu có yêu cầu thì giám đốc đề nghị và được Bộ CHQS tỉnh/TP đồng ý để công dân tham gia DQTV ở địa phương nơi cư trú, đồng thời giám đốc phải bảo đảm thời gian và tạo điều kiện hoạt động. (Dẫn chiếu: Mục 9.2.1.2a, tr. 154)"
+  },
+  {
+    "id": 118,
+    "question": "Theo mục 9.2.1.2b (tr. 155–156), cơ cấu tổ chức đơn vị Dân quân tự vệ ở cấp thôn, cấp xã và tỉnh ven biển được quy định như thế nào?",
+    "options": [
+      "Thôn tổ chức đại đội dân quân thường trực; cấp xã chỉ tổ chức một tổ dân quân tại chỗ",
+      "Cấp huyện không tổ chức đơn vị Dân quân tự vệ phòng không, pháo binh hay cơ động",
+      "Thôn có tổ/tiểu/trung đội tại chỗ; xã có trung đội cơ động; tỉnh ven biển có hải đội",
+      "Cơ quan, tổ chức chỉ được thành lập tối đa ở quy mô tổ hoặc tiểu đội tự vệ tại chỗ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Trang 155–156 trình bày chi tiết hệ thống tổ chức DQTV từ thôn (tổ, tiểu đội hoặc trung đội dân quân tại chỗ) -> xã (trung đội cơ động; xã ven biển, đảo thêm tiểu/trung đội dân quân biển; xã trọng điểm QP có tiểu/trung đội dân quân thường trực) -> cơ quan, tổ chức (tiểu đội, trung đội, đại đội hoặc tiểu đoàn tự vệ) -> cấp huyện -> cấp tỉnh (ven biển tổ chức hải đội dân quân thường trực). (Dẫn chiếu: Mục 9.2.1.2b, tr. 155–156)"
+  },
+  {
+    "id": 119,
+    "question": "Theo Quyết định 5458/QĐ-BQP (29/10/2025) và Nghị quyết 66.12/2026/NQ-CP (26/1/2026), cơ cấu chức danh và tư cách pháp lý của Ban CHQS cấp xã là gì?",
+    "options": [
+      "Xã trọng điểm có 10 chức danh, xã không trọng điểm 7 chức danh; có tư cách pháp nhân, con dấu, tài khoản riêng",
+      "Ban CHQS cấp xã là đơn vị trực thuộc Công an cấp tỉnh và sử dụng chung con dấu của UBND xã",
+      "Mọi xã đều có 10 chức danh như nhau; Chính trị viên do Chủ tịch UBND cấp xã trực tiếp kiêm nhiệm",
+      "Xã trọng điểm có 07 chức danh, xã không trọng điểm có 05 chức danh; không có tư cách pháp nhân riêng"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Trang 156–157 cập nhật theo QĐ 5458/QĐ-BQP (29/10/2025) và NQ 66.12/2026/NQ-CP (26/1/2026): Ban CHQS cấp xã trọng điểm có 10 chức danh, xã không trọng điểm có 7 chức danh (Chính trị viên do Bí thư cấp ủy cấp xã đảm nhiệm theo Luật DQTV 48/2019/QH14); là cơ quan quân sự địa phương trực thuộc Bộ CHQS cấp tỉnh, có tư cách pháp nhân, con dấu, tài khoản, trụ sở riêng. (Dẫn chiếu: Mục 9.2.1.2b, tr. 156–157)"
+  },
+  {
+    "id": 120,
+    "question": "Trong thời bình, thời gian huấn luyện quân sự, giáo dục chính trị, pháp luật hằng năm đối với Dân quân tự vệ (mục 9.2.1.2c) được quy định là bao nhiêu ngày?",
+    "options": [
+      "Năm đầu 15 ngày; từ năm thứ hai 12 ngày (cơ động, biển, binh chủng) và 07 ngày (tại chỗ); thường trực 60 ngày",
+      "Mọi đối tượng Dân quân tự vệ đều huấn luyện thống nhất 12 ngày mỗi năm không phân biệt năm đầu",
+      "Năm đầu 30 ngày; từ năm thứ hai 15 ngày (tại chỗ) và 20 ngày (cơ động); dân quân thường trực 90 ngày",
+      "Năm đầu 10 ngày; từ năm thứ hai 05 ngày chung cho mọi lực lượng; dân quân thường trực 30 ngày"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Trang 157 nêu chính xác: năm thứ nhất 15 ngày (trừ dân quân thường trực); từ năm thứ hai trở đi 12 ngày đối với DQTV cơ động, biển, phòng không, pháo binh, trinh sát, thông tin, công binh, phòng hóa, y tế; 07 ngày đối với DQTV tại chỗ; dân quân thường trực 60 ngày. (Dẫn chiếu: Mục 9.2.1.2c, tr. 157)"
+  },
+  {
+    "id": 121,
+    "question": "Theo mục 9.2.2.1a, 'Lực lượng dự bị động viên' bao gồm hai thành phần cơ bản nào sau đây?",
+    "options": [
+      "Bộ đội địa phương thường trực và lực lượng Dân quân tự vệ thường trực ở xã trọng điểm",
+      "Lực lượng công an xã bán chuyên trách và công dân thanh niên trong độ tuổi gọi nhập ngũ",
+      "Quân nhân dự bị (sĩ quan, QNCN, hạ sĩ quan - binh sĩ dự bị) và phương tiện kỹ thuật dự bị",
+      "Cán bộ công chức nhà nước và lực lượng tự vệ tại các doanh nghiệp ngoài quốc doanh"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Trang 158 định nghĩa: Lực lượng dự bị động viên bao gồm quân nhân dự bị (sĩ quan dự bị, QNCN dự bị, HSQ-BS dự bị) và phương tiện kỹ thuật dự bị (tài sản của cơ quan, tổ chức, công dân VN được đăng ký theo yêu cầu biên chế của QĐND). (Dẫn chiếu: Mục 9.2.2.1a, tr. 158)"
+  },
+  {
+    "id": 122,
+    "question": "Khi sắp xếp quân nhân dự bị vào các đơn vị dự bị động viên (mục 9.2.2.2a, tr. 161), phải tuân thủ những nguyên tắc nào?",
+    "options": [
+      "Ưu tiên sắp xếp quân nhân dự bị hạng 2 trước để giữ quân nhân dự bị hạng 1 làm dự trữ cuối cùng",
+      "Đúng chuyên môn phù hợp chức danh; xếp quân nhân dự bị hạng 1 trước rồi mới đến hạng 2; cư trú gần nhau",
+      "Sắp xếp ngẫu nhiên theo độ tuổi từ cao xuống thấp mà không cần xét chuyên môn kỹ thuật",
+      "Sắp xếp quân nhân dự bị cư trú ở các tỉnh khác nhau vào chung một tiểu đội chiến đấu cơ sở"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Trang 161 quy định 3 nguyên tắc sắp xếp: (1) đúng chuyên môn quân sự/kỹ thuật phù hợp chức danh (thiếu thì xếp tương ứng); (2) sắp xếp quân nhân dự bị hạng 1 trước, thiếu mới xếp hạng 2; (3) sắp xếp những quân nhân dự bị cư trú gần nhau vào từng đơn vị. (Dẫn chiếu: Mục 9.2.2.2a, tr. 161)"
+  },
+  {
+    "id": 123,
+    "question": "Trong xây dựng lực lượng dự bị động viên (mục 9.2.2.2b), nhiệm vụ nào là 'nhiệm vụ hàng đầu' và phương châm huấn luyện là gì?",
+    "options": [
+      "Mua sắm trang bị là nhiệm vụ hàng đầu; phương châm huấn luyện 'Thần tốc, táo bạo, bất ngờ'",
+      "Tổ chức diễn tập chiến dịch là nhiệm vụ hàng đầu; phương châm huấn luyện 'Đánh chắc, tiến chắc'",
+      "Giáo dục chính trị là nhiệm vụ hàng đầu; phương châm 'Chất lượng, thiết thực, hiệu quả, tập trung có trọng tâm, trọng điểm'",
+      "Đăng ký phương tiện kỹ thuật là nhiệm vụ hàng đầu; phương châm huấn luyện 'Vững mạnh, rộng khắp'"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Trang 161 khẳng định 'Giáo dục chính trị là nhiệm vụ hàng đầu trong xây dựng lực lượng dự bị động viên'; trang 162 nêu phương châm huấn luyện: 'Chất lượng, thiết thực, hiệu quả, tập trung có trọng tâm, trọng điểm'. (Dẫn chiếu: Mục 9.2.2.2b, tr. 161–162)"
+  },
+  {
+    "id": 124,
+    "question": "Trong phần 'Động viên Quốc phòng' (mục 9.2.3.2, tr. 163), Đại hội XIV bổ sung những thành tố mới nào vào phát triển công nghiệp quốc phòng so với Đại hội XIII?",
+    "options": [
+      "Chỉ phát triển công nghiệp quốc phòng ở khâu sửa chữa mà không đầu tư khâu nghiên cứu và sản xuất mới",
+      "Bổ sung thành tố phụ thuộc vào nhập khẩu trang bị và thu hẹp quy mô công nghiệp quốc phòng",
+      "Chuyển toàn bộ các nhà máy công nghiệp quốc phòng sang sản xuất hàng tiêu dùng xuất khẩu thuần túy",
+      "Bổ sung thành tố tự chủ, tự lực, tự cường bên cạnh lưỡng dụng, hiện đại nhằm tiến tới tự chủ chiến lược"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Trang 163 nêu rõ: 'Cùng với tiếp tục khẳng định tính lưỡng dụng, hiện đại trong văn kiện Đại hội XIII, Đại hội XIV tiếp tục bổ sung thêm các thành tố như tự chủ, tự lực, tự cường trong phát triển công nghiệp quốc phòng nhằm phát huy nội lực, tiến tới tự chủ chiến lược trong suốt quá trình từ nghiên cứu đến sản xuất và phát triển'. (Dẫn chiếu: Mục 9.2.3.2, tr. 163)"
+  },
+  {
+    "id": 125,
+    "question": "Đối với sinh viên nam các trường đại học sau khi tốt nghiệp, tài liệu nêu chính sách tạo nguồn sĩ quan dự bị nào trong xây dựng lực lượng dự bị động viên (tr. 160–161)?",
+    "options": [
+      "Tuyển chọn đào tạo thành sĩ quan dự bị (liên kết giữa BQP và BGD&ĐT theo nhu cầu chuyên môn kỹ thuật)",
+      "Sinh viên tốt nghiệp đại học chỉ được xếp vào ngạch Dân quân tự vệ tại chỗ chứ không đào tạo sĩ quan dự bị",
+      "Chỉ những sinh viên theo học chuyên ngành lịch sử quân sự mới được đưa vào nguồn dự bị động viên",
+      "Sinh viên đại học sau tốt nghiệp không thuộc diện tạo nguồn của lực lượng dự bị động viên"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Trang 160–161 nêu rõ biện pháp tạo nguồn sĩ quan dự bị từ sinh viên nam các trường đại học sau tốt nghiệp và cơ chế liên kết đào tạo giữa Bộ Quốc phòng và Bộ GD&ĐT theo nhu cầu chuyên môn kỹ thuật: sau tốt nghiệp, chuyển một số sang quân đội, số còn lại đưa vào ngạch lực lượng dự bị động viên. (Dẫn chiếu: Mục 9.2.2.2a, tr. 160–161)"
+  },
+  {
+    "id": 126,
+    "question": "Vì sao tài liệu khẳng định công tác bảo vệ an ninh trật tự không thể thực hiện bằng chuyên môn đơn thuần của lực lượng Công an (mục 10.2.1.1, tr. 166)?",
+    "options": [
+      "Vì đấu tranh diễn ra diện rộng, lực lượng công an có hạn, còn nhân dân phát hiện, giáo dục tội phạm trực tiếp",
+      "Vì quần chúng nhân dân được quyền thay thế hoàn toàn tòa án và viện kiểm sát trong xử lý tội phạm",
+      "Vì lực lượng Công an không có chức năng nghiệp vụ trong điều tra và trấn áp tội phạm",
+      "Vì bọn gián điệp và tội phạm chỉ hoạt động ở những vùng hẻo lánh hoàn toàn không có dân cư"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Trang 166 phân tích 3 lý do: tội phạm và gián điệp trà trộn trong quần chúng; nhân dân có khả năng phát hiện, quản lý, giáo dục, cải tạo tội phạm và khi có ý thức tự giác sẽ khắc phục sơ hở; lực lượng công an có hạn nên phải làm tốt vận động quần chúng ('Nhân dân giúp ta nhiều thì thành công nhiều...'). (Dẫn chiếu: Mục 10.2.1.1, tr. 166)"
+  },
+  {
+    "id": 127,
+    "question": "Các phong trào tiền thân của phong trào toàn dân bảo vệ an ninh Tổ quốc trong kháng chiến chống Pháp và chống Mỹ (tr. 167) là gì?",
+    "options": [
+      "Chống Pháp: 'Ba không', 'Ngũ gia liên bảo'; Chống Mỹ: 'Bảo vệ trị an', 'Bảo mật phòng gian'",
+      "Chống Pháp: 'Toàn dân đoàn kết xây dựng đời sống văn hóa'; Chống Mỹ: 'Ngày hè xanh'",
+      "Chống Pháp: 'Ba sẵn sàng', 'Năm xung phong'; Chống Mỹ: 'Bình dân học vụ', 'Diệt dốt'",
+      "Chống Pháp: 'Bảo mật phòng gian', 'Bảo vệ trị an'; Chống Mỹ: 'Ba không', 'Ngũ gia liên bảo'"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Trang 167 ghi chính xác các phong trào lịch sử: thời kỳ chống Pháp có 'Ba không', 'Ngũ gia liên bảo', 'Thập gia liên báo'; những năm chống Mỹ cứu nước có 'Bảo vệ trị an', 'Bảo mật phòng gian'; và hiện nay là phong trào toàn dân bảo vệ an ninh Tổ quốc. (Dẫn chiếu: Mục 10.2.1.2, tr. 167)"
+  },
+  {
+    "id": 128,
+    "question": "Trong đặc điểm thứ nhất của phong trào toàn dân bảo vệ ANTQ (tr. 169), vai trò của 'số lượng quần chúng' và 'tính tự giác' khác nhau thế nào?",
+    "options": [
+      "Mục đích, động cơ tham gia hoàn toàn không ảnh hưởng đến tính tự giác và hiệu quả của phong trào",
+      "Chỉ cần có phong trào ở một xã là đủ khẳng định toàn tỉnh đã có phong trào mạnh mẽ và sâu rộng",
+      "Số lượng quần chúng quyết định chất lượng thực chất, còn tính tự giác chỉ quyết định phạm vi địa bàn",
+      "Số lượng quyết định việc có hay không có phong trào; tính tự giác xác định chất lượng (thực chất hay hình thức)"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Trang 169 nêu rõ: 'Nếu như số lượng quần chúng nhân dân quyết định việc có hay không có phong trào thì tính tự giác của quần chúng nhân dân xác định chất lượng phong trào hay nói cách khác, phong trào có đi vào thực chất hay chỉ mang tính hình thức'. Tính tự giác thể hiện ở thái độ kiên quyết đấu tranh và mục đích, động cơ trong sáng. (Dẫn chiếu: Mục 10.2.1.3, tr. 169)"
+  },
+  {
+    "id": 129,
+    "question": "Vì sao trên các địa bàn, lĩnh vực khác nhau (nông thôn, thành thị, hải đảo, vùng tôn giáo, dân tộc thiểu số...), phong trào lại có biểu hiện khác nhau?",
+    "options": [
+      "Do đặc thù địa lý, tập quán, KT-XH và âm mưu, thủ đoạn đối tượng ở mỗi nơi khác nhau đòi hỏi sự linh hoạt",
+      "Vì mỗi địa phương tự đặt ra luật riêng khác biệt với quy định chung của pháp luật Nhà nước",
+      "Vì lực lượng Công an chỉ tập trung hướng dẫn chuyên môn cho các khu vực đô thị lớn đông dân",
+      "Vì ở vùng dân tộc thiểu số hoặc vùng có tôn giáo không thuộc phạm vi lãnh đạo thống nhất của Đảng"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Trang 170 giải thích hai nguyên nhân: (1) đặc thù địa lý, phong tục tập quán, điều kiện KT-XH của từng nhóm đối tượng vận động; (2) âm mưu, thủ đoạn của thế lực thù địch, phản động, tội phạm ở mỗi địa bàn, lĩnh vực nảy sinh những vấn đề ANTT riêng. (Dẫn chiếu: Mục 10.2.1.3, tr. 170)"
+  },
+  {
+    "id": 130,
+    "question": "Nội dung thứ tư trong 'Nội dung cơ bản của công tác xây dựng phong trào toàn dân bảo vệ an ninh Tổ quốc' (tr. 171–172) đề cập đến nhiệm vụ nào?",
+    "options": [
+      "Tổ chức hoạt động sản xuất kinh doanh xuất khẩu của các doanh nghiệp nhà nước tại địa bàn",
+      "Tham gia xây dựng tổ chức Đảng, chính quyền, đoàn thể quần chúng cơ sở vững mạnh và sàng lọc cán bộ",
+      "Quản lý hành chính toàn bộ hoạt động cấp hộ chiếu và xuất nhập cảnh tại cửa khẩu quốc gia",
+      "Trực tiếp bổ nhiệm các chức danh trong lực lượng quân đội thường trực ở cấp quân khu"
+    ],
+    "correctAnswer": 1,
+    "explanation": "4 nội dung cơ bản ở tr. 170–172 gồm: (1) giáo dục nâng cao cảnh giác cách mạng; (2) vận động tham gia chương trình quốc gia phòng chống tội phạm; (3) xây dựng và mở rộng liên kết phối hợp với các ngành, đoàn thể; (4) tham gia xây dựng tổ chức Đảng, chính quyền, đoàn thể quần chúng cơ sở vững mạnh (rèn luyện thử thách cán bộ, đóng góp ý kiến, sàng lọc và bổ sung nhân tố ưu tú). (Dẫn chiếu: Mục 10.2.2.1, tr. 171–172)"
+  },
+  {
+    "id": 131,
+    "question": "Trong quy trình xây dựng kế hoạch phát động phong trào toàn dân bảo vệ an ninh Tổ quốc ở cơ sở (tr. 174), bản kế hoạch hoàn chỉnh được trình ai phê duyệt?",
+    "options": [
+      "Bộ trưởng Bộ Công an phê duyệt trực tiếp cho từng xã, phường",
+      "Bí thư Chi đoàn thanh niên thôn, tổ dân phố phê duyệt thực hiện",
+      "Chủ tịch Ủy ban nhân dân xã, phường, thị trấn phê duyệt và tổ chức thực hiện",
+      "Giám đốc các doanh nghiệp đóng trên địa bàn tự phê duyệt không cần qua chính quyền"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Trang 174 ghi rõ quy trình 3 bước xây dựng kế hoạch: dự thảo bảo đảm đủ nội dung, đúng thể thức văn bản nhà nước -> gửi lấy ý kiến tổ chức, cá nhân liên quan -> tiếp thu, bổ sung hoàn chỉnh trình Chủ tịch Ủy ban nhân dân xã, phường, thị trấn phê duyệt và tổ chức thực hiện. (Dẫn chiếu: Mục 10.2.2.2a, tr. 174)"
+  },
+  {
+    "id": 132,
+    "question": "Theo mục 10.2.2.2b (tr. 177), phương pháp hướng dẫn quần chúng thực hiện nhiệm vụ bảo vệ an ninh, trật tự được tiến hành theo trình tự nào?",
+    "options": [
+      "Không cần áp dụng nguyên tắc bảo mật khi quần chúng cung cấp tin tức, tài liệu về hoạt động tội phạm",
+      "Chỉ tập trung bảo vệ lợi ích cá nhân riêng lẻ mà không cần gắn với lợi ích tập thể và đường lối chính sách",
+      "Từ thấp đến cao, đơn giản đến phức tạp; từ lợi ích cá nhân đến tập thể; từ bí mật tố giác đến đấu tranh trực diện",
+      "Bắt đầu ngay từ đấu tranh trực diện vũ trang quy mô lớn rồi mới tuyên truyền phòng ngừa cơ bản"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Trang 177 trình bày rất cụ thể phương pháp hướng dẫn đi từ thấp đến cao, từ đơn giản đến phức tạp qua 4 cặp chuyển hóa liên hoàn: từ bảo vệ lợi ích cá nhân trước mắt đến lợi ích lâu dài tập thể; từ lợi ích kinh tế đơn thuần đến bảo vệ đường lối Đảng; từ bí mật tố giác đến đấu tranh trực diện có tổ chức. (Dẫn chiếu: Mục 10.2.2.2b, tr. 177)"
+  },
+  {
+    "id": 133,
+    "question": "Ở các cơ sở xã, phường hiện nay (mục 10.2.2.2d, tr. 178), ba loại hình tổ chức quần chúng nòng cốt làm công tác ANTT được phân chia theo chức năng nào?",
+    "options": [
+      "Loại hoạt động bí mật hoàn toàn; loại hoạt động bán vũ trang thường trực; loại hoạt động dịch vụ thương mại",
+      "Loại có chức năng lập pháp; loại có chức năng hành pháp; loại có chức năng tư pháp cơ sở",
+      "Loại có chức năng trinh sát kỹ thuật; loại có chức năng phòng không; loại có chức năng cứu nạn trên biển",
+      "Chức năng tư vấn (Hội đồng ANTT); quản lý điều hành (Lực lượng tham gia bảo vệ ANTT); thực hành (Tổ bảo vệ ANTT...)"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Trang 178 phân biệt rõ 3 loại hình tổ chức quần chúng ở xã, phường: (1) Chức năng tư vấn -> Hội đồng an ninh trật tự ở cơ sở / cơ quan doanh nghiệp; (2) Chức năng quản lý điều hành -> Lực lượng tham gia bảo vệ ANTT ở cơ sở; (3) Chức năng thực hành - > Tổ bảo vệ ANTT (ở thôn, tổ dân phố), Tổ an ninh công nhân, Đội dân phòng, Đội thanh niên xung kích an ninh. (Dẫn chiếu: Mục 10.2.2.2d, tr. 178)"
+  },
+  {
+    "id": 134,
+    "question": "Khi xây dựng các tổ chức quần chúng nòng cốt bảo vệ ANTT ở cơ sở (tr. 180–181), nguyên tắc thành lập và thủ tục pháp lý nào phải được tuân thủ?",
+    "options": [
+      "Tổ chức quần chúng tự thành lập tự phát theo nhóm dân cư, không cần quyết định của chính quyền địa phương",
+      "Việc thành lập chỉ cần nội bộ công an quyết định, không cần lấy ý kiến thảo luận công khai của nhân dân",
+      "Chỉ xây dựng nơi nào có yêu cầu nhiệm vụ, tránh máy móc; trình Chủ tịch/Phó Chủ tịch UBND xã, phường quyết định",
+      "Thành lập đồng loạt càng nhiều tổ chức càng tốt dù địa bàn chưa phát sinh yêu cầu nhiệm vụ thực tế"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Trang 180–181 nhấn mạnh hai điểm then chốt: nếu chưa có nhu cầu, nhiệm vụ chưa xuất hiện thì chưa cần vội thành lập (tránh hình thức máy móc dẫn đến tan rã); phải lấy ý kiến dân chủ của nhân dân và trình Chủ tịch/Phó Chủ tịch UBND cấp xã, phường ra quyết định thành lập để bảo đảm tính hợp pháp. (Dẫn chiếu: Mục 10.2.2.2d, tr. 180–181)"
+  },
+  {
+    "id": 135,
+    "question": "Trong biện pháp 'Xây dựng điển hình và nhân điển hình tiên tiến' (tr. 182–183), thực chất của nhân điển hình tiên tiến là gì và gồm các bước nào?",
+    "options": [
+      "Là phổ biến kinh nghiệm điển hình thúc đẩy phong trào; gồm 3 bước: lựa chọn -> rút kinh nghiệm -> phổ biến",
+      "Chỉ áp dụng cho lực lượng công an chính quy, không áp dụng đối với cá nhân, gia đình hay cụm dân cư",
+      "Là tuyên dương nội bộ một lần rồi giữ kín kinh nghiệm điển hình để bảo đảm bí mật của địa phương",
+      "Chỉ chọn những địa phương có phong trào yếu kém nhất làm điển hình để động viên tinh thần phong trào"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Trang 182–183 định nghĩa rõ thực chất của nhân điển hình tiên tiến là phổ biến kinh nghiệm điển hình, thúc đẩy phong trào đồng đều và chất lượng cao hơn, qua 3 công việc cụ thể: lựa chọn, rút kinh nghiệm và phổ biến kinh nghiệm (kèm mở hội nghị nhân điển hình và tận dụng phương tiện thông tin đại chúng). (Dẫn chiếu: Mục 10.2.2.2đ, tr. 182–183)"
+  },
+  {
+    "id": 136,
+    "question": "Theo mục 10.2.2.2e (tr. 183), để thu hút sinh viên tham gia phong trào toàn dân bảo vệ ANTQ, nhà trường cần lồng ghép vào những phong trào nào?",
+    "options": [
+      "Sinh viên thanh lịch (chấp hành Luật Giao thông), phòng chống ma túy học đường, Ngày hè xanh, vệ sinh môi trường",
+      "Tách riêng hoàn toàn khỏi mọi phong trào thi đua của tổ chức Đoàn Thanh niên và Hội Sinh viên",
+      "Chỉ triển khai đối với sinh viên nội trú trong ký túc xá, không áp dụng đối với sinh viên ngoại trú",
+      "Chỉ tổ chức lồng ghép trong các buổi kiểm tra kết thúc học phần thực hành bắn súng ngoài thao trường"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Trang 183 nêu các hình thức lồng ghép cụ thể trong nhà trường: phong trào sinh viên thanh lịch gắn với chấp hành Luật Giao thông; lồng ghép vào các phong trào của Đoàn Thanh niên và sinh viên như 'Phòng ngừa tội phạm và tệ nạn trong thanh, thiếu niên', 'Phòng chống ma túy trong học đường', 'Ngày hè xanh', vệ sinh môi trường. (Dẫn chiếu: Mục 10.2.2.2e, tr. 183)"
+  },
+  {
+    "id": 137,
+    "question": "Khi phát hiện tại khu trọ hoặc khuôn viên trường có người lạ lén lút phát tán tài liệu xấu độc, lôi kéo sinh viên gây rối, hành động nào của sinh viên là ĐÚNG?",
+    "options": [
+      "Không tham gia, nêu cao cảnh giác, kịp thời báo lãnh đạo nhà trường hoặc cơ quan Công an để ngăn chặn",
+      "Tò mò chụp ảnh rồi đăng tải bình luận lan truyền tiếp thông tin xuyên tạc đó lên mạng xã hội",
+      "Tự ý tập hợp nhóm sinh viên bắt giữ người trái pháp luật mà không thông báo cho cơ quan chức năng",
+      "Làm ngơ bỏ qua vì cho rằng sự việc đó hoàn toàn không liên quan đến việc học tập cá nhân của mình"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Trang 184 xác định trách nhiệm của sinh viên: nhận thức đúng trách nhiệm công dân, tự giác chấp hành quy định ANTT của nhà trường và địa phương nơi cư trú, tích cực tham gia phong trào ở địa phương, luôn cảnh giác phát hiện hiện tượng tiêu cực, hành vi vi phạm pháp luật kịp thời cung cấp cho cơ quan Công an để ngăn chặn, giải quyết. (Dẫn chiếu: Mục 10.2.3, tr. 184)"
+  },
+  {
+    "id": 138,
+    "question": "Theo Điều 3 Luật An ninh quốc gia năm 2004 và mục 11.2.1.1a, 'An ninh quốc gia' bao gồm an ninh trên mọi lĩnh vực, trong đó lĩnh vực nào là cốt lõi, xuyên suốt?",
+    "options": [
+      "An ninh thương mại quốc tế là cốt lõi, xuyên suốt",
+      "An ninh giao thông đô thị là cốt lõi, xuyên suốt",
+      "An ninh môi trường sinh thái là cốt lõi, xuyên suốt",
+      "An ninh chính trị là cốt lõi, xuyên suốt"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Trang 186 khẳng định: 'An ninh quốc gia bao gồm an ninh trên tất cả các lĩnh vực: chính trị, kinh tế, văn hóa - xã hội, quốc phòng, đối ngoại... trong đó an ninh chính trị là cốt lõi, xuyên suốt'. (Dẫn chiếu: Mục 11.2.1.1a, tr. 186)"
+  },
+  {
+    "id": 139,
+    "question": "Theo Điều 2 Luật Công an nhân dân năm 2025 được trích dẫn trong tài liệu (tr. 187), khái niệm 'Bảo đảm trật tự, an toàn xã hội' được định nghĩa là gì?",
+    "options": [
+      "Phòng ngừa, phát hiện, ngăn chặn, đấu tranh chống tội phạm và các hành vi vi phạm pháp luật và trật tự, an toàn xã hội",
+      "Hoạt động quản lý biên giới quốc gia và phân định thềm lục địa với các nước láng giềng có chung đường biên",
+      "Sự ổn định phát triển bền vững của chế độ xã hội chủ nghĩa và sự bất khả xâm phạm độc lập, chủ quyền lãnh thổ",
+      "Khuôn khổ kỷ cương hành chính nội bộ và điều lệnh kỷ luật trong các đơn vị vũ trang tập trung"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Trang 187 trích chính xác Điều 2 Luật Công an nhân dân 2025: Bảo đảm trật tự, an toàn xã hội là phòng ngừa, phát hiện, ngăn chặn, đấu tranh chống tội phạm và các hành vi vi phạm pháp luật và trật tự, an toàn xã hội. Sự ổn định bền vững của chế độ XHCN và bất khả xâm phạm lãnh thổ là khái niệm 'An ninh quốc gia' theo Luật ANQG 2004. (Dẫn chiếu: Mục 11.2.1.1a, tr. 186–187)"
+  },
+  {
+    "id": 140,
+    "question": "Trong nội dung bảo vệ an ninh quốc gia (mục 11.2.1.2a, tr. 188), nhiệm vụ nào luôn được xác định là 'trọng yếu hàng đầu, thường xuyên và cấp bách'?",
+    "options": [
+      "Bảo vệ trật tự an toàn giao thông tại đô thị lớn",
+      "Bảo vệ an ninh chính trị nội bộ của Đảng và Nhà nước",
+      "Phòng ngừa tai nạn lao động trong các khu công nghiệp",
+      "Quản lý hành chính các ngành nghề kinh doanh có điều kiện"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Trang 188 nêu rõ trong mục Bảo vệ an ninh chính trị: 'Bảo vệ an ninh chính trị nội bộ luôn là nhiệm vụ trọng yếu hàng đầu, thường xuyên và cấp bách của toàn Đảng, toàn dân, của các ngành, các cấp'. (Dẫn chiếu: Mục 11.2.1.2a, tr. 188)"
+  },
+  {
+    "id": 141,
+    "question": "Theo mục 11.2.1.2a (tr. 189–190), 'An ninh thông tin' và mục tiêu của 'Bảo vệ an ninh thông tin' được hiểu đúng như thế nào?",
+    "options": [
+      "Chỉ giới hạn ở việc bảo vệ tài liệu giấy lưu trữ tại các cơ quan hành chính công cấp trung ương",
+      "Là việc kiểm soát thông tin tuyệt đối bằng cách ngắt toàn bộ kết nối mạng Internet với bên ngoài",
+      "Chỉ liên quan đến hoạt động phát thanh, truyền hình công cộng mà không liên quan đến an toàn mạng máy tính",
+      "Là an toàn, nhanh chóng, chính xác, bí mật của thông tin; chống lộ lọt bí mật, dò mật khẩu đánh cắp tin trên mạng"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Trang 189–190 định nghĩa đầy đủ 4 thuộc tính của an ninh thông tin (an toàn, nhanh chóng, chính xác, bí mật) qua 5 khâu (xác lập, chuyển tải, thu nhận, xử lý, lưu giữ tin) và nhiệm vụ bảo vệ an ninh thông tin chống khai thác, phá hủy hệ thống liên lạc, chống lộ lọt bí mật Nhà nước, đánh cắp thông tin trên mạng. (Dẫn chiếu: Mục 11.2.1.2a, tr. 189–190)"
+  },
+  {
+    "id": 142,
+    "question": "Trong bảo đảm TTATXH (tr. 190–191), loại tội phạm nào KHÔNG nằm trong mục 'tội phạm xâm phạm TTATXH' và ai có trách nhiệm bảo đảm trật tự an toàn giao thông?",
+    "options": [
+      "Bao gồm cả tội phạm xâm phạm ANQG; công dân chỉ cần chấp hành khi có mặt lực lượng cảnh sát giao thông",
+      "Trừ tội phạm ANQG, phá hoại hòa bình, chống loài người, tội phạm chiến tranh; TTATGT là trách nhiệm mọi người",
+      "Trừ các tội phạm về ma túy; trách nhiệm bảo đảm TTATGT chỉ thuộc về lực lượng thanh tra giao thông",
+      "Trừ các tội phạm kinh tế; chỉ lực lượng cảnh sát giao thông có trách nhiệm bảo đảm an toàn giao thông"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Trang 190 ghi rõ: Phòng chống tội phạm xâm phạm TTATXH (trừ các tội phạm ANQG và các tội phá hoại hòa bình, chống loài người và tội phạm chiến tranh). Trang 191 nhấn mạnh bảo đảm TTATGT không phải nhiệm vụ riêng của lực lượng chức năng mà là trách nhiệm của tất cả mọi người khi tham gia giao thông. (Dẫn chiếu: Mục 11.2.1.2b, tr. 190–191)"
+  },
+  {
+    "id": 143,
+    "question": "Trong tình hình an ninh quốc gia (mục 11.2.2.1a, tr. 192–193), ba nội dung chủ yếu của 'diễn biến hòa bình' và nguyên nhân nhiều 'điểm nóng' ANTT là gì?",
+    "options": [
+      "Ba nội dung gồm chiến tranh mạng, cấm vận tài chính và lật đổ bằng vũ trang trực diện ngay từ đầu",
+      "Các tổ chức phản động lưu vong hoàn toàn không còn hoạt động lôi kéo hay kế hoạch chống phá nào",
+      "Ba nội dung gồm phong tỏa cảng biển, cắt viện trợ quốc tế và tiến công tên lửa hành trình tầm xa",
+      "Chiếm lĩnh thị trường, ngoại giao hữu nghị, khoét sâu mâu thuẫn; 'điểm nóng' thường do sai sót đền bù đất đai cơ sở"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Trang 192 nêu khoảng 200 tổ chức phản động lưu vong với kế hoạch 'chuyển lửa về quê hương' và 3 nội dung chủ yếu của 'diễn biến hòa bình' (chiếm lĩnh thị trường, ngoại giao hữu nghị, khoét sâu mâu thuẫn). Trang 193 chỉ rõ nguyên nhân sâu xa của nhiều điểm nóng ANTT từ thiếu sót, sai trái ở cơ sở trong giải quyết đền bù đất đai... tạo mảnh đất cho phần tử quá khích và thế lực thù địch kích động. (Dẫn chiếu: Mục 11.2.2.1a, tr. 192–193)"
+  },
+  {
+    "id": 144,
+    "question": "Theo mục 11.2.2.1b (tr. 194), ba đặc điểm cơ bản của 'tệ nạn xã hội' ở nước ta và loại tai nạn chiếm tỷ lệ cao nhất trong các loại tai nạn là gì?",
+    "options": [
+      "Tính phổ biến, tính lan rất nhanh, có quan hệ chặt chẽ với tội phạm; tai nạn giao thông chiếm tỷ lệ cao nhất",
+      "Tính bí mật tuyệt đối, tính cục bộ địa phương, tách rời với tội phạm; tai nạn lao động chiếm tỷ lệ cao nhất",
+      "Tính tự phát nhất thời, dễ xóa bỏ hoàn toàn, không ảnh hưởng dịch bệnh; tai nạn đường thủy chiếm tỷ lệ cao nhất",
+      "Chỉ xuất hiện ở vùng nông thôn, diễn biến chậm và không dẫn tới tội phạm; tai nạn nghề nghiệp cao nhất"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Trang 194 liệt kê chính xác 3 đặc điểm của tệ nạn xã hội: mang tính phổ biến, mang tính lan rất nhanh, có quan hệ chặt chẽ với tội phạm (là bạn đồng hành, sân sau của tội phạm và là một nguyên nhân dẫn đến HIV/AIDS); đồng thời khẳng định trong các loại tai nạn thì tai nạn giao thông chiếm tỷ lệ cao nhất. (Dẫn chiếu: Mục 11.2.2.1b, tr. 194)"
+  },
+  {
+    "id": 145,
+    "question": "Theo mục 11.2.2.2 (tr. 197–198), cách nhìn nhận biện chứng về 'đối tác' và 'đối tượng đấu tranh' trong tình hình mới nhằm khắc phục hai khuynh hướng sai lầm nào?",
+    "options": [
+      "Khuynh hướng chỉ tập trung phát triển kinh tế và khuynh hướng chỉ dựa vào ngoại giao đa phương",
+      "Khuynh hướng mơ hồ mất cảnh giác hoặc cứng nhắc trong nhận thức, chủ trương khi xử lý tình huống cụ thể",
+      "Khuynh hướng xem nhẹ tội phạm hình sự thông thường và khuynh hướng đề cao quá mức tội phạm kinh tế",
+      "Khuynh hướng quá tin tưởng vào chủ nghĩa dân tộc cực đoan và khuynh hướng bài trừ hội nhập quốc tế"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Trang 197–198 phân tích sâu sắc tư duy biện chứng của Đảng: trong mỗi đối tượng vẫn có thể có mặt cần tranh thủ hợp tác và trong một số đối tác có thể có mặt khác biệt/mâu thuẫn với lợi ích của ta, giúp khắc phục cả hai khuynh hướng 'mơ hồ mất cảnh giác' lẫn 'cứng nhắc' trong nhận thức và xử lý tình huống. (Dẫn chiếu: Mục 11.2.2.2, tr. 197–198)"
+  },
+  {
+    "id": 146,
+    "question": "Điểm phân biệt căn bản giữa 'Gián điệp', 'Phản động' (xâm phạm ANQG) với 'Đối tượng xâm phạm trật tự, an toàn xã hội' (tr. 198) là gì?",
+    "options": [
+      "Gián điệp chỉ là người nước ngoài; Phản động chỉ là người Việt Nam ở hải ngoại; tội phạm TTATXH luôn chuyên nghiệp",
+      "Phản động chịu sự chỉ huy trực tiếp của tình báo nước ngoài còn Gián điệp hoạt động đơn lẻ hoàn toàn tự phát",
+      "Gián điệp và Phản động đều không có mục đích chống Nhà nước, chỉ khác nhau ở phương tiện công cụ gây án",
+      "Gián điệp chịu chỉ huy nước ngoài; Phản động không chịu chỉ huy nước ngoài; tội phạm TTATXH không chống Nhà nước"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Trang 198 định nghĩa rạch ròi 3 khái niệm: Gián điệp (người VN hoặc nước ngoài, chịu sự chỉ huy của nước ngoài điều tra tình báo, gây cơ sở bí mật, phá hoại chống CHXHCNVN); Phản động (âm mưu, hoạt động phản cách mạng chống chế độ XHCN nhưng không chịu sự chỉ huy của nước ngoài); Đối tượng xâm phạm TTATXH (gây thiệt hại nhưng không có mục đích chống lại Nhà nước CHXHCNVN). (Dẫn chiếu: Mục 11.2.2.2a–b, tr. 198)"
+  },
+  {
+    "id": 147,
+    "question": "Trong 'Phương châm chỉ đạo bảo vệ ANQG, bảo đảm TTATXH' (mục 11.2.3.3, tr. 201), phương hướng kết hợp 'phòng ngừa' với 'tiến công' và 'xây' với 'chống' là gì?",
+    "options": [
+      "Chỉ thực hiện nhiệm vụ 'xây' trong thời bình và chỉ thực hiện nhiệm vụ 'chống' khi xảy ra bạo loạn lật đổ",
+      "Lấy chủ động phòng ngừa giữ vững bên trong là chính; chú trọng cả 'xây' và 'chống', trong đó lấy xây dựng là chính",
+      "Lấy tiến công đàn áp làm chính, xem nhẹ phòng ngừa bên trong; trong xây và chống lấy 'chống' làm chính",
+      "Cứng nhắc cả về mục tiêu chiến lược lẫn sách lược ngoại giao để không phải nhượng bộ chiến thuật"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Trang 201 nêu đầy đủ 3 phương châm chỉ đạo: (1) Kiên định mục tiêu, nguyên tắc chiến lược; mềm dẻo linh hoạt về sách lược; phân hóa cô lập phần tử ngoan cố; (2) Kết hợp chủ động phòng ngừa với chủ động tiến công, lấy chủ động phòng ngừa giữ vững bên trong là chính; (3) Chú trọng cả hai nhiệm vụ 'xây' và 'chống', trong đó lấy xây dựng là chính. (Dẫn chiếu: Mục 11.2.3.3, tr. 201)"
+  },
+  {
+    "id": 148,
+    "question": "Theo mục 11.2.4.1 (tr. 201–202), bốn chủ thể bảo vệ ANQG và bảo đảm TTATXH giữ vai trò cụ thể như thế nào?",
+    "options": [
+      "Quốc hội là cơ quan chuyên trách; Mặt trận Tổ quốc thống nhất quản lý nhà nước; Quân đội đông đảo nhất",
+      "Quần chúng nhân dân giữ vai trò cơ quan hành chính cao nhất trong xử lý vi phạm pháp luật tại địa phương",
+      "ĐCSVN lãnh đạo tuyệt đối; Chính phủ quản lý thống nhất; CAND là cơ quan chuyên trách nòng cốt; QCND đông đảo nhất",
+      "Chính phủ giữ vai trò lãnh đạo tuyệt đối về chính trị; Lực lượng Công an nhân dân là lực lượng đông đảo nhất"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Trang 201–202 phân định rõ 4 chủ thể và vị trí của từng chủ thể: ĐCSVN (lãnh đạo tuyệt đối, trực tiếp về mọi mặt), Chính phủ (cơ quan hành chính cao nhất, thống nhất QLNN), Lực lượng CAND (cơ quan chuyên trách, lực lượng nòng cốt), Quần chúng nhân dân (lực lượng đông đảo nhất). (Dẫn chiếu: Mục 11.2.4.1, tr. 201–202)"
+  },
+  {
+    "id": 149,
+    "question": "Trong 7 nhóm giải pháp bảo vệ ANQG và bảo đảm TTATXH (mục 11.2.4.2, tr. 203–204), giải pháp bảo đảm an ninh xã hội và phòng chống tội phạm nhấn mạnh điểm gì?",
+    "options": [
+      "Giải quyết triệt để khiếu kiện vượt cấp, bảo đảm an ninh dân tộc - tôn giáo; chuyển hóa địa bàn trọng điểm không tội phạm",
+      "Hạn chế sự phối hợp giữa cơ quan điều tra với Viện Kiểm sát và Thanh tra để đẩy nhanh tiến độ xử lý vụ án",
+      "Ưu tiên thiết lập cơ quan liên lạc ở các nước xa xôi trước, chưa cần chú trọng các nước chung đường biên giới",
+      "Chỉ đấu tranh trên mặt trận kinh tế mà bỏ qua quản lý báo chí, xuất bản và phản biện các quan điểm sai trái"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Trang 203–204 nêu rõ: bảo đảm an ninh xã hội phải giải quyết triệt để mâu thuẫn xã hội nhất là khiếu kiện đông người vượt cấp, bảo đảm an ninh dân tộc - tôn giáo, nâng cao đời sống nhân dân; đấu tranh phòng chống tội phạm phải rà soát địa bàn trọng điểm để chuyển hóa thành địa bàn không có tội phạm, phối hợp chặt cơ quan điều tra với Viện Kiểm sát, Thanh tra; đối ngoại hợp tác trước mắt chú ý các nước chung đường biên giới đất liền. (Dẫn chiếu: Mục 11.2.4.2d–e, tr. 203–204)"
+  },
+  {
+    "id": 150,
+    "question": "Theo mục 11.2.4.3 (tr. 204–205), vì sao các thế lực thù địch chú ý địa bàn trường ĐH, CĐ để thực hiện 'diễn biến hòa bình' và sinh viên cần thái độ gì?",
+    "options": [
+      "Vì sinh viên có quyền tự do tuyệt đối lan truyền mọi thông tin chống đối dưới danh nghĩa phản biện xã hội",
+      "Vì sinh viên năng động, sáng tạo nhưng ít trải nghiệm; cần tích cực đấu tranh cái sai nhưng không để bị lợi dụng",
+      "Vì sinh viên hoàn toàn thờ ơ với chính trị; sinh viên chỉ cần đứng ngoài mọi vấn đề xã hội để tránh rắc rối",
+      "Vì sinh viên dễ bị kích động nên nhà trường cần cấm hoàn toàn sinh viên tham gia mọi hoạt động xã hội bên ngoài"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Trang 204 chỉ rõ lý do sâu xa và thái độ đúng mực mà sinh viên cần rèn luyện: sinh viên năng động, sáng tạo nhưng ít trải nghiệm cuộc sống nên là mục tiêu lừa phỉnh của 'diễn biến hòa bình'; cần phân biệt rạch ròi giữa tích cực đấu tranh chống sai trái, thoái hóa biến chất (xây dựng) với việc cảnh giác không để bị thế lực thù địch lợi dụng làm suy yếu, xóa bỏ vai trò lãnh đạo của Đảng và chế độ XHCN. (Dẫn chiếu: Mục 11.2.4.3, tr. 204–205)"
+  }
+]
