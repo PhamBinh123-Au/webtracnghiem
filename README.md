@@ -1,10 +1,10 @@
 # Web App Ôn Tập Trắc Nghiệm GDQP&AN – Học Phần I
 
-Ứng dụng web ôn tập trắc nghiệm **Học phần I: Đường lối quốc phòng và an ninh của Đảng Cộng sản Việt Nam** (150 câu hỏi, 11 bài học), xây dựng bằng **Vite + React + Tailwind CSS**.
+Ứng dụng web ôn tập trắc nghiệm **Học phần I: Đường lối quốc phòng và an ninh của Đảng Cộng sản Việt Nam** (386 câu hỏi theo Đề cương ôn tập Học phần 1, 11 bài học), xây dựng bằng **Vite + React + Tailwind CSS**.
 
 ## Tính năng chính
 
-- **150 câu hỏi trắc nghiệm 4 phương án** bám sát tập tài liệu lưu hành nội bộ (lưu tại `src/data/questionBank.json`), không gắn cứng chữ cái `A/B/C/D` vào nội dung phương án.
+- **386 câu hỏi trắc nghiệm 4 phương án** trích xuất 100% từ Đề cương ôn tập Học phần 1 & Tập tài liệu lưu hành nội bộ (lưu tại `src/data/questionBank.json`), không gắn cứng chữ cái `A/B/C/D` vào nội dung phương án.
 - **Thuật toán Fisher-Yates** xáo trộn ngẫu nhiên cả thứ tự câu hỏi lẫn vị trí 4 phương án ở mỗi lượt làm bài hoặc làm lại.
 - **Phản hồi tức thì**: chọn đáp án sẽ khóa câu hỏi ngay, tô màu xanh/đỏ, hiển thị đáp án đúng và giải thích kèm dẫn chiếu mục, số trang.
 - **Lưu tiến trình tự động (`localStorage`)**: tải lại trang (`F5`) không bị mất bài đang làm.

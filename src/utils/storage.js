@@ -1,4 +1,4 @@
-const STATE_KEY = "gdqpan_hp1_quiz_state_v1";
+const STATE_KEY = "gdqpan_hp1_quiz_state_v2";
 const PROFILE_KEY = "gdqpan_hp1_profile_v1";
 
 function safeGet(key) {

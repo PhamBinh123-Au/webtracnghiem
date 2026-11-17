@@ -32,7 +32,7 @@ export default function StartScreen({ totalQuestions, initialProfile, onStart })
           Ôn tập trắc nghiệm: Đường lối quốc phòng và an ninh của Đảng Cộng sản Việt Nam
         </h1>
         <p className="mt-2 text-sm text-white/90 sm:text-base">
-          Bộ câu hỏi bám sát tập tài liệu lưu hành nội bộ – Trung tâm GDQPAN&amp;TT, Đại học Đà Nẵng.
+          Bộ câu hỏi bám sát Đề cương ôn tập Học phần 1 &amp; Tập tài liệu lưu hành nội bộ – Trung tâm GDQPAN&amp;TT, Đại học Đà Nẵng.
         </p>
 
         <div className="mt-4 grid grid-cols-3 gap-2">
