@@ -4,7 +4,12 @@ function normalizeText(value) {
   return String(value || "").replace(/\s+/g, " ").trim();
 }
 
-export default function StartScreen({ totalQuestions, initialProfile, onStart }) {
+export default function StartScreen({
+  totalQuestions,
+  initialProfile,
+  onStart,
+  onSelectTab,
+}) {
   const [name, setName] = useState(initialProfile?.name || "");
   const [cls, setCls] = useState(initialProfile?.cls || "");
 
@@ -109,6 +114,25 @@ export default function StartScreen({ totalQuestions, initialProfile, onStart })
         >
           Bắt đầu làm bài ▶
         </button>
+
+        {onSelectTab && (
+          <div className="mt-4 flex flex-col gap-2 border-t border-slate-100 pt-4 sm:flex-row">
+            <button
+              type="button"
+              onClick={() => onSelectTab("lessons")}
+              className="inline-flex flex-1 items-center justify-center gap-1.5 rounded-xl border border-blue-200 bg-blue-50/70 px-3 py-2.5 text-xs font-bold text-blue-800 transition hover:bg-blue-100"
+            >
+              📚 Ôn tập riêng theo từng bài (11 bài) →
+            </button>
+            <button
+              type="button"
+              onClick={() => onSelectTab("docs")}
+              className="inline-flex flex-1 items-center justify-center gap-1.5 rounded-xl border border-slate-200 bg-slate-50 px-3 py-2.5 text-xs font-bold text-slate-700 transition hover:bg-slate-100"
+            >
+              📄 Xem giáo trình &amp; Đề cương PDF →
+            </button>
+          </div>
+        )}
 
         <div className="mt-4 text-sm text-slate-600">
           <b className="text-slate-800">Hướng dẫn:</b>

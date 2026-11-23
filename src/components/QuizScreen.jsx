@@ -6,6 +6,7 @@ export default function QuizScreen({
   questionBank,
   onPickOption,
   onNextQuestion,
+  onBack,
 }) {
   const btnNextRef = useRef(null);
   const total = state.total;
@@ -58,9 +59,27 @@ export default function QuizScreen({
     <section id="screen-quiz" aria-label="Làm bài">
       <div className="sticky top-0 z-10 -mx-1 mb-3 bg-slate-100/95 px-1 pb-2.5 pt-2 backdrop-blur-md">
         <div className="flex items-center justify-between gap-2.5">
-          <div id="quiz-who" className="min-w-0 truncate text-sm text-slate-500">
-            <b className="text-slate-900">{state.name}</b> • Lớp {state.cls}
+          <div className="flex min-w-0 items-center gap-2">
+            {onBack && (
+              <button
+                type="button"
+                onClick={onBack}
+                title="Quay lại"
+                className="inline-flex items-center gap-1 rounded-lg border border-slate-200 bg-white px-2 py-1 text-xs font-semibold text-slate-700 shadow-sm hover:border-blue-400 hover:text-blue-600"
+              >
+                ← Quay lại
+              </button>
+            )}
+            <div id="quiz-who" className="min-w-0 truncate text-sm text-slate-500">
+              <b className="text-slate-900">{state.name}</b> • Lớp {state.cls}
+              {state.lessonId && (
+                <span className="ml-1.5 inline-block rounded-md bg-blue-100 px-1.5 py-0.5 text-xs font-bold text-blue-800">
+                  Bài {state.lessonId}
+                </span>
+              )}
+            </div>
           </div>
+
           <div className="flex shrink-0 gap-1.5">
             <span
               className="whitespace-nowrap rounded-full bg-green-100 px-2.5 py-1 text-sm font-bold text-green-900"
@@ -79,7 +98,7 @@ export default function QuizScreen({
 
         <div className="mt-2 flex items-center justify-between text-xs font-semibold text-slate-700 sm:text-sm">
           <span id="progress-text">
-            Câu {state.idx + 1}/{total}
+            {state.lessonId ? `Bài ${state.lessonId} • ` : ""}Câu {state.idx + 1}/{total}
           </span>
           <span id="progress-pct">
             Đã làm {answeredCount} câu ({progressPct}%)
@@ -102,9 +121,13 @@ export default function QuizScreen({
       </div>
 
       <article className="rounded-2xl bg-white p-5 shadow-md sm:p-7">
-        <span className="mb-2.5 inline-block rounded-full bg-blue-50 px-3 py-1 text-xs font-extrabold text-blue-800 sm:text-sm">
-          Câu {state.idx + 1} / {total}
-        </span>
+        <div className="mb-2.5 flex items-center gap-2">
+          <span className="inline-block rounded-full bg-blue-50 px-3 py-1 text-xs font-extrabold text-blue-800 sm:text-sm">
+            {state.lessonId
+              ? `Bài ${state.lessonId} • Câu ${state.idx + 1} / ${total}`
+              : `Câu ${state.idx + 1} / ${total}`}
+          </span>
+        </div>
 
         <h2 className="mb-4 text-lg font-bold leading-snug text-slate-900 sm:text-xl">
           {question.question}

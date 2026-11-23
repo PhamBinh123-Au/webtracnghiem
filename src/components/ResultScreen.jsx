@@ -13,7 +13,15 @@ function getFeedbackBanner(score) {
   return { emoji: "💪", msg: "Chưa đạt. Đừng nản – hãy ôn lại và làm thêm lượt mới!" };
 }
 
-export default function ResultScreen({ state, questionBank, onRetry, onChangeStudent }) {
+export default function ResultScreen({
+  state,
+  questionBank,
+  onRetry,
+  onChangeStudent,
+  onBackToLessons,
+  onNextLesson,
+  onGoToLessons,
+}) {
   const total = state.total;
   let correctCount = 0;
   let wrongCount = 0;
@@ -46,7 +54,7 @@ export default function ResultScreen({ state, questionBank, onRetry, onChangeStu
         <div className="mb-5 text-center">
           <div className="text-5xl leading-none">{emoji}</div>
           <h2 id="result-title" className="mt-2.5 text-2xl font-extrabold text-slate-900">
-            Hoàn thành bài ôn tập!
+            {state.lessonId ? `Hoàn thành Bài ${state.lessonId}!` : "Hoàn thành bài ôn tập!"}
           </h2>
           <p className="mt-1.5 text-sm text-slate-500 sm:text-base">{msg}</p>
 
@@ -58,62 +66,75 @@ export default function ResultScreen({ state, questionBank, onRetry, onChangeStu
           >
             <div className="flex h-[118px] w-[118px] flex-col items-center justify-center rounded-full bg-white">
               <b className="text-3xl font-extrabold leading-none text-slate-900">
-                {formatNumber(Math.round(score * 10) / 10)}
+                {score.toFixed(1)}
               </b>
-              <span className="mt-1 text-xs text-slate-500">điểm / 10</span>
+              <span className="mt-1 text-xs font-semibold text-slate-500">
+                Thang 10
+              </span>
             </div>
           </div>
         </div>
 
         <div className="overflow-hidden rounded-xl border border-slate-200">
-          <table className="w-full border-collapse text-left text-base" aria-label="Bảng kết quả">
+          <table className="w-full text-left text-sm sm:text-base">
+            <caption className="sr-only">Bảng kết quả làm bài trắc nghiệm</caption>
             <tbody className="divide-y divide-slate-200">
               <tr>
-                <th scope="row" className="w-[46%] bg-slate-50 px-3.5 py-3 font-semibold text-slate-700">
+                <th scope="row" className="w-[46%] bg-slate-50 px-3.5 py-2.5 font-semibold text-slate-700">
                   Họ và tên
                 </th>
-                <td id="r-name" className="break-words px-3.5 py-3 font-bold text-slate-900">
+                <td id="r-name" className="px-3.5 py-2.5 font-bold text-slate-900">
                   {state.name}
                 </td>
               </tr>
               <tr>
-                <th scope="row" className="w-[46%] bg-slate-50 px-3.5 py-3 font-semibold text-slate-700">
+                <th scope="row" className="w-[46%] bg-slate-50 px-3.5 py-2.5 font-semibold text-slate-700">
                   Lớp
                 </th>
-                <td id="r-class" className="break-words px-3.5 py-3 font-bold text-slate-900">
+                <td id="r-class" className="px-3.5 py-2.5 text-slate-900">
                   {state.cls}
                 </td>
               </tr>
+              {state.lessonId && (
+                <tr>
+                  <th scope="row" className="w-[46%] bg-slate-50 px-3.5 py-2.5 font-semibold text-slate-700">
+                    Phần ôn tập
+                  </th>
+                  <td className="px-3.5 py-2.5 font-bold text-blue-700">
+                    Bài {state.lessonId} (theo đề cương)
+                  </td>
+                </tr>
+              )}
               <tr>
-                <th scope="row" className="w-[46%] bg-slate-50 px-3.5 py-3 font-semibold text-slate-700">
+                <th scope="row" className="w-[46%] bg-slate-50 px-3.5 py-2.5 font-semibold text-slate-700">
                   Tổng số câu
                 </th>
-                <td id="r-total" className="px-3.5 py-3 font-bold text-slate-900">
+                <td id="r-total" className="px-3.5 py-2.5 font-bold text-slate-900">
                   {total}
                 </td>
               </tr>
               <tr>
-                <th scope="row" className="w-[46%] bg-slate-50 px-3.5 py-3 font-semibold text-slate-700">
-                  Số câu Đúng
+                <th scope="row" className="w-[46%] bg-slate-50 px-3.5 py-2.5 font-semibold text-slate-700">
+                  Số câu đúng
                 </th>
-                <td id="r-ok" className="px-3.5 py-3 font-bold text-green-600">
+                <td id="r-ok" className="px-3.5 py-2.5 font-bold text-green-700">
                   {correctCount}
                 </td>
               </tr>
               <tr>
-                <th scope="row" className="w-[46%] bg-slate-50 px-3.5 py-3 font-semibold text-slate-700">
-                  Số câu Sai
+                <th scope="row" className="w-[46%] bg-slate-50 px-3.5 py-2.5 font-semibold text-slate-700">
+                  Số câu sai
                 </th>
-                <td id="r-bad" className="px-3.5 py-3 font-bold text-red-600">
+                <td id="r-bad" className="px-3.5 py-2.5 font-bold text-red-700">
                   {wrongCount}
                 </td>
               </tr>
               <tr>
-                <th scope="row" className="w-[46%] bg-slate-50 px-3.5 py-3 font-semibold text-slate-700">
+                <th scope="row" className="w-[46%] bg-slate-50 px-3.5 py-2.5 font-semibold text-slate-700">
                   Tỷ lệ đúng
                 </th>
-                <td id="r-pct" className="px-3.5 py-3 font-bold text-slate-900">
-                  {formatNumber(Math.round(pct * 100) / 100)}%
+                <td id="r-pct" className="px-3.5 py-2.5 text-slate-900">
+                  {formatNumber(pct)}%
                 </td>
               </tr>
               <tr>
@@ -158,23 +179,56 @@ export default function ResultScreen({ state, questionBank, onRetry, onChangeStu
           </details>
         )}
 
-        <div className="mt-5 grid gap-2.5 sm:grid-cols-2">
-          <button
-            id="btn-retry"
-            type="button"
-            onClick={onRetry}
-            className="inline-flex min-h-[54px] w-full cursor-pointer items-center justify-center rounded-xl bg-blue-600 px-5 py-3 text-base font-bold text-white shadow-md shadow-blue-600/25 transition hover:bg-blue-700 active:scale-[0.985] sm:text-lg"
-          >
-            ⟲ Làm lại bài tập
-          </button>
-          <button
-            id="btn-change"
-            type="button"
-            onClick={onChangeStudent}
-            className="inline-flex min-h-[54px] w-full cursor-pointer items-center justify-center rounded-xl bg-blue-50 px-5 py-3 text-base font-bold text-blue-800 transition hover:bg-blue-100 active:scale-[0.985] sm:text-lg"
-          >
-            Đổi người làm bài
-          </button>
+        <div className="mt-5 space-y-2.5">
+          <div className="grid gap-2.5 sm:grid-cols-2">
+            <button
+              id="btn-retry"
+              type="button"
+              onClick={onRetry}
+              className="inline-flex min-h-[52px] w-full cursor-pointer items-center justify-center rounded-xl bg-blue-600 px-5 py-3 text-base font-bold text-white shadow-md shadow-blue-600/25 transition hover:bg-blue-700 active:scale-[0.985] sm:text-lg"
+            >
+              ⟲ Làm lại {state.lessonId ? `Bài ${state.lessonId}` : "bài tập"}
+            </button>
+            <button
+              id="btn-change"
+              type="button"
+              onClick={onChangeStudent}
+              className="inline-flex min-h-[52px] w-full cursor-pointer items-center justify-center rounded-xl bg-slate-100 px-5 py-3 text-base font-bold text-slate-800 transition hover:bg-slate-200 active:scale-[0.985] sm:text-lg"
+            >
+              Đổi người làm bài
+            </button>
+          </div>
+
+          {state.lessonId ? (
+            <div className="grid gap-2.5 sm:grid-cols-2">
+              <button
+                type="button"
+                onClick={onBackToLessons}
+                className="inline-flex min-h-[46px] w-full cursor-pointer items-center justify-center rounded-xl border border-slate-300 bg-white px-4 py-2 text-sm font-bold text-slate-700 hover:bg-slate-50"
+              >
+                ← Danh sách 11 bài học
+              </button>
+              {onNextLesson && state.lessonId < 11 && (
+                <button
+                  type="button"
+                  onClick={() => onNextLesson(state.lessonId + 1)}
+                  className="inline-flex min-h-[46px] w-full cursor-pointer items-center justify-center rounded-xl bg-emerald-600 px-4 py-2 text-sm font-bold text-white hover:bg-emerald-700"
+                >
+                  Sang Bài {state.lessonId + 1} ▶
+                </button>
+              )}
+            </div>
+          ) : (
+            onGoToLessons && (
+              <button
+                type="button"
+                onClick={onGoToLessons}
+                className="inline-flex min-h-[46px] w-full cursor-pointer items-center justify-center rounded-xl border border-blue-200 bg-blue-50 px-4 py-2 text-sm font-bold text-blue-800 hover:bg-blue-100"
+              >
+                Luyện tập riêng theo từng bài học (11 bài) →
+              </button>
+            )
+          )}
         </div>
       </div>
     </section>

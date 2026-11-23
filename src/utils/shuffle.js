@@ -35,11 +35,16 @@ export function fisherYatesShuffle(items) {
 
 /**
  * Builds a fresh randomized quiz order:
- * - Shuffles question order [0 .. total - 1]
+ * - Shuffles question order (from total count or specific array of question bank indices)
  * - Shuffles option indices [0, 1, 2, 3] for each question
  */
-export function buildQuizItems(total) {
-  const indices = Array.from({ length: total }, (_, idx) => idx);
+export function buildQuizItems(target) {
+  let indices;
+  if (Array.isArray(target)) {
+    indices = target.slice();
+  } else {
+    indices = Array.from({ length: target }, (_, idx) => idx);
+  }
   return fisherYatesShuffle(indices).map((questionIndex) => ({
     q: questionIndex,
     p: fisherYatesShuffle([0, 1, 2, 3]),

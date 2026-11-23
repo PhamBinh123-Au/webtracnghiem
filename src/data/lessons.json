@@ -1,0 +1,123 @@
+[
+  {
+    "id": 1,
+    "title": "Đối tượng, nhiệm vụ và phương pháp nghiên cứu môn học GDQP&AN",
+    "shortTitle": "Bài 1: Đối tượng, nhiệm vụ và phương pháp",
+    "pages": "Tr. 2–14",
+    "count": 25,
+    "startIndex": 0,
+    "endIndex": 24,
+    "idRange": "1–25",
+    "summary": "Đường lối QP&AN, công tác QP&AN, quân sự chung, kỹ thuật & chiến thuật bộ binh; phương pháp luận Mác - Lênin & tư tưởng Hồ Chí Minh; 4 học phần 8 tín chỉ theo TT 05/2020/TT-BGDĐT."
+  },
+  {
+    "id": 2,
+    "title": "Quan điểm cơ bản của chủ nghĩa Mác - Lênin, tư tưởng Hồ Chí Minh về chiến tranh, quân đội và bảo vệ Tổ quốc",
+    "shortTitle": "Bài 2: Chiến tranh, quân đội và bảo vệ Tổ quốc",
+    "pages": "Tr. 15–33",
+    "count": 45,
+    "startIndex": 25,
+    "endIndex": 69,
+    "idRange": "26–70",
+    "summary": "Bản chất chính trị - xã hội của chiến tranh; nguồn gốc kinh tế và giai cấp; nguồn gốc & bản chất quân đội kiểu mới; quan điểm bảo vệ Tổ quốc XHCN của Mác - Lênin và Chủ tịch Hồ Chí Minh."
+  },
+  {
+    "id": 3,
+    "title": "Xây dựng nền quốc phòng toàn dân, an ninh nhân dân bảo vệ Tổ quốc Việt Nam XHCN",
+    "shortTitle": "Bài 3: Xây dựng nền QPTD & ANND",
+    "pages": "Tr. 34–52",
+    "count": 32,
+    "startIndex": 70,
+    "endIndex": 101,
+    "idRange": "71–102",
+    "summary": "Vị trí, đặc trưng và nội dung xây dựng nền QPTD, ANND vững mạnh; xây dựng tiềm lực chính trị tinh thần, kinh tế, quân sự - an ninh, khoa học công nghệ; thế trận QPTD gắn với ANND."
+  },
+  {
+    "id": 4,
+    "title": "Chiến tranh nhân dân bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa",
+    "shortTitle": "Bài 4: Chiến tranh nhân dân bảo vệ Tổ quốc",
+    "pages": "Tr. 53–67",
+    "count": 41,
+    "startIndex": 102,
+    "endIndex": 142,
+    "idRange": "103–143",
+    "summary": "Mục đích, đối tượng tác chiến, tính chất, đặc điểm của chiến tranh nhân dân; quan điểm cơ bản và phương thức tiến hành chiến tranh nhân dân toàn dân, toàn diện."
+  },
+  {
+    "id": 5,
+    "title": "Xây dựng lực lượng vũ trang nhân dân Việt Nam",
+    "shortTitle": "Bài 5: Xây dựng lực lượng vũ trang nhân dân",
+    "pages": "Tr. 68–80",
+    "count": 31,
+    "startIndex": 143,
+    "endIndex": 173,
+    "idRange": "144–174",
+    "summary": "Cơ cấu ba thứ quân (bộ đội chủ lực, bộ đội địa phương, dân quân tự vệ); phương hướng xây dựng cách mạng, chính quy, tinh nhuệ, từng bước hiện đại; nguyên tắc Đảng lãnh đạo tuyệt đối, trực tiếp về mọi mặt."
+  },
+  {
+    "id": 6,
+    "title": "Kết hợp phát triển kinh tế - xã hội với tăng cường quốc phòng, an ninh và đối ngoại",
+    "shortTitle": "Bài 6: Kết hợp KT-XH với QP, AN và đối ngoại",
+    "pages": "Tr. 81–102",
+    "count": 39,
+    "startIndex": 174,
+    "endIndex": 212,
+    "idRange": "175–213",
+    "summary": "Cơ sở lý luận và thực tiễn kết hợp; nội dung kết hợp trong chiến lược, quy hoạch vùng kinh tế, công nghiệp, nông nghiệp, giao thông, y tế, bưu chính viễn thông và hoạt động đối ngoại."
+  },
+  {
+    "id": 7,
+    "title": "Những vấn đề cơ bản về lịch sử nghệ thuật quân sự Việt Nam",
+    "shortTitle": "Bài 7: Lịch sử nghệ thuật quân sự Việt Nam",
+    "pages": "Tr. 103–122",
+    "count": 37,
+    "startIndex": 213,
+    "endIndex": 249,
+    "idRange": "214–250",
+    "summary": "Truyền thống đánh giặc của cha ông; ba bộ phận hợp thành (Chiến lược quân sự, Nghệ thuật chiến dịch, Chiến thuật); lấy nhỏ thắng lớn, lấy ít địch nhiều; vận dụng trong kháng chiến chống Pháp, Mỹ."
+  },
+  {
+    "id": 8,
+    "title": "Xây dựng và bảo vệ chủ quyền biển, đảo, biên giới quốc gia trong tình hình mới",
+    "shortTitle": "Bài 8: Chủ quyền biển, đảo, biên giới quốc gia",
+    "pages": "Tr. 123–150",
+    "count": 34,
+    "startIndex": 250,
+    "endIndex": 283,
+    "idRange": "251–284",
+    "summary": "Vùng biển VN theo Luật Biển 2012 (nội thủy, lãnh hải, tiếp giáp lãnh hải, vùng đặc quyền kinh tế, thềm lục địa); chủ quyền Hoàng Sa, Trường Sa; bảo vệ biên giới trên đất liền, trên không, trên biển."
+  },
+  {
+    "id": 9,
+    "title": "Xây dựng lực lượng Dân quân tự vệ, lực lượng dự bị động viên và động viên quốc phòng",
+    "shortTitle": "Bài 9: DQTV, Dự bị động viên & Động viên QP",
+    "pages": "Tr. 151–164",
+    "count": 36,
+    "startIndex": 284,
+    "endIndex": 319,
+    "idRange": "285–320",
+    "summary": "Vị trí, vai trò, thành phần tổ chức Dân quân tự vệ theo Luật DQTV 2019; xây dựng lực lượng dự bị động viên; nội dung và phương thức động viên quốc phòng."
+  },
+  {
+    "id": 10,
+    "title": "Xây dựng phong trào toàn dân bảo vệ an ninh Tổ quốc",
+    "shortTitle": "Bài 10: Phong trào toàn dân bảo vệ an ninh Tổ quốc",
+    "pages": "Tr. 165–185",
+    "count": 31,
+    "startIndex": 320,
+    "endIndex": 350,
+    "idRange": "321–351",
+    "summary": "Vị trí, ý nghĩa, nội dung và hình thức xây dựng phong trào ở cơ quan, doanh nghiệp, trường học, khu dân cư; phương pháp tuyên truyền, vận động quần chúng tham gia giữ gìn an ninh trật tự."
+  },
+  {
+    "id": 11,
+    "title": "Những vấn đề cơ bản về bảo vệ an ninh quốc gia và bảo đảm trật tự, an toàn xã hội",
+    "shortTitle": "Bài 11: An ninh quốc gia & Trật tự an toàn xã hội",
+    "pages": "Tr. 186–206",
+    "count": 35,
+    "startIndex": 351,
+    "endIndex": 385,
+    "idRange": "352–386",
+    "summary": "Khái niệm an ninh quốc gia, trật tự ATXH; các nguy cơ đe dọa an ninh; nhiệm vụ, nguyên tắc, biện pháp bảo vệ ANQG; phòng ngừa và đấu tranh chống tội phạm, tệ nạn xã hội."
+  }
+]

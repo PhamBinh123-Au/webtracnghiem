@@ -1,5 +1,7 @@
-const STATE_KEY = "gdqpan_hp1_quiz_state_v2";
+const TAB_KEY = "gdqpan_hp1_active_tab_v3";
 const PROFILE_KEY = "gdqpan_hp1_profile_v1";
+const GENERAL_STATE_KEY = "gdqpan_hp1_quiz_state_general_v3";
+const LESSON_KEY_PREFIX = "gdqpan_hp1_quiz_state_lesson_v3_";
 
 function safeGet(key) {
   try {
@@ -14,7 +16,7 @@ function safeSet(key, value) {
   try {
     localStorage.setItem(key, JSON.stringify(value));
   } catch {
-    // Ignore storage errors (private browsing or quota exceeded)
+    // Ignore storage errors (quota or private mode)
   }
 }
 
@@ -26,16 +28,17 @@ function safeRemove(key) {
   }
 }
 
-export function isValidQuizState(state, totalQuestions) {
+export function isValidQuizState(state, expectedTotal) {
+  if (!state || state.v !== 1) return false;
+  const count = typeof expectedTotal === "number" ? expectedTotal : state.total;
   return Boolean(
-    state &&
-      state.v === 1 &&
-      state.total === totalQuestions &&
+    typeof count === "number" &&
+      state.total === count &&
       Array.isArray(state.items) &&
-      state.items.length === totalQuestions &&
+      state.items.length === count &&
       typeof state.idx === "number" &&
       state.idx >= 0 &&
-      state.idx < totalQuestions &&
+      state.idx < count &&
       Array.isArray(state.picks) &&
       typeof state.name === "string" &&
       typeof state.cls === "string" &&
@@ -43,23 +46,20 @@ export function isValidQuizState(state, totalQuestions) {
   );
 }
 
-export function loadQuizState(totalQuestions) {
-  const saved = safeGet(STATE_KEY);
-  if (isValidQuizState(saved, totalQuestions)) {
-    return saved;
+// Active Tab
+export function loadActiveTab(defaultTab = "general") {
+  const tab = safeGet(TAB_KEY);
+  if (tab === "general" || tab === "lessons" || tab === "docs") {
+    return tab;
   }
-  safeRemove(STATE_KEY);
-  return null;
+  return defaultTab;
 }
 
-export function saveQuizState(state) {
-  if (state) safeSet(STATE_KEY, state);
+export function saveActiveTab(tab) {
+  safeSet(TAB_KEY, tab);
 }
 
-export function clearQuizState() {
-  safeRemove(STATE_KEY);
-}
-
+// Student Profile (shared)
 export function loadProfile() {
   const profile = safeGet(PROFILE_KEY);
   if (profile && typeof profile.name === "string" && typeof profile.cls === "string") {
@@ -75,3 +75,69 @@ export function saveProfile(name, cls) {
 export function clearProfile() {
   safeRemove(PROFILE_KEY);
 }
+
+// General Quiz State (386 questions)
+export function loadGeneralQuizState(totalQuestions) {
+  const saved = safeGet(GENERAL_STATE_KEY);
+  if (isValidQuizState(saved, totalQuestions)) {
+    return saved;
+  }
+  return null;
+}
+
+export function saveGeneralQuizState(state) {
+  if (state) safeSet(GENERAL_STATE_KEY, state);
+}
+
+export function clearGeneralQuizState() {
+  safeRemove(GENERAL_STATE_KEY);
+}
+
+// Lesson Quiz State
+export function loadLessonQuizState(lessonId, expectedCount) {
+  const key = `${LESSON_KEY_PREFIX}${lessonId}`;
+  const saved = safeGet(key);
+  if (isValidQuizState(saved, expectedCount)) {
+    return saved;
+  }
+  return null;
+}
+
+export function saveLessonQuizState(lessonId, state) {
+  if (lessonId && state) {
+    safeSet(`${LESSON_KEY_PREFIX}${lessonId}`, state);
+  }
+}
+
+export function clearLessonQuizState(lessonId) {
+  if (lessonId) {
+    safeRemove(`${LESSON_KEY_PREFIX}${lessonId}`);
+  }
+}
+
+// Get overview status for all 11 lessons
+export function loadAllLessonSummaries(lessons = []) {
+  const summaries = {};
+  for (const l of lessons) {
+    const key = `${LESSON_KEY_PREFIX}${l.id}`;
+    const saved = safeGet(key);
+    if (isValidQuizState(saved, l.count)) {
+      summaries[l.id] = {
+        screen: saved.screen,
+        idx: saved.idx,
+        total: saved.total,
+        correct: saved.correct,
+        wrong: saved.wrong,
+        completed: saved.screen === "result",
+      };
+    } else {
+      summaries[l.id] = null;
+    }
+  }
+  return summaries;
+}
+
+// Legacy aliases for backward compatibility
+export const loadQuizState = loadGeneralQuizState;
+export const saveQuizState = saveGeneralQuizState;
+export const clearQuizState = clearGeneralQuizState;
